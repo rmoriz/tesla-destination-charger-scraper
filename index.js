@@ -3,8 +3,19 @@ const request = require('request')
 const fs = require('fs')
 const path = require('path')
 const moment = require('moment')
+const mkdirp = require('mkdirp')
 
-request('https://www.tesla.com/de_DE/findus/list/chargers/Germany', function (error, response, html) {
+var country = process.argv[2]
+
+if (country === undefined) {
+  country = 'Germany'
+}
+
+country = country.charAt(0).toUpperCase() + country.slice(1)
+
+console.log('processing country: ' + country)
+
+request('https://www.tesla.com/de_DE/findus/list/chargers/' + country, function (error, response, html) {
   if (!error && response.statusCode === 200) {
     const $ = cheerio.load(html)
 
@@ -23,8 +34,8 @@ request('https://www.tesla.com/de_DE/findus/list/chargers/Germany', function (er
 
     console.log(dchargerList.length)
 
-    var dataDirectory = path.join(process.cwd(), 'data')
-    fs.existsSync(dataDirectory) || fs.mkdirSync(dataDirectory)
+    var dataDirectory = path.join(process.cwd(), 'data', country)
+    fs.existsSync(dataDirectory) || mkdirp.sync(dataDirectory)
 
     var filename = moment().format('YYYY-MM-DD') + '.json'
     fs.writeFileSync(path.join(dataDirectory, filename), JSON.stringify(dchargerList, null, 2))
