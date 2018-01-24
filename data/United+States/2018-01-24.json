@@ -909,6 +909,15 @@
     "tel": "(479) 750-7500"
   },
   {
+    "id": "dc30389",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30389",
+    "name": "Electric Cooperatives of Arkansas",
+    "street": "1 Cooperative Wy",
+    "extended": "",
+    "locality": "Little Rock, Arkansas 72209",
+    "tel": "(501) 570-2200"
+  },
+  {
     "id": "dc28336",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28336",
     "name": "Embassy Suites by Hilton Little Rock",
@@ -1258,6 +1267,15 @@
     "extended": "",
     "locality": "Anaheim, CA 92802",
     "tel": "(714) 750-8000"
+  },
+  {
+    "id": "dc32879",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32879",
+    "name": "Anchor Beach Inn Crescent City",
+    "street": "880 US Hwy 101 S",
+    "extended": "",
+    "locality": "Crescent City, California 95531",
+    "tel": "(707) 464-2600"
   },
   {
     "id": "dc13472",
@@ -2952,15 +2970,6 @@
     "tel": "(760) 320-8866"
   },
   {
-    "id": "dc25520",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25520",
-    "name": "Holiday Inn Express & Suites",
-    "street": "1410 Ocean St",
-    "extended": "",
-    "locality": "Santa Cruz, California 95060",
-    "tel": "(831) 466-9100"
-  },
-  {
     "id": "dc2803",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2803",
     "name": "Holiday Inn Express & Suites",
@@ -2968,6 +2977,15 @@
     "extended": "",
     "locality": "Carpinteria, CA 93013",
     "tel": "(805) 566-9499"
+  },
+  {
+    "id": "dc25520",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25520",
+    "name": "Holiday Inn Express & Suites",
+    "street": "1410 Ocean St",
+    "extended": "",
+    "locality": "Santa Cruz, California 95060",
+    "tel": "(831) 466-9100"
   },
   {
     "id": "dc3938",
@@ -3319,6 +3337,15 @@
     "extended": "",
     "locality": "Palm Desert, CA 92260",
     "tel": "(760) 341-2211"
+  },
+  {
+    "id": "dc30758",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30758",
+    "name": "JW Marriott Santa Monica Le Merigot",
+    "street": "1740 Ocean Ave",
+    "extended": "",
+    "locality": "Santa Monica, California 90401",
+    "tel": "(310) 395-9700"
   },
   {
     "id": "dc12928",
@@ -4329,6 +4356,15 @@
     "tel": "(707) 944-8200"
   },
   {
+    "id": "dc32878",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32878",
+    "name": "Quality Inn - Redwoods Area",
+    "street": "1209 4th St",
+    "extended": "",
+    "locality": "Eureka, California 95501",
+    "tel": "(707) 443-1601"
+  },
+  {
     "id": "dc15786",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15786",
     "name": "Quivira Vineyards",
@@ -4428,6 +4464,69 @@
     "tel": "(562) 437-5900"
   },
   {
+    "id": "dc15918",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15918",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "West Hollywood, 90069",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc4985",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4985",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Palm Springs, CA 92262",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc26646",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26646",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Kenwood, California 95452",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc17992",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17992",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Stinson Beach, 94970",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc4975",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4975",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Pacific Grove, CA 93950",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12506",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12506",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Solana Beach, CA 92075",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc16863",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16863",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Palm Springs, 92262",
+    "tel": "(877) 798-3752"
+  },
+  {
     "id": "dc4980",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4980",
     "name": "Rental Property",
@@ -4446,39 +4545,12 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc15918",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15918",
+    "id": "dc23205",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23205",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "West Hollywood, 90069",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc11163",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11163",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "San Luis Obispo, 93405",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc17992",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17992",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Stinson Beach, 94970",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc16863",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16863",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Palm Springs, 92262",
+    "locality": "Joshua Tree, CA 92252",
     "tel": "(877) 798-3752"
   },
   {
@@ -4491,39 +4563,12 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12274",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12274",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Indio, CA 92203",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc12506",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12506",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Solana Beach, CA 92075",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc4985",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4985",
+    "id": "dc4981",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4981",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Palm Springs, CA 92262",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc17470",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17470",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "San Luis Obispo, 93405",
     "tel": "(877) 798-3752"
   },
   {
@@ -4536,39 +4581,12 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc21534",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21534",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Truckee, 96161",
-    "tel": "(877) 798-3752"
-  },
-  {
     "id": "dc20245",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20245",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Sugarloaf, 92386",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc21492",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21492",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Escondido, CA 92025",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc17995",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17995",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Big Bear Lake, California 92315",
     "tel": "(877) 798-3752"
   },
   {
@@ -4581,15 +4599,6 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc15263",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15263",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Novato, CA 94949",
-    "tel": "(877) 798-3752"
-  },
-  {
     "id": "dc4977",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4977",
     "name": "Rental Property",
@@ -4599,12 +4608,12 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc20109",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20109",
+    "id": "dc15263",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15263",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Santa Barbara, 93111",
+    "locality": "Novato, CA 94949",
     "tel": "(877) 798-3752"
   },
   {
@@ -4617,48 +4626,21 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc4981",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4981",
+    "id": "dc21534",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21534",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Palm Springs, CA 92262",
+    "locality": "Truckee, 96161",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc4982",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4982",
+    "id": "dc17995",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17995",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Monterey, CA 93940",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc4983",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4983",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Palm Springs, CA 92262",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc12515",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12515",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Santa Cruz, CA 95062",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc4975",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4975",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Pacific Grove, CA 93950",
+    "locality": "Big Bear Lake, California 92315",
     "tel": "(877) 798-3752"
   },
   {
@@ -4671,111 +4653,12 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12275",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12275",
+    "id": "dc4982",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4982",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "La Quinta, CA 92253",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc13162",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13162",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "San Luis Obispo, CA 93401",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc14365",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14365",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Healdsburg, CA 95448",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc12924",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12924",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Pioneertown, CA 92268",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc12929",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12929",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Joshua Tree, CA 92252",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc14319",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14319",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Oregon House, CA 95962",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc13090",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13090",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "San Francisco, CA 94131",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc13812",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13812",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "South Lake Tahoe, CA 96150",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc13752",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13752",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Grass Valley, CA 95949",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc14492",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14492",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Newbury Park, CA 91320",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc12508",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12508",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Auburn, CA 95603",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc15719",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15719",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Tahoe City, CA 96145",
+    "locality": "Monterey, CA 93940",
     "tel": "(877) 798-3752"
   },
   {
@@ -4788,39 +4671,75 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc18628",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18628",
+    "id": "dc4983",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4983",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "South Lake Tahoe, 96150",
+    "locality": "Palm Springs, CA 92262",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc18404",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18404",
+    "id": "dc20109",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20109",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Truckee, 96161",
+    "locality": "Santa Barbara, 93111",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc17355",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17355",
+    "id": "dc17470",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17470",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Truckee, 96161",
+    "locality": "San Luis Obispo, 93405",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc23205",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23205",
+    "id": "dc14319",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14319",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Joshua Tree, CA 92252",
+    "locality": "Oregon House, CA 95962",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc21492",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21492",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Escondido, CA 92025",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc13137",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13137",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Coarsegold, CA 93614",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12979",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12979",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Venice, CA 90291",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12515",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12515",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Santa Cruz, CA 95062",
     "tel": "(877) 798-3752"
   },
   {
@@ -4833,48 +4752,39 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12280",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12280",
+    "id": "dc17355",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17355",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Davis, CA 95616",
+    "locality": "Truckee, 96161",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12577",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12577",
+    "id": "dc18404",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18404",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Monterey Park, CA 91754",
+    "locality": "Truckee, 96161",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc14275",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14275",
+    "id": "dc18628",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18628",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "San Francisco, CA 94124",
+    "locality": "South Lake Tahoe, 96150",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12516",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12516",
+    "id": "dc13162",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13162",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Pescadero, CA 94060",
-    "tel": "(877) 798-3752"
-  },
-  {
-    "id": "dc13137",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13137",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Coarsegold, CA 93614",
+    "locality": "San Luis Obispo, CA 93401",
     "tel": "(877) 798-3752"
   },
   {
@@ -4896,30 +4806,111 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12979",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12979",
+    "id": "dc14492",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14492",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Venice, CA 90291",
+    "locality": "Newbury Park, CA 91320",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12986",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12986",
+    "id": "dc12924",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12924",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Palm Springs, CA 92264",
+    "locality": "Pioneertown, CA 92268",
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc26646",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26646",
+    "id": "dc12280",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12280",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Kenwood, California 95452",
+    "locality": "Davis, CA 95616",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12508",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12508",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Auburn, CA 95603",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc14275",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14275",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "San Francisco, CA 94124",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12275",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12275",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "La Quinta, CA 92253",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12516",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12516",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Pescadero, CA 94060",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12929",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12929",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Joshua Tree, CA 92252",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc13812",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13812",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "South Lake Tahoe, CA 96150",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc13209",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13209",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "South Lake Tahoe, CA 96150",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc15719",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15719",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Tahoe City, CA 96145",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc14365",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14365",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Healdsburg, CA 95448",
     "tel": "(877) 798-3752"
   },
   {
@@ -4932,6 +4923,33 @@
     "tel": "(877) 798-3752"
   },
   {
+    "id": "dc13752",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13752",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Grass Valley, CA 95949",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc13090",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13090",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "San Francisco, CA 94131",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12274",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12274",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Indio, CA 92203",
+    "tel": "(877) 798-3752"
+  },
+  {
     "id": "dc13620",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13620",
     "name": "Rental Property",
@@ -4941,12 +4959,30 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc13209",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13209",
+    "id": "dc12986",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12986",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "South Lake Tahoe, CA 96150",
+    "locality": "Palm Springs, CA 92264",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12577",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12577",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Monterey Park, CA 91754",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc11163",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11163",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "San Luis Obispo, 93405",
     "tel": "(877) 798-3752"
   },
   {
@@ -5931,6 +5967,15 @@
     "tel": "(650) 851-8541"
   },
   {
+    "id": "dc21862",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21862",
+    "name": "The Murieta Inn & Spa",
+    "street": "7337 Murieta Dr",
+    "extended": "",
+    "locality": "Rancho Murieta, California 95683",
+    "tel": "(916) 354-3900"
+  },
+  {
     "id": "dc5164",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5164",
     "name": "The Oaks Hotel Paso Robles",
@@ -6111,6 +6156,15 @@
     "tel": "(213) 624-1000"
   },
   {
+    "id": "dc28067",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28067",
+    "name": "The Westin Mission Hills Golf Resort & Spa",
+    "street": "71333 Dinah Shore Dr",
+    "extended": "",
+    "locality": "Rancho Mirage, California 92270",
+    "tel": "(760) 328-5955"
+  },
+  {
     "id": "dc727",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc727",
     "name": "The Willows Historic Palm Springs Inn",
@@ -6172,6 +6226,15 @@
     "extended": "",
     "locality": "San Diego, California 92109",
     "tel": "(858) 270-2323"
+  },
+  {
+    "id": "dc32554",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32554",
+    "name": "Town House Motel - Historic Old Town",
+    "street": "933 4th St",
+    "extended": "",
+    "locality": "Eureka, California 95501",
+    "tel": "(707) 443-4536"
   },
   {
     "id": "dc6252",
@@ -7533,6 +7596,15 @@
     "tel": "(860) 567-9600"
   },
   {
+    "id": "dc25155",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25155",
+    "name": "DogFish Head Brewery",
+    "street": "6 Cannery Village Center",
+    "extended": "",
+    "locality": "MIlton, Delaware 19968",
+    "tel": "(302) 684-1000"
+  },
+  {
     "id": "dc261",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc261",
     "name": "Hyatt Place Dewey Beach",
@@ -7866,6 +7938,15 @@
     "tel": "(954) 491-3170"
   },
   {
+    "id": "dc13941",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13941",
+    "name": "Bay Palms Waterfront Resort - Hotel & Marina",
+    "street": "4237 Gulf Blvd",
+    "extended": "",
+    "locality": "Saint Pete Beach, Florida 33706",
+    "tel": "(727) 367-2791"
+  },
+  {
     "id": "dc13940",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13940",
     "name": "Bayview Plaza Waterfront Resort/Hotel- St Pete Beach",
@@ -7974,6 +8055,15 @@
     "tel": "(866) 779-2545"
   },
   {
+    "id": "dc24042",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24042",
+    "name": "Carillon Miami Wellness Resort",
+    "street": "6801 Collins Ave",
+    "extended": "",
+    "locality": "Miami Beach, Florida 33141",
+    "tel": "(866) 800-3858"
+  },
+  {
     "id": "dc5150",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5150",
     "name": "Casa Grandview Historic Luxury Inn Cottages and Suites",
@@ -8055,15 +8145,6 @@
     "tel": "(407) 363-8000"
   },
   {
-    "id": "dc18383",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18383",
-    "name": "Columbia Restaurant",
-    "street": "98 St George St",
-    "extended": "",
-    "locality": "St Augustine, FL 32084",
-    "tel": "(904) 824-3341"
-  },
-  {
     "id": "dc13633",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13633",
     "name": "Columbia Restaurant",
@@ -8071,6 +8152,15 @@
     "extended": "",
     "locality": "Tampa, Florida 33605",
     "tel": "(813) 248-4961"
+  },
+  {
+    "id": "dc18383",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18383",
+    "name": "Columbia Restaurant",
+    "street": "98 St George St",
+    "extended": "",
+    "locality": "St Augustine, FL 32084",
+    "tel": "(904) 824-3341"
   },
   {
     "id": "dc24082",
@@ -11563,6 +11653,15 @@
     "extended": "",
     "locality": "Lafayette, Indiana 47905",
     "tel": "(765) 446-0900"
+  },
+  {
+    "id": "dc33462",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33462",
+    "name": "Eddie Merlot's Prime Aged Beef & Seafood",
+    "street": "3645 E 96th St",
+    "extended": "",
+    "locality": "Indianapolis, Indiana 46240",
+    "tel": "(317) 846-8303"
   },
   {
     "id": "dc28216",
@@ -15975,6 +16074,15 @@
     "tel": "(716) 372-1300"
   },
   {
+    "id": "dc39557",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39557",
+    "name": "Best Western Rochester Marketplace Inn",
+    "street": "940 Jefferson Rd",
+    "extended": "",
+    "locality": "Rochester, New York 14623",
+    "tel": "(585) 427-2700"
+  },
+  {
     "id": "dc2302",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2302",
     "name": "Best Western University Inn",
@@ -16146,21 +16254,21 @@
     "tel": "(607) 795-5900"
   },
   {
-    "id": "dc24046",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24046",
-    "name": "Courtyard by Marriott Kingston",
-    "street": "500 Frank Sottile Blvd",
-    "extended": "",
-    "locality": "Kingston, NY 12401",
-    "tel": "(845) 382-2300"
-  },
-  {
     "id": "dc37717",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37717",
     "name": "Courtyard by Marriott Kingston",
     "street": "500 Frank Sottile Blvd",
     "extended": "",
     "locality": "Kingston, New York 12401",
+    "tel": "(845) 382-2300"
+  },
+  {
+    "id": "dc24046",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24046",
+    "name": "Courtyard by Marriott Kingston",
+    "street": "500 Frank Sottile Blvd",
+    "extended": "",
+    "locality": "Kingston, NY 12401",
     "tel": "(845) 382-2300"
   },
   {
@@ -16254,6 +16362,15 @@
     "tel": "(716) 372-7500"
   },
   {
+    "id": "dc39556",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39556",
+    "name": "Fairfield Inn & Suites by Marriott Rochester West",
+    "street": "400 Paddy Creek Cir",
+    "extended": "",
+    "locality": "Rochester, New York 14623",
+    "tel": "(585) 621-6050"
+  },
+  {
     "id": "dc33569",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33569",
     "name": "Fairfield Inn by Marriott Binghamton",
@@ -16270,6 +16387,15 @@
     "extended": "",
     "locality": "Corning, New York 14830",
     "tel": "(607) 937-9600"
+  },
+  {
+    "id": "dc39639",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39639",
+    "name": "Fairfield Inn by Marriott Rochester South",
+    "street": "4695 W Henrietta Rd",
+    "extended": "",
+    "locality": "Rochester, New York 14623",
+    "tel": "(585) 334-3350"
   },
   {
     "id": "dc33109",
@@ -16693,6 +16819,15 @@
     "extended": "",
     "locality": "Painted Post, New York 14870",
     "tel": "(607) 936-3344"
+  },
+  {
+    "id": "dc36197",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36197",
+    "name": "Holiday Inn Hotel & Suites Rochester - Marketplace",
+    "street": "800 Jefferson Rd",
+    "extended": "",
+    "locality": "Rochester, New York 14623",
+    "tel": "(585) 475-9190"
   },
   {
     "id": "dc18839",
@@ -17910,21 +18045,21 @@
     "tel": "(877) 798-3752"
   },
   {
-    "id": "dc12651",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12651",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Fort Montgomery, NY 10922",
-    "tel": "(877) 798-3752"
-  },
-  {
     "id": "dc19181",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19181",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Dryden, 13053",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12651",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12651",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Fort Montgomery, NY 10922",
     "tel": "(877) 798-3752"
   },
   {
@@ -18628,6 +18763,15 @@
     "extended": "",
     "locality": "Asheville, NC 28801",
     "tel": "(828) 255-0027"
+  },
+  {
+    "id": "dc706",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc706",
+    "name": "Aloft Charlotte Ballantyne",
+    "street": "13139 Ballantyne Corporate Pl",
+    "extended": "",
+    "locality": "Charlotte, North Carolina 28277",
+    "tel": "(704) 247-2222"
   },
   {
     "id": "dc10999",
@@ -20385,13 +20529,13 @@
     "tel": "(503) 283-4466"
   },
   {
-    "id": "dc15915",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15915",
-    "name": "Rental Property",
-    "street": "Available via website",
+    "id": "dc31392",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31392",
+    "name": "RedTail Inn",
+    "street": "550 E Main St",
     "extended": "",
-    "locality": "Bend, 97703",
-    "tel": "(877) 798-3752"
+    "locality": "Ashland, Oregon 97520",
+    "tel": "(877) 411-5545"
   },
   {
     "id": "dc22984",
@@ -20400,6 +20544,15 @@
     "street": "Available via website",
     "extended": "",
     "locality": "Portland, OR 97211",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc15915",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15915",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Bend, 97703",
     "tel": "(877) 798-3752"
   },
   {
@@ -20988,6 +21141,15 @@
     "tel": "(215) 616 8500"
   },
   {
+    "id": "dc34202",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34202",
+    "name": "Pine Point Plaza & Carwash",
+    "street": "404 PA-903",
+    "extended": "",
+    "locality": "Lake Harmony, Pennsylvania 18624",
+    "tel": "(570) 722-0301"
+  },
+  {
     "id": "dc14966",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14966",
     "name": "Pour Richard's Coffee Company",
@@ -21490,6 +21652,15 @@
     "extended": "",
     "locality": "Hilton Head Island, South Carolina 29928",
     "tel": "(843) 842-2400"
+  },
+  {
+    "id": "dc37435",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37435",
+    "name": "Staybridge Suites Greenville I-85 Woodruff Road",
+    "street": "31 Market Point Dr",
+    "extended": "",
+    "locality": "Greenville, South Carolina 29607",
+    "tel": "(864) 288-4448"
   },
   {
     "id": "dc2249",
@@ -26656,6 +26827,15 @@
     "extended": "",
     "locality": "Sheridan, WY 82801",
     "tel": "(307) 673-2734"
+  },
+  {
+    "id": "dc33125",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33125",
+    "name": "Heartland Inn & Suites",
+    "street": "1556 Sherard Rd",
+    "extended": "",
+    "locality": "Wheatland, Wyoming 82201",
+    "tel": "(307) 322-9891"
   },
   {
     "id": "dc792",

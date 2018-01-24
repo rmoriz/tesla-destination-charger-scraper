@@ -351,6 +351,15 @@
     "tel": " +43 3334 2262"
   },
   {
+    "id": "dc36027",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36027",
+    "name": "BergSPA & Hotel Zamangspitze",
+    "street": "Ziggamweg 227",
+    "extended": "",
+    "locality": "6791 St. Gallenkirch",
+    "tel": " +43 5557 6238"
+  },
+  {
     "id": "dc14159",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14159",
     "name": "Berghotel Der Koenigsleitner",
@@ -3076,6 +3085,15 @@
     "extended": "",
     "locality": "5753 Saalbach",
     "tel": " +43 6541 6481"
+  },
+  {
+    "id": "dc35265",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35265",
+    "name": "Tennerhof Gourmet & Spa de Charme Hotel",
+    "street": "Griesenauweg 26",
+    "extended": "",
+    "locality": "6370 Kitzbuehel",
+    "tel": " +43 5356 63181"
   },
   {
     "id": "dc18355",
