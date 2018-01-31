@@ -29,7 +29,7 @@
     }
   },
   "scripts": {
-    "fetch": "node index.js Germany Switzerland Austria United+States",
+    "fetch": "node index.js Germany Switzerland Austria United+States France Liechtenstein Luxembourg Netherlands",
     "lint": "eslint index.js --fix --format table"
   }
 }

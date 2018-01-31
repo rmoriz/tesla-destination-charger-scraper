@@ -1,0 +1,29 @@
+[
+  {
+    "id": "dc11688",
+    "url": "https://www.tesla.com/findus/location/charger/dc11688",
+    "name": "Park Hotel Sonnenhof",
+    "street": "29 Mareestraße",
+    "extended": "",
+    "locality": "9490 Vaduz",
+    "tel": " +423 239 02 02"
+  },
+  {
+    "id": "dc19357",
+    "url": "https://www.tesla.com/findus/location/charger/dc19357",
+    "name": "Restaurant Fago",
+    "street": "St. Luzistrasse 22",
+    "extended": "",
+    "locality": "9492 Eschen",
+    "tel": " +423 3711 414"
+  },
+  {
+    "id": "dc18344",
+    "url": "https://www.tesla.com/findus/location/charger/dc18344",
+    "name": "kommod",
+    "street": "14 Industriering",
+    "extended": "",
+    "locality": "9491 Ruggell",
+    "tel": " +423 377 37 77"
+  }
+]
