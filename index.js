@@ -22,7 +22,7 @@ console.log(
 countries.forEach((country) => {
   const normalizedCountry = country.charAt(0).toUpperCase() + country.slice(1);
 
-  request(`https://www.tesla.com/findus/list/chargers/${normalizedCountry}`, (error, response, html) => {
+  request(`https://www.tesla.com/de_DE/findus/list/chargers/${normalizedCountry}`, (error, response, html) => {
     if (!error && response.statusCode === 200) {
       const $ = cheerio.load(html);
 
