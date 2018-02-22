@@ -29,7 +29,7 @@
     }
   },
   "scripts": {
-    "fetch": "node index.js Germany Switzerland Austria United+States France Liechtenstein Luxembourg Netherlands",
+    "fetch": "node index.js Germany Switzerland Austria United+States Canada Mexico Bosnia+and+Herzegovina Andorra France Liechtenstein Luxembourg Netherlands Norway Poland Belgium Denmark Luxembourg Czech+Republic Finland Croatia Gibraltar Hungary Ireland Italy Portugal San+Marino Serbia Slovakia Slovenia Spain Sweden United+Kingdom Australia China Hong+Kong Japan Macau New+Zealand South+Korea Taiwan Jordan United+Arab+Emirates",
     "lint": "eslint index.js --fix --format table"
   }
 }
