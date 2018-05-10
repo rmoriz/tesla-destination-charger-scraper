@@ -50,6 +50,11 @@ countries.forEach((country) => {
         path.join(dataDirectory, filename),
         JSON.stringify(dchargerList, null, 2)
       );
+
+      fs.writeFileSync(
+        path.join(dataDirectory, "latest.json"),
+        JSON.stringify(dchargerList, null, 2)
+      );
     }
   });
 });

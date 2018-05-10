@@ -1,0 +1,632 @@
+[
+  {
+    "id": "dc39491",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39491",
+    "name": "A1 Parking, Lei Yue Mun ",
+    "street": "KX 3031 Lei Yue Mun Path",
+    "extended": "",
+    "locality": "Yau Tong",
+    "tel": "9077-6990"
+  },
+  {
+    "id": "dc13186",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13186",
+    "name": "Amoy Plaza",
+    "street": "77 Ngau Tau Kok Rd",
+    "extended": "",
+    "locality": "Kowloon Bay",
+    "tel": "2756-6722"
+  },
+  {
+    "id": "dc26240",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26240",
+    "name": "Auto Plaza",
+    "street": "65 Mody Road",
+    "extended": "",
+    "locality": "Tsim Sha Tsui East",
+    "tel": "+ 852 3974 0251"
+  },
+  {
+    "id": "dc13676",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13676",
+    "name": "Bay Bridge Hong Kong by Hotel G",
+    "street": "123 Castle Peak Rd",
+    "extended": "",
+    "locality": "Yau Kom Tau",
+    "tel": "2945-1111"
+  },
+  {
+    "id": "dc13264",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13264",
+    "name": "CITIC Tower",
+    "street": "1 Tim Mei Ave",
+    "extended": "",
+    "locality": "Central",
+    "tel": "2104-6222"
+  },
+  {
+    "id": "dc13185",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13185",
+    "name": "Canton Road Carpark",
+    "street": "4/F, 1112-1120 Canton Rd",
+    "extended": "",
+    "locality": "Mongkok",
+    "tel": "2775-8111"
+  },
+  {
+    "id": "dc13687",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13687",
+    "name": "Central Plaza",
+    "street": "18 Harbour Rd",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "+852 2586 8111"
+  },
+  {
+    "id": "dc29305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29305",
+    "name": "China Resources Building",
+    "street": "26 Harbour Road",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2828-5666"
+  },
+  {
+    "id": "dc23581",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23581",
+    "name": "City Garden Hotel",
+    "street": "9 City Garden Rd",
+    "extended": "",
+    "locality": "North Point",
+    "tel": "2887-2888"
+  },
+  {
+    "id": "dc3994",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc3994",
+    "name": "Clearwater Bay Golf & Country Club",
+    "street": "139 Tai Au Mun Road",
+    "extended": "",
+    "locality": "Tai Au Mun",
+    "tel": "2335-3888"
+  },
+  {
+    "id": "dc6237",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6237",
+    "name": "Convention Plaza (HKCEC Phase I)",
+    "street": "1 Harbour Road",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2802-7376"
+  },
+  {
+    "id": "dc19768",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19768",
+    "name": "Cordis Hotel",
+    "street": "555 Shanghai Street",
+    "extended": "",
+    "locality": "Mong Kok",
+    "tel": "3552-3373"
+  },
+  {
+    "id": "dc13537",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13537",
+    "name": "D2 Two",
+    "street": "17 Cheung Yee St",
+    "extended": "",
+    "locality": "Lai Chi Kok",
+    "tel": "2371-1999"
+  },
+  {
+    "id": "dc13694",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13694",
+    "name": "D•PARK",
+    "street": "398 Castle Peak Rd",
+    "extended": "",
+    "locality": "Tsuen Wan",
+    "tel": "2940-3009"
+  },
+  {
+    "id": "dc17954",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17954",
+    "name": "E-Max",
+    "street": "1 Trademart Dr",
+    "extended": "",
+    "locality": "Kowloon Bay",
+    "tel": "2620-3388"
+  },
+  {
+    "id": "dc10991",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10991",
+    "name": "Fitfort",
+    "street": "560 King's Rd",
+    "extended": "",
+    "locality": "North Point",
+    "tel": "3421-0606"
+  },
+  {
+    "id": "dc11857",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11857",
+    "name": "Gala Place",
+    "street": "4/F, Park-In Commercial Center, Gala Place, 56 Dundas St",
+    "extended": "",
+    "locality": "Mongkok",
+    "tel": "2775-8111"
+  },
+  {
+    "id": "dc6363",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6363",
+    "name": "Gold Coast Piazza",
+    "street": "1 Castle Peak Rd",
+    "extended": "",
+    "locality": "Tuen Mun",
+    "tel": "2452-6566"
+  },
+  {
+    "id": "dc3997",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc3997",
+    "name": "Gold Coast Yacht and Country Club HK",
+    "street": "1 Castle Peak Road",
+    "extended": "",
+    "locality": "Tuen Mun",
+    "tel": "2404-2222"
+  },
+  {
+    "id": "dc29271",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29271",
+    "name": "Gold Peak Building",
+    "street": "30 Kwai Wing Rd",
+    "extended": "",
+    "locality": "Kwai Chung",
+    "tel": "0800-306"
+  },
+  {
+    "id": "dc13799",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13799",
+    "name": "Goldin Financial Global Centre",
+    "street": "17 Kai Cheung Road",
+    "extended": "",
+    "locality": "Kowloon Bay",
+    "tel": "3899-3888"
+  },
+  {
+    "id": "dc22448",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22448",
+    "name": "Guang Dong Hotel",
+    "street": "18 Prat Ave",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "3410-8888"
+  },
+  {
+    "id": "dc11859",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11859",
+    "name": "Hang Lung Centre",
+    "street": "2 Paterson St",
+    "extended": "",
+    "locality": "Causeway Bay",
+    "tel": "2775-8111"
+  },
+  {
+    "id": "dc4000",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4000",
+    "name": "Hong Kong Disneyland",
+    "street": "Fantasy Road",
+    "extended": "",
+    "locality": "Hong Kong Disneyland Resort",
+    "tel": "3550-3388"
+  },
+  {
+    "id": "dc20914",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20914",
+    "name": "Hong Kong Disneyland Hotel",
+    "street": "Magic Road",
+    "extended": "",
+    "locality": "Hong Kong Disneyland Resort",
+    "tel": "3510-6000"
+  },
+  {
+    "id": "dc6126",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6126",
+    "name": "Hong Kong Skycity Marriott Hotel",
+    "street": "1 Sky City Rd E",
+    "extended": "",
+    "locality": "HK International Airport",
+    "tel": "+852 3969 1888"
+  },
+  {
+    "id": "dc20714",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20714",
+    "name": "Hopewell Center",
+    "street": "183 Queen's Road East (Kennedy Road Entrance)",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2527-7292"
+  },
+  {
+    "id": "dc27625",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27625",
+    "name": "Hotel Ease Tsuen Wan",
+    "street": "15-19 Chun Pin Street",
+    "extended": "",
+    "locality": "Kwai Chung",
+    "tel": "3958-8333"
+  },
+  {
+    "id": "dc4006",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4006",
+    "name": "Hotel Icon",
+    "street": "17 Science Museum Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "+852 3400 1000"
+  },
+  {
+    "id": "dc5985",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5985",
+    "name": "Hotel Panorama by Rhombus",
+    "street": "8A Hart Ave",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "3550-0388"
+  },
+  {
+    "id": "dc6123",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6123",
+    "name": "InterContinental Grand Stanford Hong Kong",
+    "street": "70 Mody Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui East",
+    "tel": "2721-5161"
+  },
+  {
+    "id": "dc26778",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26778",
+    "name": "Island Pacific Hotel",
+    "street": "152 Connaught Road West",
+    "extended": "",
+    "locality": "Sheung Wan",
+    "tel": "2131-1188"
+  },
+  {
+    "id": "dc13149",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13149",
+    "name": "K11 Art Mall",
+    "street": "18 Hanoi Road",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "3118-8070"
+  },
+  {
+    "id": "dc5987",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5987",
+    "name": "Kornhill Plaza",
+    "street": "18 Hong On St",
+    "extended": "",
+    "locality": "Tai Koo",
+    "tel": "2775-8111"
+  },
+  {
+    "id": "dc6141",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6141",
+    "name": "Kowloon Shangri-la",
+    "street": "64 Mody Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "+852 2721 2111"
+  },
+  {
+    "id": "dc13225",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13225",
+    "name": "Kwan Yick Phase 3",
+    "street": "273 Des Voeux Rd W",
+    "extended": "",
+    "locality": "Sai Ying Pun",
+    "tel": "+ 852 3974 0251"
+  },
+  {
+    "id": "dc5820",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5820",
+    "name": "L'hotel Island South",
+    "street": "55 Wong Chuk Hang Rd",
+    "extended": "",
+    "locality": "Aberdeen",
+    "tel": "3968-8888"
+  },
+  {
+    "id": "dc4830",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4830",
+    "name": "L'hotel élan",
+    "street": "38 Chong Yip St",
+    "extended": "",
+    "locality": "Kwun Tong",
+    "tel": "3698-8666"
+  },
+  {
+    "id": "dc21049",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21049",
+    "name": "Lee Tung Avenue",
+    "street": "200 Queen's Rd E",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "3791-2304"
+  },
+  {
+    "id": "dc5821",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5821",
+    "name": "Lodgewood by L'hotel Mongkok Hong Kong",
+    "street": "1131 Canton Rd",
+    "extended": "",
+    "locality": "Mongkok",
+    "tel": "3968-7777"
+  },
+  {
+    "id": "dc15834",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15834",
+    "name": "Minibox Tower",
+    "street": "18 Lee Chung St",
+    "extended": "",
+    "locality": "Chai Wan",
+    "tel": "2342-3041"
+  },
+  {
+    "id": "dc5984",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5984",
+    "name": "Mira Moon Hotel",
+    "street": "388 Jaffe Rd",
+    "extended": "",
+    "locality": "Causeway Bay",
+    "tel": "2643-8888"
+  },
+  {
+    "id": "dc4014",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4014",
+    "name": "Mira Place Carpark",
+    "street": "132 Nathan Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "2315-5868"
+  },
+  {
+    "id": "dc13252",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13252",
+    "name": "Observatory Road 8",
+    "street": "8 Observatory Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "+852 3565 6036"
+  },
+  {
+    "id": "dc13685",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13685",
+    "name": "One Kowloon",
+    "street": "1 Wang Yuen St",
+    "extended": "",
+    "locality": "Kowloon Bay",
+    "tel": "2995-3567"
+  },
+  {
+    "id": "dc21864",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21864",
+    "name": "Park Central",
+    "street": "9 Tong Tak Street",
+    "extended": "",
+    "locality": "Tseung Kwan O",
+    "tel": "3417-4328"
+  },
+  {
+    "id": "dc21386",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21386",
+    "name": "Redbox Storage",
+    "street": "2--8 Shing Wan Rd",
+    "extended": "",
+    "locality": "Shatin",
+    "tel": "2556-1116"
+  },
+  {
+    "id": "dc6122",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6122",
+    "name": "Regal Airport Hotel",
+    "street": "9 Cheong Tat Rd",
+    "extended": "",
+    "locality": "Hong Kong International Airport",
+    "tel": "2286-8888"
+  },
+  {
+    "id": "dc13148",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13148",
+    "name": "Regal Hong Kong Hotel",
+    "street": "88 Yee Wo St",
+    "extended": "",
+    "locality": "Causeway Bay",
+    "tel": "2890-6633"
+  },
+  {
+    "id": "dc6518",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6518",
+    "name": "Regal Kowloon Hotel",
+    "street": "71 Mody Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "2722-1818"
+  },
+  {
+    "id": "dc11454",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11454",
+    "name": "Regal Oriental Hotel",
+    "street": "30-38 Sa Po Rd",
+    "extended": "",
+    "locality": "Kowloon City",
+    "tel": "2718-0333"
+  },
+  {
+    "id": "dc6519",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6519",
+    "name": "Regal Riverside Hotel",
+    "street": "34-36 Tai Chung Kiu Rd",
+    "extended": "",
+    "locality": "Sha Tin",
+    "tel": "2649-7878"
+  },
+  {
+    "id": "dc11060",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11060",
+    "name": "Royal Garden Hotel",
+    "street": "69 Mody Rd",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "2721-5215"
+  },
+  {
+    "id": "dc5122",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5122",
+    "name": "Royal Park Hong Kong Hotel",
+    "street": "8 Pak Hok Ting St",
+    "extended": "",
+    "locality": "Sha Tin",
+    "tel": "2601-2111"
+  },
+  {
+    "id": "dc5123",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5123",
+    "name": "Royal Plaza Hotel",
+    "street": "193 Prince Edward Rd W",
+    "extended": "",
+    "locality": "Mongkok",
+    "tel": "2622-6115"
+  },
+  {
+    "id": "dc4825",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4825",
+    "name": "Royal View Hotel",
+    "street": "353 Castle Peak Rd",
+    "extended": "",
+    "locality": "Ting Kau",
+    "tel": "3716-2888"
+  },
+  {
+    "id": "dc13551",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13551",
+    "name": "SF Centre",
+    "street": "36 Tsing Yi Hong Wan Rd",
+    "extended": "",
+    "locality": "Tsing Yi",
+    "tel": "+852 2820 2800"
+  },
+  {
+    "id": "dc6143",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6143",
+    "name": "Sav Hotel",
+    "street": "83 Wuhu St",
+    "extended": "",
+    "locality": "Hung Hom",
+    "tel": "2275-8888"
+  },
+  {
+    "id": "dc4027",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4027",
+    "name": "Shui On Centre",
+    "street": "6-8 Harbour Rd",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2802-8018"
+  },
+  {
+    "id": "dc6362",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6362",
+    "name": "Sun Hung Kai Centre",
+    "street": "30 Harbour Rd",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2827-7248"
+  },
+  {
+    "id": "dc37622",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37622",
+    "name": "The Emperor Hotel",
+    "street": "373 Queen's Road East",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2893-3693"
+  },
+  {
+    "id": "dc18470",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18470",
+    "name": "The Green Atrium",
+    "street": "68 Kung Um Rd",
+    "extended": "",
+    "locality": "Yuen Long",
+    "tel": "2488-5077"
+  },
+  {
+    "id": "dc11858",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11858",
+    "name": "The Peak Galleria",
+    "street": "118 Peak Rd",
+    "extended": "",
+    "locality": "Peak",
+    "tel": "2849-4113"
+  },
+  {
+    "id": "dc28692",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28692",
+    "name": "The Pulse",
+    "street": "28 Beach Rd",
+    "extended": "",
+    "locality": "Repulse Bay",
+    "tel": "2815-8888"
+  },
+  {
+    "id": "dc4024",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4024",
+    "name": "The Ritz-Carlton Hong Kong",
+    "street": "1 Austin Rd W",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "+852 2263 2263"
+  },
+  {
+    "id": "dc11167",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11167",
+    "name": "Three Garden Road, Central",
+    "street": "3 Garden Rd",
+    "extended": "",
+    "locality": "Central",
+    "tel": "2878-8028"
+  },
+  {
+    "id": "dc21323",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21323",
+    "name": "Tin Wan Estate",
+    "street": "60 Tin Wan Street",
+    "extended": "",
+    "locality": "Aberdeen",
+    "tel": "+ 852 3974 0251"
+  },
+  {
+    "id": "dc18472",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18472",
+    "name": "Upper Baguio Villa",
+    "street": "550 Victoria Rd",
+    "extended": "",
+    "locality": "Pok Fu Lam",
+    "tel": ""
+  },
+  {
+    "id": "dc4031",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4031",
+    "name": "W Hong Kong",
+    "street": "1 Austin Rd W",
+    "extended": "",
+    "locality": "Tsim Sha Tsui",
+    "tel": "3717-2222"
+  },
+  {
+    "id": "dc17852",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17852",
+    "name": "Wing On Centre",
+    "street": "111 Connaught Rd Central",
+    "extended": "",
+    "locality": "Sheung Wan",
+    "tel": "+852 2852 1888"
+  }
+]
