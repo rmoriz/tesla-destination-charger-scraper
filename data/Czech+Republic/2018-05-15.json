@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dc21218",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21218",
+    "name": "AUPARK",
+    "street": "Gocarova trida 1754/48a",
+    "extended": "",
+    "locality": "50002 Hradec Kralove",
+    "tel": " +42 0493 592881"
+  },
+  {
+    "id": "dc30971",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30971",
+    "name": "Besidka hotel",
+    "street": "Horni namesti 552",
+    "extended": "",
+    "locality": "378 81 Slavonice",
+    "tel": " +42 0606 212070"
+  },
+  {
+    "id": "dc17230",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17230",
+    "name": "Clarion Congress Hotel Ostrava",
+    "street": "2703 Zkracena",
+    "extended": "",
+    "locality": "70030 Ostrava",
+    "tel": " +42 0596 702111"
+  },
+  {
+    "id": "dc36006",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36006",
+    "name": "Falkensteiner Hotel Grand MedSpa Marienbad",
+    "street": "Ruska 123",
+    "extended": "",
+    "locality": "35301 Marianske Lazne",
+    "tel": " +42 0354 929397"
+  },
+  {
+    "id": "dc33766",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33766",
+    "name": "Falkensteiner Hotel Maria Prag",
+    "street": "Opletalova 21",
+    "extended": "",
+    "locality": "110 00 Prague",
+    "tel": " +42 0222 211229"
+  },
+  {
+    "id": "dc40337",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40337",
+    "name": "Golf Resort Ceska Lipa",
+    "street": "Pihel 280",
+    "extended": "",
+    "locality": "47301 Novy Bor",
+    "tel": " +420 7021 50500"
+  },
+  {
+    "id": "dc15602",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15602",
+    "name": "Hotel Avanti",
+    "street": "61 Stredni",
+    "extended": "",
+    "locality": "60200 Brno",
+    "tel": " +42 0541 510111"
+  },
+  {
+    "id": "dc20013",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20013",
+    "name": "Hotel Hoffmeister",
+    "street": "144/7 Pod Bruskou 144/7",
+    "extended": "",
+    "locality": "11800 Praha",
+    "tel": " +42 0251 017111"
+  },
+  {
+    "id": "dc37782",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37782",
+    "name": "Hotel Josef",
+    "street": "Rybna 20",
+    "extended": "",
+    "locality": "11000 Praha",
+    "tel": " +42 0221 700111"
+  },
+  {
+    "id": "dc47106",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47106",
+    "name": "Hotel Relax",
+    "street": "Dolni Vltavice 44",
+    "extended": "",
+    "locality": "382 26 Horni Plana",
+    "tel": " +420 3807 31401"
+  },
+  {
+    "id": "dc39152",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39152",
+    "name": "Hotel a Restaurant VYPREZ",
+    "street": "Kamenicka 692",
+    "extended": "",
+    "locality": "405 02 Decin II",
+    "tel": " +42 0412 510851"
+  },
+  {
+    "id": "dc38209",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38209",
+    "name": "Kavarna pana Theodora",
+    "street": "Karlovarska 37",
+    "extended": "",
+    "locality": "27364 Doksy",
+    "tel": " +42 0607 908293"
+  },
+  {
+    "id": "dc18196",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18196",
+    "name": "MR.PARKIT Spanelska 12",
+    "street": "12 Spanelska",
+    "extended": "",
+    "locality": "12000 Praha 2",
+    "tel": " +420 730 513 544"
+  },
+  {
+    "id": "dc39789",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39789",
+    "name": "Millenium - Prague Marriott Hotel",
+    "street": "V Celnici 1028/10",
+    "extended": "",
+    "locality": "11000 Prague",
+    "tel": " +420 2210 33080"
+  },
+  {
+    "id": "dc14231",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14231",
+    "name": "Noem Arch",
+    "street": "Cimburkova 9",
+    "extended": "",
+    "locality": "61200 Brno",
+    "tel": " +42 05 41 21 61 60"
+  },
+  {
+    "id": "dc17231",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17231",
+    "name": "Olympia Brno shopping center",
+    "street": "Olympia Brno 777",
+    "extended": "",
+    "locality": "66442 Modrice",
+    "tel": " +42 0547 423677"
+  },
+  {
+    "id": "dc24160",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24160",
+    "name": "Park Inn by Radisson Hotel Ostrava",
+    "street": "3313/42 Hornopolní",
+    "extended": "",
+    "locality": "70200 Ostrava",
+    "tel": " +42 0595 195000"
+  },
+  {
+    "id": "dc17662",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17662",
+    "name": "Parkhotel Pilsen Congress Center",
+    "street": "31 U Borskeho parku",
+    "extended": "",
+    "locality": "301 00 Pilsen",
+    "tel": " +420 378 772977"
+  },
+  {
+    "id": "dc40067",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40067",
+    "name": "Restaurace & Pivovar Cerny Orel",
+    "street": "Vilova 18",
+    "extended": "",
+    "locality": "417 05 Osek",
+    "tel": " +420 4178 37082"
+  },
+  {
+    "id": "dc17665",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17665",
+    "name": "Savoy Westend Hotel - Luxury Spa Medical Resort",
+    "street": "16 Petra Velikeho 16",
+    "extended": "",
+    "locality": "36001 Karlovy Vary",
+    "tel": " +42 0359 018811"
+  }
+]
