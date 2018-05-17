@@ -18,6 +18,15 @@
     "tel": " +42 1414 204141"
   },
   {
+    "id": "dc24154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24154",
+    "name": "Cucabamba Pub & Restaurant",
+    "street": "Masiarska 430/8",
+    "extended": "",
+    "locality": "040 01 Kosice",
+    "tel": " +421 9181 85306"
+  },
+  {
     "id": "dc34385",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34385",
     "name": "Falkensteiner Hotel Bratislava",
@@ -52,14 +61,5 @@
     "extended": "",
     "locality": "911 01 Trencin",
     "tel": " +42 1327 484900"
-  },
-  {
-    "id": "dc24154",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24154",
-    "name": "Kralovsky Dvor",
-    "street": "Masiarska 430/8",
-    "extended": "",
-    "locality": "040 01 Kosice",
-    "tel": " +421 9181 85306"
   }
 ]

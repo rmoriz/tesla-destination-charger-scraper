@@ -8469,15 +8469,6 @@
     "tel": "(904) 277-2328"
   },
   {
-    "id": "dc4079",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4079",
-    "name": "Artis-Naples",
-    "street": "5833 Pelican Bay Blvd",
-    "extended": "",
-    "locality": "Naples, Florida 34108",
-    "tel": "(239) 597-1111"
-  },
-  {
     "id": "dc17872",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17872",
     "name": "Avanti Resort Orlando",
@@ -8739,15 +8730,6 @@
     "tel": "(407) 363-8000"
   },
   {
-    "id": "dc18383",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18383",
-    "name": "Columbia Restaurant",
-    "street": "98 St George St",
-    "extended": "",
-    "locality": "St Augustine, FL 32084",
-    "tel": "(904) 824-3341"
-  },
-  {
     "id": "dc13633",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13633",
     "name": "Columbia Restaurant",
@@ -8755,6 +8737,15 @@
     "extended": "",
     "locality": "Tampa, Florida 33605",
     "tel": "(813) 248-4961"
+  },
+  {
+    "id": "dc18383",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18383",
+    "name": "Columbia Restaurant",
+    "street": "98 St George St",
+    "extended": "",
+    "locality": "St Augustine, FL 32084",
+    "tel": "(904) 824-3341"
   },
   {
     "id": "dc24082",
@@ -10242,21 +10233,21 @@
     "tel": "(407) 351-5555"
   },
   {
-    "id": "dc13376",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13376",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Kissimmee, FL 34747",
-    "tel": "(877) 798-3752"
-  },
-  {
     "id": "dc2741",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2741",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Bonita Springs, FL 34134",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc13376",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13376",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Kissimmee, FL 34747",
     "tel": "(877) 798-3752"
   },
   {
