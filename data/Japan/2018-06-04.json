@@ -1,0 +1,974 @@
+[
+  {
+    "id": "dc2774",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2774",
+    "name": "(有) トーニチユニオンサービス",
+    "street": "〒224-0053",
+    "extended": "神奈川県横浜市都筑区池辺町 4532",
+    "locality": "",
+    "tel": "045-933-0610"
+  },
+  {
+    "id": "dc11639",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11639",
+    "name": "ANAインターコンチネンタルホテル東京",
+    "street": "〒107-0052",
+    "extended": "東京都港区赤坂 1-12-33",
+    "locality": "",
+    "tel": "03-3505-1111"
+  },
+  {
+    "id": "dc31219",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31219",
+    "name": "ANAクラウンプラザホテル新潟",
+    "street": "〒950-8531",
+    "extended": "新潟県新潟市中央区万代 43962",
+    "locality": "",
+    "tel": "025-245-3333"
+  },
+  {
+    "id": "dc4049",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4049",
+    "name": "ENEOS東名横浜インターSS",
+    "street": "〒226-0026",
+    "extended": "神奈川県横浜市緑区長津田 5308",
+    "locality": "",
+    "tel": "045-922-3519"
+  },
+  {
+    "id": "dc4845",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4845",
+    "name": "GINZA KABUKIZAパーキング",
+    "street": "〒104-0061",
+    "extended": "東京都中央区銀座 4−12−15",
+    "locality": "",
+    "tel": "080-1294-2402"
+  },
+  {
+    "id": "dc36223",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36223",
+    "name": "ISレンタリース",
+    "street": "〒4600007",
+    "extended": "愛知県中区新栄 1-20-3",
+    "locality": "",
+    "tel": "052-252-0252"
+  },
+  {
+    "id": "dc31563",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31563",
+    "name": "KABUKU",
+    "street": "〒517-0504",
+    "extended": "三重県志摩市阿児町志島 876",
+    "locality": "",
+    "tel": "0599-77-6103"
+  },
+  {
+    "id": "dc33132",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33132",
+    "name": "POLISH GARAGE 西区本店",
+    "street": "〒451-0015",
+    "extended": "愛知県名古屋市西区香呑町 2-81",
+    "locality": "",
+    "tel": "0800−111−7155"
+  },
+  {
+    "id": "dc41859",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41859",
+    "name": "Polish Garage Moriguchi Store",
+    "street": "〒463-0026",
+    "extended": "愛知県守山区藪田町 816",
+    "locality": "",
+    "tel": "052-799-2888"
+  },
+  {
+    "id": "dc28677",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28677",
+    "name": "The Ryokan Tokyo 湯河原",
+    "street": "〒259-0314",
+    "extended": "神奈川県足柄下郡湯河原町宮上 742",
+    "locality": "",
+    "tel": "0465-63-3498"
+  },
+  {
+    "id": "dc32727",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32727",
+    "name": "くるみ屋",
+    "street": "〒311-1415",
+    "extended": "茨城県鉾田市造谷 605-61",
+    "locality": "",
+    "tel": "0291-37-0555"
+  },
+  {
+    "id": "dc33142",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33142",
+    "name": "のがみプレジデントホテル",
+    "street": "〒820-0004",
+    "extended": "福岡県飯塚市新立岩 12-37",
+    "locality": "",
+    "tel": "0948-22-3840"
+  },
+  {
+    "id": "dc16965",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16965",
+    "name": "べにや無何有",
+    "street": "〒922-0242",
+    "extended": "石川県加賀市山代温泉 55-1-3",
+    "locality": "",
+    "tel": "0761-77-1340"
+  },
+  {
+    "id": "dc28158",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28158",
+    "name": "やすらぎの森オートキャンプ場",
+    "street": "〒389-1303",
+    "extended": "長野県上水内郡信濃町野尻 1200-45",
+    "locality": "",
+    "tel": "049-287-8807"
+  },
+  {
+    "id": "dc2204",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2204",
+    "name": "ららぽーと磐田",
+    "street": "〒438-0801",
+    "extended": "静岡県磐田市高見丘 1200番地",
+    "locality": "",
+    "tel": "053-859-0100"
+  },
+  {
+    "id": "dc2235",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2235",
+    "name": "アイアイイスズ",
+    "street": "〒761-8071",
+    "extended": "香川県高松市多肥下町 1523-1",
+    "locality": "",
+    "tel": "087-864-5225"
+  },
+  {
+    "id": "dc33143",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33143",
+    "name": "アゴーラ福岡山の上ホテル&スパ",
+    "street": "〒810-0032",
+    "extended": "福岡県中央区輝国 1-1-33",
+    "locality": "",
+    "tel": "092-771-2131"
+  },
+  {
+    "id": "dc14744",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14744",
+    "name": "アマネム",
+    "street": "〒517-0403",
+    "extended": "三重県浜島町迫子 2165",
+    "locality": "",
+    "tel": "0599-52-5000"
+  },
+  {
+    "id": "dc13589",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13589",
+    "name": "アルパジョン 石巻店",
+    "street": "〒986-0836",
+    "extended": "宮城県石巻市恵み野 4-1-5",
+    "locality": "",
+    "tel": "0225-22-3955"
+  },
+  {
+    "id": "dc6273",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6273",
+    "name": "インターコンチネンタル大阪",
+    "street": "〒530-0011",
+    "extended": "大阪府大阪市北区大深町 3-60",
+    "locality": "",
+    "tel": "06-6374-5700"
+  },
+  {
+    "id": "dc2188",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2188",
+    "name": "ウェスティン都ホテル京都",
+    "street": "〒605-0052",
+    "extended": "京都府京都市東山区三条けあげ",
+    "locality": "",
+    "tel": "075-771-7111"
+  },
+  {
+    "id": "dc2098",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2098",
+    "name": "ウエスティンホテル東京",
+    "street": "〒153-8580",
+    "extended": "東京都目黒区三田 1-4-1",
+    "locality": "",
+    "tel": "03-5423-7000"
+  },
+  {
+    "id": "dc34571",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34571",
+    "name": "エルイン京都",
+    "street": "〒601-8004",
+    "extended": "京都府東九条東山王町 13",
+    "locality": "",
+    "tel": "075-672-1100"
+  },
+  {
+    "id": "dc33133",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33133",
+    "name": "カフェんとす/スカイショット",
+    "street": "〒841-0017",
+    "extended": "佐賀県田代大官町 876-1",
+    "locality": "",
+    "tel": "0942-85-0032"
+  },
+  {
+    "id": "dc5215",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5215",
+    "name": "キグナス石油 セルフ益子店 （有）高島油店",
+    "street": "〒321-4217",
+    "extended": "栃木県芳賀郡益子町益子 1397-1",
+    "locality": "",
+    "tel": "0285-72-3000"
+  },
+  {
+    "id": "dc30826",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30826",
+    "name": "クラフトサーカス",
+    "street": "〒656-1724",
+    "extended": "兵庫県淡路市野島平林 42768",
+    "locality": "",
+    "tel": "0799-82-1855"
+  },
+  {
+    "id": "dc2751",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2751",
+    "name": "グリーンワイズ内併設 AWKitchen",
+    "street": "〒206-0042",
+    "extended": "東京都多摩市山王下 2-2-2",
+    "locality": "",
+    "tel": "042-319-6728"
+  },
+  {
+    "id": "dc13816",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13816",
+    "name": "サンパーキング 羽田浮島店",
+    "street": "〒210-0862",
+    "extended": "神奈川県川崎区浮島町 43043",
+    "locality": "",
+    "tel": "0476-33-1123"
+  },
+  {
+    "id": "dc13815",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13815",
+    "name": "サンパーキング成田店",
+    "street": "〒286-0121",
+    "extended": "千葉県成田市駒井野 134",
+    "locality": "",
+    "tel": "0476-33-1123"
+  },
+  {
+    "id": "dc13592",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13592",
+    "name": "サンレッドガレージ",
+    "street": "〒286-0106",
+    "extended": "千葉県成田市取香 263-1",
+    "locality": "",
+    "tel": "0476-33-1123"
+  },
+  {
+    "id": "dc28159",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28159",
+    "name": "シラハマ校舎",
+    "street": "〒295-0103",
+    "extended": "千葉県南房総市白浜町滝口 5185",
+    "locality": "",
+    "tel": "0470-29-5848"
+  },
+  {
+    "id": "dc21466",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21466",
+    "name": "ジーライオンミュージアム",
+    "street": "〒552-0022",
+    "extended": "大阪府大阪市港区海岸通 2-6-1",
+    "locality": "",
+    "tel": "06-6573-3006"
+  },
+  {
+    "id": "dc29481",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29481",
+    "name": "セブンイレブン八女立花店 隣",
+    "street": "〒834-0074",
+    "extended": "福岡県八女市立花町谷川1112-3",
+    "locality": "",
+    "tel": "0943-37-1607"
+  },
+  {
+    "id": "dc33834",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33834",
+    "name": "タウンホテル村上",
+    "street": "〒958-0854",
+    "extended": "新潟県村上市田端町3-41",
+    "locality": "",
+    "tel": "0254-52-2010"
+  },
+  {
+    "id": "dc28747",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28747",
+    "name": "チャーチストリート軽井沢",
+    "street": "〒389-0103",
+    "extended": "長野県北佐久郡軽井沢町軽井沢601-1",
+    "locality": "",
+    "tel": "0267-41-2501"
+  },
+  {
+    "id": "dc46658",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46658",
+    "name": "ナチュラルリゾート・ハイジア",
+    "street": "〒059-2566",
+    "extended": "北海道新ひだか町静内東別 383-59",
+    "locality": "",
+    "tel": "0146-48-2800"
+  },
+  {
+    "id": "dc33144",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33144",
+    "name": "ハイアットリージェンシー福岡",
+    "street": "〒812-0013",
+    "extended": "福岡県福岡市博多区博多駅東2-14-1",
+    "locality": "",
+    "tel": "092-412-1234"
+  },
+  {
+    "id": "dc2107",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2107",
+    "name": "ハイアットリージェンシー箱根　リゾート&スパ",
+    "street": "〒250-0408",
+    "extended": "神奈川県足柄下郡箱根町強羅 1320",
+    "locality": "",
+    "tel": "460-82-2000"
+  },
+  {
+    "id": "dc2114",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2114",
+    "name": "ヒカリヤ",
+    "street": "〒390-0874",
+    "extended": "長野県松本市大手 4-7-14",
+    "locality": "",
+    "tel": "0263-38-0068"
+  },
+  {
+    "id": "dc6329",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6329",
+    "name": "ヒルトン東京",
+    "street": "〒160-0023",
+    "extended": "東京都新宿区西新宿 6-6-2",
+    "locality": "",
+    "tel": "03-3344-5111"
+  },
+  {
+    "id": "dc6211",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6211",
+    "name": "ヒルトン東京ベイ",
+    "street": "〒279-0031",
+    "extended": "千葉県浦安市舞浜 1-8",
+    "locality": "",
+    "tel": "047-355-5000"
+  },
+  {
+    "id": "dc4052",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4052",
+    "name": "ビーチサイド温泉リゾート ゆうみ",
+    "street": "〒299-1901",
+    "extended": "千葉県安房郡鋸南町元名 442",
+    "locality": "",
+    "tel": "0470-55-0123"
+  },
+  {
+    "id": "dc5024",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5024",
+    "name": "ブリック＆ウッドクラブ",
+    "street": "〒290-0558",
+    "extended": "千葉県市原市 山口",
+    "locality": "",
+    "tel": "0436-98-1330"
+  },
+  {
+    "id": "dc24729",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24729",
+    "name": "プロスタッフ株式会社",
+    "street": "〒560-0085",
+    "extended": "大阪府豊中市上新田 4-8-15",
+    "locality": "",
+    "tel": "06-6831-1222"
+  },
+  {
+    "id": "dc17140",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17140",
+    "name": "ホテル アナガ",
+    "street": "〒656-0661",
+    "extended": "兵庫県南あわじ市阿那賀 1109",
+    "locality": "",
+    "tel": "0799-39-1111"
+  },
+  {
+    "id": "dc28035",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28035",
+    "name": "ホテルグランミラージュ",
+    "street": "〒937-0041",
+    "extended": "富山県魚津市吉島 1-1-20",
+    "locality": "",
+    "tel": "765-24-4411"
+  },
+  {
+    "id": "dc6101",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6101",
+    "name": "ホテルシーパレスリゾート",
+    "street": "〒441-8077",
+    "extended": "愛知県豊橋市神野新田町ミノ割 1-3",
+    "locality": "",
+    "tel": "0532-32-8812"
+  },
+  {
+    "id": "dc2190",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2190",
+    "name": "ホテルナゴヤキャッスル",
+    "street": "〒451-8551",
+    "extended": "愛知県名古屋市 西区樋の口町 3-19-14",
+    "locality": "",
+    "tel": "052- 521-2121"
+  },
+  {
+    "id": "dc42594",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42594",
+    "name": "ホテルマリノアリゾート福岡",
+    "street": "〒819-0001",
+    "extended": "福岡県福岡市西区小戸 2丁目12番43号",
+    "locality": "",
+    "tel": "092-895-5511"
+  },
+  {
+    "id": "dc33836",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33836",
+    "name": "ホテル丸井",
+    "street": "〒957-0055",
+    "extended": "新潟県新発田市諏訪町2-1-9",
+    "locality": "",
+    "tel": "0254-26-1205"
+  },
+  {
+    "id": "dc35317",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35317",
+    "name": "ホテル湯沢でんき屋",
+    "street": "〒946-6103",
+    "extended": "新潟県南魚沼郡湯沢町岩原155",
+    "locality": "",
+    "tel": "025-787-3020"
+  },
+  {
+    "id": "dc21768",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21768",
+    "name": "ポピースプリングス　リゾート&スパ",
+    "street": "〒707-0062",
+    "extended": "岡山県Mimasaka美作市湯郷 538-1",
+    "locality": "",
+    "tel": "0868-72-7575"
+  },
+  {
+    "id": "dc5023",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5023",
+    "name": "モトテカコーヒー軽井沢",
+    "street": "〒389-0102",
+    "extended": "長野県北佐久郡軽井沢町軽井沢 1323-1452",
+    "locality": "",
+    "tel": "0267-41-0946"
+  },
+  {
+    "id": "dc5214",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5214",
+    "name": "リゾートホテル ベラビスタ境ガ浜",
+    "street": "〒720-0551",
+    "extended": "広島県尾道市浦崎町大平木 1344-2",
+    "locality": "",
+    "tel": "084-987-1122"
+  },
+  {
+    "id": "dc21537",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21537",
+    "name": "リバーリトリート雅樂倶",
+    "street": "〒939-2224",
+    "extended": "富山県富山市春日 56-2",
+    "locality": "",
+    "tel": "076-467-5550"
+  },
+  {
+    "id": "dc6277",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc6277",
+    "name": "リーガロイヤルホテル大阪",
+    "street": "〒530-0005",
+    "extended": "大阪府大阪市北区中之島 5-3-68",
+    "locality": "",
+    "tel": "06-6448-1121"
+  },
+  {
+    "id": "dc19562",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19562",
+    "name": "ロテル デュ ラク",
+    "street": "〒529-0721",
+    "extended": "滋賀県長浜市西浅井町大浦 2064",
+    "locality": "",
+    "tel": "0749-89-1888"
+  },
+  {
+    "id": "dc41604",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41604",
+    "name": "㈲笹本自動車整備工場　 2nd FACTORY",
+    "street": "〒400-0111",
+    "extended": "山梨県甲斐市竜王新町298",
+    "locality": "",
+    "tel": "055-276-3366"
+  },
+  {
+    "id": "dc33839",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33839",
+    "name": "三条ロイヤルホテル",
+    "street": "〒955-0071",
+    "extended": "新潟県三条市本町3-5-25",
+    "locality": "",
+    "tel": "0256-34-8111"
+  },
+  {
+    "id": "dc2203",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2203",
+    "name": "下田 ビューホテル",
+    "street": "〒415-0013",
+    "extended": "静岡県下田市柿崎 633",
+    "locality": "",
+    "tel": "055-822-6600"
+  },
+  {
+    "id": "dc2095",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2095",
+    "name": "丸の内トラストタワー",
+    "street": "〒100-0005",
+    "extended": "東京都千代田区丸の内 1-8-3",
+    "locality": "",
+    "tel": "03-5511-2366"
+  },
+  {
+    "id": "dc51143",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc51143",
+    "name": "久住高原ゴルフ倶楽部",
+    "street": "〒878-0205",
+    "extended": "大分県竹田市大字白丹3866",
+    "locality": "",
+    "tel": "0120-67-5910"
+  },
+  {
+    "id": "dc13591",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13591",
+    "name": "二期倶楽部",
+    "street": "〒325-0303",
+    "extended": "那須郡那須町高久乙道下 2301",
+    "locality": "",
+    "tel": "0287-78-7833"
+  },
+  {
+    "id": "dc2192",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2192",
+    "name": "仙台トラストシティー (ウェスティンホテル仙台）",
+    "street": "〒980-0811",
+    "extended": "宮城県仙台市青葉区一番町 1-9-1",
+    "locality": "",
+    "tel": "022-722-1234"
+  },
+  {
+    "id": "dc28029",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28029",
+    "name": "伊勢志摩エバーグレイズ",
+    "street": "〒517-0213",
+    "extended": "三重県志摩市磯部町穴川 1365-10",
+    "locality": "",
+    "tel": "0120-592-364"
+  },
+  {
+    "id": "dc2185",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2185",
+    "name": "伊豆・伊東 サザンクロス ゴルフ&リゾート",
+    "street": "〒414-0051",
+    "extended": "静岡県伊東市吉田 1006",
+    "locality": "",
+    "tel": "055-745-1234"
+  },
+  {
+    "id": "dc2193",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2193",
+    "name": "元湯 陣屋",
+    "street": "〒257-0001",
+    "extended": "神奈川県秦野市鶴巻北 2-8-24",
+    "locality": "",
+    "tel": "0463-77-1300"
+  },
+  {
+    "id": "dc11143",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11143",
+    "name": "光が丘IMA",
+    "street": "〒179-0072",
+    "extended": "東京都練馬区光が丘 5-1-1",
+    "locality": "",
+    "tel": "03-3976-2100"
+  },
+  {
+    "id": "dc35324",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35324",
+    "name": "六日町温泉 旬彩の庄 坂戸城",
+    "street": "〒949-6611",
+    "extended": "新潟県南魚沼市坂戸292-4",
+    "locality": "",
+    "tel": "025-773-3333"
+  },
+  {
+    "id": "dc11084",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11084",
+    "name": "出光赤坂中央サービスステーション",
+    "street": "〒107-0052",
+    "extended": "東京都港区赤坂 7-6-43",
+    "locality": "",
+    "tel": "03-3585-2801"
+  },
+  {
+    "id": "dc28745",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28745",
+    "name": "別邸 仙寿庵",
+    "street": "〒379-1619",
+    "extended": "群馬県利根郡みなかみ町谷川 614",
+    "locality": "",
+    "tel": "0278-20-4141"
+  },
+  {
+    "id": "dc2189",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2189",
+    "name": "千里阪急ホテル",
+    "street": "〒560-0082",
+    "extended": "大阪府豊中市新千里東町 2-1-14",
+    "locality": "",
+    "tel": "066-872-2211"
+  },
+  {
+    "id": "dc5992",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5992",
+    "name": "囲炉裏の宿 豊楽",
+    "street": "〒679-3125",
+    "extended": "兵庫県神崎郡神河町上小田 332",
+    "locality": "",
+    "tel": "0790-34-0120"
+  },
+  {
+    "id": "dc2096",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2096",
+    "name": "城山トラストタワー",
+    "street": "〒105-0001",
+    "extended": "東京都港区虎ノ門 4-3-1",
+    "locality": "",
+    "tel": "03-5511-2348"
+  },
+  {
+    "id": "dc2187",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2187",
+    "name": "城崎温泉 西村屋ホテル招月庭",
+    "street": "〒669-6101",
+    "extended": "兵庫県豊岡市城崎町湯島 1016-2",
+    "locality": "",
+    "tel": "0796-32-3535"
+  },
+  {
+    "id": "dc14305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14305",
+    "name": "夏瀬温泉都わすれ",
+    "street": "〒014-1113",
+    "extended": "秋田県仙北市田沢湖卒田字夏瀬 84",
+    "locality": "",
+    "tel": "0187-44-2220"
+  },
+  {
+    "id": "dc49642",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49642",
+    "name": "大畑ゴルフ道場",
+    "street": "〒460-0012",
+    "extended": "愛知県名古屋市中区千代田2-1-7",
+    "locality": "",
+    "tel": "052-228-7705"
+  },
+  {
+    "id": "dc13549",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13549",
+    "name": "奥志賀高原ホテル",
+    "street": "〒381-0405",
+    "extended": "長野県下高井郡山ノ内町奥志賀高原",
+    "locality": "",
+    "tel": "0269-34-2034"
+  },
+  {
+    "id": "dc14304",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14304",
+    "name": "妙乃湯",
+    "street": "〒014-1201",
+    "extended": "秋田県仙北市田沢湖生保内字駒ヶ岳 42767",
+    "locality": "",
+    "tel": "0187-46-2740"
+  },
+  {
+    "id": "dc27616",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27616",
+    "name": "季がさね",
+    "street": "〒922-0412",
+    "extended": "石川県加賀市片山津温泉乙乙 30-1",
+    "locality": "",
+    "tel": "0761-74-6104"
+  },
+  {
+    "id": "dc2232",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2232",
+    "name": "宇奈月温泉 延対寺荘",
+    "street": "〒938-0282",
+    "extended": "富山県黒部市宇奈月温泉 53",
+    "locality": "",
+    "tel": "076-562-1234"
+  },
+  {
+    "id": "dc35244",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35244",
+    "name": "小千谷　パークホテル",
+    "street": "〒947-0025",
+    "extended": "新潟県小千谷市稲荷町　2-6",
+    "locality": "",
+    "tel": "0258-82-0089"
+  },
+  {
+    "id": "dc13590",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13590",
+    "name": "嵐山カントリークラブ",
+    "street": "〒355-0225",
+    "extended": "埼玉県比企郡嵐山町鎌形 1146",
+    "locality": "",
+    "tel": "0493-62-2355"
+  },
+  {
+    "id": "dc43759",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43759",
+    "name": "弘法の湯 本店",
+    "street": "〒410-2201",
+    "extended": "静岡県古奈 -255974",
+    "locality": "",
+    "tel": "0120-57-2617"
+  },
+  {
+    "id": "dc13838",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13838",
+    "name": "強羅花壇",
+    "street": "〒250-0408",
+    "extended": "神奈川県足柄下郡箱根町強羅 1300",
+    "locality": "",
+    "tel": "0460-82-3331"
+  },
+  {
+    "id": "dc2099",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2099",
+    "name": "御殿山トラストタワー",
+    "street": "〒140-0001",
+    "extended": "東京都品川区北品川 4-7-35",
+    "locality": "",
+    "tel": "03-5511-2366"
+  },
+  {
+    "id": "dc28416",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28416",
+    "name": "御菓子城加賀藩",
+    "street": "〒922-0241",
+    "extended": "石川県加賀市加茂町ハ 石川県加賀市加茂町 8-90-1",
+    "locality": "",
+    "tel": "0761-77-0100"
+  },
+  {
+    "id": "dc19458",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19458",
+    "name": "成田ゴルフ倶楽部",
+    "street": "〒286-0821",
+    "extended": "千葉県成田成田市 大室 127",
+    "locality": "",
+    "tel": "047-636-0111"
+  },
+  {
+    "id": "dc28742",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28742",
+    "name": "旅館いこい山荘",
+    "street": "〒389-0111",
+    "extended": "長野県軽井沢町 大字永倉 3365-9",
+    "locality": "",
+    "tel": "0267-45-5254"
+  },
+  {
+    "id": "dc24495",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24495",
+    "name": "星野リゾート 界 アンジン",
+    "street": "〒414-0024",
+    "extended": "静岡県伊東市和田 1-12-16",
+    "locality": "",
+    "tel": "0570-073-011"
+  },
+  {
+    "id": "dc37919",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37919",
+    "name": "有限会社オートネットワールド",
+    "street": "〒462-0007",
+    "extended": "愛知県北区如意 37687",
+    "locality": "",
+    "tel": "052-901-4477"
+  },
+  {
+    "id": "dc28680",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28680",
+    "name": "望洋楼",
+    "street": "〒913-0057",
+    "extended": "福井県三国町米ケ脇 4-3-38",
+    "locality": "",
+    "tel": "0776-82-0067"
+  },
+  {
+    "id": "dc39854",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39854",
+    "name": "東京カントリークラブ",
+    "street": "〒257-0023",
+    "extended": "神奈川県寺山 1450",
+    "locality": "",
+    "tel": "0463-81-5111"
+  },
+  {
+    "id": "dc28681",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28681",
+    "name": "松本丸の内ホテル",
+    "street": "〒390-0874",
+    "extended": "長野県大手 3丁目5番地15号",
+    "locality": "",
+    "tel": "0263-35-4500"
+  },
+  {
+    "id": "dc5093",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc5093",
+    "name": "江戸崎農業公園 ポティロンの森",
+    "street": "〒300-0528",
+    "extended": "茨城県稲敷市上君山 2060-1",
+    "locality": "",
+    "tel": "029-892-3911"
+  },
+  {
+    "id": "dc34755",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34755",
+    "name": "熱海せかいえ",
+    "street": "〒413-0002",
+    "extended": "静岡県伊豆山 269-1",
+    "locality": "",
+    "tel": "0557-86-2000"
+  },
+  {
+    "id": "dc4838",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4838",
+    "name": "白浜アパートメント",
+    "street": "〒295-0103",
+    "extended": "千葉県南房総市白浜町滝口 6734-2",
+    "locality": "",
+    "tel": "0470-38-4448"
+  },
+  {
+    "id": "dc12370",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12370",
+    "name": "白馬八方温泉ホテル五龍館",
+    "street": "〒399-9301",
+    "extended": "長野県北安曇郡白馬村大字北城 3353",
+    "locality": "",
+    "tel": "0261-72-3939"
+  },
+  {
+    "id": "dc2186",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2186",
+    "name": "神戸北野ホテル",
+    "street": "〒650-0003",
+    "extended": "兵庫県神戸市中央区山本通 3-3-20",
+    "locality": "",
+    "tel": "078-271-3711"
+  },
+  {
+    "id": "dc39499",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39499",
+    "name": "紅乙女酒造",
+    "street": "〒839-1213",
+    "extended": "福岡県田主丸町益生田 688",
+    "locality": "",
+    "tel": "0943-72-1050"
+  },
+  {
+    "id": "dc4050",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc4050",
+    "name": "菰野町菰野ふるさと館",
+    "street": "〒510-1233",
+    "extended": "三重県三重郡菰野町大字菰野 2256番地",
+    "locality": "",
+    "tel": "059-394-0050"
+  },
+  {
+    "id": "dc12819",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12819",
+    "name": "落合楼村上",
+    "street": "〒410-3206",
+    "extended": "静岡県伊豆市湯ヶ島 1887-1",
+    "locality": "",
+    "tel": "0558-85-0014"
+  },
+  {
+    "id": "dc2097",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2097",
+    "name": "虎ノ門2丁目タワー",
+    "street": "〒105-0001",
+    "extended": "東京都港区虎ノ門 2-3-17",
+    "locality": "",
+    "tel": "03-5511-2348"
+  },
+  {
+    "id": "dc2191",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2191",
+    "name": "西鉄グランドホテル",
+    "street": "〒810-0041",
+    "extended": "福岡県中央区大名 2-6-60",
+    "locality": "",
+    "tel": "092-781-0711"
+  },
+  {
+    "id": "dc34219",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34219",
+    "name": "車検のコバック半田店",
+    "street": "〒475-0977",
+    "extended": "愛知県1-33",
+    "locality": "",
+    "tel": "0569-20-5891"
+  },
+  {
+    "id": "dc2233",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2233",
+    "name": "道後温泉 ふなや",
+    "street": "〒790-0842",
+    "extended": "愛媛県松山市道後湯之町 1-33",
+    "locality": "",
+    "tel": "089-947-0278"
+  },
+  {
+    "id": "dc28679",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28679",
+    "name": "鎌先温泉　時音の宿 湯主一條",
+    "street": "〒989-0231",
+    "extended": "宮城県福岡蔵本鎌先 1-1",
+    "locality": "",
+    "tel": "0224-26-2151"
+  },
+  {
+    "id": "dc47278",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47278",
+    "name": "麻生飯塚ゴルフ倶楽部",
+    "street": "〒820-0609",
+    "extended": "福岡県嘉穂郡桂川町吉隈 120番地",
+    "locality": "",
+    "tel": "0948-65-1155"
+  }
+]
