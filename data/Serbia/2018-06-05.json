@@ -1,0 +1,38 @@
+[
+  {
+    "id": "dc28704",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28704",
+    "name": "Hotel Crowne Plaza Belgrade",
+    "street": "10 Vladimira Popovica",
+    "extended": "",
+    "locality": "11070 Belgrade",
+    "tel": " +38 1112204004"
+  },
+  {
+    "id": "dc34876",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34876",
+    "name": "Hotel Tesla Smart Stay",
+    "street": "42 Sumatovacka",
+    "extended": "",
+    "locality": "11000 Belgrade",
+    "tel": " +381 63 412 669"
+  },
+  {
+    "id": "dc21857",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21857",
+    "name": "Hyatt Regency Belgrade",
+    "street": "5 Milentija Popovica",
+    "extended": "",
+    "locality": "11070 Belgrade",
+    "tel": " +381 11 301 1234"
+  },
+  {
+    "id": "dc18396",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18396",
+    "name": "Square Nine Hotel Belgrade",
+    "street": "Studentski Trg 9",
+    "extended": "",
+    "locality": "11000 Beograd",
+    "tel": " +38 111 333 3500"
+  }
+]
