@@ -22815,15 +22815,6 @@
     "tel": "(503) 864-4600"
   },
   {
-    "id": "dc457",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc457",
-    "name": "Dossier Hotel",
-    "street": "750 SW Alder St",
-    "extended": "",
-    "locality": "Portland, OR 97205",
-    "tel": "(503) 294-9000"
-  },
-  {
     "id": "dc14408",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14408",
     "name": "DoubleTree by Hilton Salem",
@@ -23157,21 +23148,21 @@
     "tel": "(541) 778-8788"
   },
   {
-    "id": "dc22984",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22984",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Portland, OR 97211",
-    "tel": "(877) 798-3752"
-  },
-  {
     "id": "dc15915",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15915",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Bend, 97703",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc22984",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22984",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Portland, OR 97211",
     "tel": "(877) 798-3752"
   },
   {
@@ -23326,6 +23317,15 @@
     "extended": "",
     "locality": "Waldport, Oregon 97394",
     "tel": "(541) 563-5750"
+  },
+  {
+    "id": "dc457",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc457",
+    "name": "The Westin Portland",
+    "street": "750 SW Alder St",
+    "extended": "",
+    "locality": "Portland, OR 97205",
+    "tel": "(503) 294-9000"
   },
   {
     "id": "dc13233",

@@ -1,5 +1,14 @@
 [
   {
+    "id": "dc29107",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29107",
+    "name": "Ab Kasnässudden Oy",
+    "street": "Kasnäsintie 1294",
+    "extended": "",
+    "locality": "25930 Kasnäs",
+    "tel": " +358 25210100"
+  },
+  {
     "id": "dc13598",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13598",
     "name": "Arctic Light Hotel",
@@ -70,15 +79,6 @@
     "extended": "",
     "locality": "99130 Sirkka",
     "tel": " +358 16 6510100"
-  },
-  {
-    "id": "dc29107",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29107",
-    "name": "Hotel Kasnäs",
-    "street": "Kasnäsintie 1294",
-    "extended": "",
-    "locality": "25930 Kasnäs",
-    "tel": " +358 25210100"
   },
   {
     "id": "dc23673",

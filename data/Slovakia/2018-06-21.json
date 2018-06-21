@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dc24744",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24744",
+    "name": "Aupark Shopping Center",
+    "street": "Einsteinova ul. 18",
+    "extended": "",
+    "locality": "85101 Bratislava",
+    "tel": " +421 2682 66200"
+  },
+  {
+    "id": "dc21220",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21220",
+    "name": "Chateau Gbelany",
+    "street": "Hlavna 140 140",
+    "extended": "",
+    "locality": "1302 Gbelany",
+    "tel": " +42 1414 204141"
+  },
+  {
+    "id": "dc24154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24154",
+    "name": "Cucabamba Pub & Restaurant",
+    "street": "Masiarska 430/8",
+    "extended": "",
+    "locality": "040 01 Kosice",
+    "tel": " +421 9181 85306"
+  },
+  {
+    "id": "dc34385",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34385",
+    "name": "Falkensteiner Hotel Bratislava",
+    "street": "Pilarikova Ulica 5",
+    "extended": "",
+    "locality": "81103 Bratislava",
+    "tel": " +42 1259 236100"
+  },
+  {
+    "id": "dc17597",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17597",
+    "name": "Grand Hotel Kempinski High Tatras",
+    "street": "6 Kupelna",
+    "extended": "",
+    "locality": "5985 Strba - Strbske Pleso",
+    "tel": " +42 1523 262222"
+  },
+  {
+    "id": "dc14822",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14822",
+    "name": "Hotel Danube Park Inn Bratislava",
+    "street": "Rybne namestie 1",
+    "extended": "",
+    "locality": "83104 Bratislava",
+    "tel": " +42 1259 340000"
+  },
+  {
+    "id": "dc17229",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17229",
+    "name": "Hotel Magnus",
+    "street": "1706 / 35 Povazska",
+    "extended": "",
+    "locality": "911 01 Trencin",
+    "tel": " +42 1327 484900"
+  }
+]
