@@ -1,0 +1,3854 @@
+[
+  {
+    "id": "dc48151",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48151",
+    "name": "10 Castle Street",
+    "street": "10 Castle Street",
+    "extended": "",
+    "locality": "BH21 5PZ Cranborne",
+    "tel": " +44 172 555 1133"
+  },
+  {
+    "id": "dc22483",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22483",
+    "name": "170 Marylebone Road Car Park",
+    "street": "170 Marylebone Road",
+    "extended": "",
+    "locality": "NW1 5AR London",
+    "tel": " +44 845 600 6456"
+  },
+  {
+    "id": "dc22953",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22953",
+    "name": "Abbotsford Lodge",
+    "street": "Stirling Rd",
+    "extended": "",
+    "locality": "FK17 8DA Callander",
+    "tel": " +44 187 733 0066"
+  },
+  {
+    "id": "dc19879",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19879",
+    "name": "Alexander House Hotel",
+    "street": "Alexander House Hotel, East Street",
+    "extended": "",
+    "locality": "RH10 4QD Turners Hill",
+    "tel": " +44 1342 714914"
+  },
+  {
+    "id": "dc40447",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40447",
+    "name": "Alexandra Hotel & Restaurant",
+    "street": "Pound Street",
+    "extended": "",
+    "locality": "DT73HZ Lyme Regis",
+    "tel": " +44 129 744 2010"
+  },
+  {
+    "id": "dc50699",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50699",
+    "name": "Allingham Arms Hotel",
+    "street": "West End",
+    "extended": "",
+    "locality": " Bundoran",
+    "tel": " +353 71 984 1075"
+  },
+  {
+    "id": "dc33863",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33863",
+    "name": "Anglesey Arms ",
+    "street": "Mona Road, Menai Bridge",
+    "extended": "",
+    "locality": "LL59 5EA Menai Bridge",
+    "tel": " +44 124 871 2305"
+  },
+  {
+    "id": "dc27452",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27452",
+    "name": "Another Place",
+    "street": "Another Place Watermillock, Penrith, Cumbria CA11 0LP United Kingdom",
+    "extended": "",
+    "locality": "CA11 0LP Penrith",
+    "tel": " +44 176 848 6642"
+  },
+  {
+    "id": "dc34374",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34374",
+    "name": "Ardgye House",
+    "street": "Ardgye House Ardgye Guest House",
+    "extended": "",
+    "locality": "IV30 8UP Elgin Moray",
+    "tel": " +44 134 385 0618"
+  },
+  {
+    "id": "dc47950",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47950",
+    "name": "Artist Residence Oxford",
+    "street": "Mason Arms",
+    "extended": "",
+    "locality": "OX296XN South Leigh",
+    "tel": " +44 199 365 6239"
+  },
+  {
+    "id": "dc22041",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22041",
+    "name": "Arundell Arms Hotel",
+    "street": "Arundell Arms Hotel",
+    "extended": "",
+    "locality": "PL16 0AA Lifton",
+    "tel": " +44 156 678 4666"
+  },
+  {
+    "id": "dc15348",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15348",
+    "name": "Ashbrook Lets",
+    "street": "Ashbrook Lets, Westbrook St",
+    "extended": "",
+    "locality": "OX11 9QA Blewbury",
+    "tel": " +44 186 558 9039"
+  },
+  {
+    "id": "dc11738",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11738",
+    "name": "Ashdown Park Hotel & Country Club",
+    "street": "Wych Cross",
+    "extended": "",
+    "locality": "RH18 5JR Near Forest Row",
+    "tel": " +44 134 282 4988"
+  },
+  {
+    "id": "dc35155",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35155",
+    "name": "Aviator",
+    "street": "55 Farnborough Road",
+    "extended": "",
+    "locality": "GU14 6EL Farnborough",
+    "tel": " +44 125 255 5890"
+  },
+  {
+    "id": "dc19769",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19769",
+    "name": "Babington House",
+    "street": "Babington House",
+    "extended": "",
+    "locality": "BA11 3RW Somerset",
+    "tel": " +44 137 381 2266"
+  },
+  {
+    "id": "dc24734",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24734",
+    "name": "Back to the Garden",
+    "street": "Letheringsett",
+    "extended": "",
+    "locality": "NR25 7JJ Holt",
+    "tel": " +44 126 371 5996"
+  },
+  {
+    "id": "dc20397",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20397",
+    "name": "Bailey Ground Hotel",
+    "street": "Bailey Ground Hotel Drigg Road",
+    "extended": "",
+    "locality": "CA20 1NP Seascale",
+    "tel": " +44 194 672 9786"
+  },
+  {
+    "id": "dc27878",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27878",
+    "name": "Baileys Farm Bed and Breakfast",
+    "street": "Baileys Farm, Breachwood Green, Herts SG4 8NZ United Kingdom",
+    "extended": "",
+    "locality": "SG4 8NZ Breachwood Green",
+    "tel": " +44 797 321 0608"
+  },
+  {
+    "id": "dc31824",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31824",
+    "name": "Balgove Larder",
+    "street": "Balgove Farmhouse",
+    "extended": "",
+    "locality": "KY16 9SF St Andrews",
+    "tel": " +44 133 489 8145"
+  },
+  {
+    "id": "dc24786",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24786",
+    "name": "Bankburn House",
+    "street": "St Margarets Hope",
+    "extended": "",
+    "locality": "KW17 2TG Hope",
+    "tel": " +44 185 683 1310"
+  },
+  {
+    "id": "dc16683",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16683",
+    "name": "Barnsley House",
+    "street": "Barnsley",
+    "extended": "",
+    "locality": "GL7 5EE Cirencester",
+    "tel": " +44 128 574 0000"
+  },
+  {
+    "id": "dc39363",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39363",
+    "name": "Baskerville Hall Hotel",
+    "street": "Clyro Court",
+    "extended": "",
+    "locality": "HR3 5LE Powys",
+    "tel": " +44 149 782 0033"
+  },
+  {
+    "id": "dc35270",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35270",
+    "name": "Battle Brewery",
+    "street": "The Calf House",
+    "extended": "",
+    "locality": "TN33 0LL Battle",
+    "tel": " +44 142 477 2838"
+  },
+  {
+    "id": "dc34227",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34227",
+    "name": "Battlesteads",
+    "street": "Battlesteads",
+    "extended": "",
+    "locality": "NE48 3LS Wark-On-Tyne",
+    "tel": " +44 143 423 0209"
+  },
+  {
+    "id": "dc27430",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27430",
+    "name": "Baylis House Hotel",
+    "street": "Stoke Poges Lane",
+    "extended": "",
+    "locality": "SL1 3PB Slough",
+    "tel": " +44 175 355 5555"
+  },
+  {
+    "id": "dc20566",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20566",
+    "name": "Bayview Hotel",
+    "street": "2 Bayhead Road",
+    "extended": "",
+    "locality": "BT57 8RZ Portballintrae",
+    "tel": " +44 2820 734 100"
+  },
+  {
+    "id": "dc25781",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25781",
+    "name": "Beach Boys",
+    "street": "Parc Peter Lane",
+    "extended": "",
+    "locality": "PL28 8JJ Padstow",
+    "tel": " +44 773 021 8106"
+  },
+  {
+    "id": "dc32533",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32533",
+    "name": "Beach Lodge Hotel",
+    "street": "Queens Park Close",
+    "extended": "",
+    "locality": "LN12 2AS Mablethorpe",
+    "tel": " +44 150 747 3130"
+  },
+  {
+    "id": "dc17070",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17070",
+    "name": "Bedford Lodge Hotel",
+    "street": "11 Bury Road",
+    "extended": "",
+    "locality": "CB8 7BX Newmarket",
+    "tel": " +44 163 866 3175"
+  },
+  {
+    "id": "dc11548",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11548",
+    "name": "Beechenhill Farm",
+    "street": "Ilam Moore Lane",
+    "extended": "",
+    "locality": "DE6 2BD Ashbourne",
+    "tel": " +44 133 531 0274"
+  },
+  {
+    "id": "dc22275",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22275",
+    "name": "Belle Vue Barn",
+    "street": "1 Rochdale Road Golcar, Huddersfield, West Yorkshire HD7 4NN United Kingdom",
+    "extended": "",
+    "locality": "HD7 4NN Huddersfield",
+    "tel": " +44 779 664 6328"
+  },
+  {
+    "id": "dc13819",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13819",
+    "name": "Bents Garden & Home",
+    "street": "Warrington Road",
+    "extended": "",
+    "locality": "WA3 5NT Warrington",
+    "tel": " +44 194 226 6300"
+  },
+  {
+    "id": "dc38468",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38468",
+    "name": "Best Western Hotel Bristol at Newquay",
+    "street": "Narrowcliff, Ne",
+    "extended": "",
+    "locality": "TR7 2PQ Newquay",
+    "tel": " +44 163 787 5181"
+  },
+  {
+    "id": "dc14081",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14081",
+    "name": "Best Western Plus Windmill Village Hotel, Golf Club & Spa",
+    "street": "Birmingham Road",
+    "extended": "",
+    "locality": "CV5 9AL Coventry",
+    "tel": " +44 024 764 04040"
+  },
+  {
+    "id": "dc20426",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20426",
+    "name": "Best Western Rockingham Forest Hotel",
+    "street": "Best Western Rockingham Forest Hotel",
+    "extended": "",
+    "locality": "NN17 1AE Corby",
+    "tel": " +44 153 640 1348"
+  },
+  {
+    "id": "dc21892",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21892",
+    "name": "Bloomfields Shopping Centre",
+    "street": "Bloomfields Shopping Centre, S Circular Rd",
+    "extended": "",
+    "locality": "BT19 7HB Bangor",
+    "tel": " +44 289 127 0797"
+  },
+  {
+    "id": "dc28057",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28057",
+    "name": "Bluestone National Park Resort",
+    "street": "Bluestone, Canaston Wood, Narberth",
+    "extended": "",
+    "locality": "SA678DE Narberth",
+    "tel": " +44 183 486 9900"
+  },
+  {
+    "id": "dc29942",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29942",
+    "name": "Boringdon Hall Hotel and Gaia Spa",
+    "street": "Boringdon Hill, Pl",
+    "extended": "",
+    "locality": "PL7 4DP Plymouth",
+    "tel": " +44 175 234 4455"
+  },
+  {
+    "id": "dc11866",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11866",
+    "name": "Boskerris Hotel",
+    "street": "Boskerris Road",
+    "extended": "",
+    "locality": "TR26 2NQ St. Ives",
+    "tel": " +44 173 679 5295"
+  },
+  {
+    "id": "dc20676",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20676",
+    "name": "Botleys Mansion",
+    "street": "Bijou Weddings",
+    "extended": "",
+    "locality": "KT16 0AP Chertsey",
+    "tel": " +44 03451309966"
+  },
+  {
+    "id": "dc27069",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27069",
+    "name": "Boughton Golf Club",
+    "street": "Brickfield Lane",
+    "extended": "",
+    "locality": "ME13 9AJ Boughton-under-Blean",
+    "tel": " +44 122 775 2277"
+  },
+  {
+    "id": "dc36152",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36152",
+    "name": "Boulder Hut",
+    "street": "Poole Hall Lane, El",
+    "extended": "",
+    "locality": "CH66 1ST Ellesmere Port",
+    "tel": " +44 151 305 6868"
+  },
+  {
+    "id": "dc25403",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25403",
+    "name": "Bower House Inn",
+    "street": "Eskdale",
+    "extended": "",
+    "locality": "CA19 1TD Cumbria",
+    "tel": " +44 194 672 3244"
+  },
+  {
+    "id": "dc32804",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32804",
+    "name": "Brackenborough Hotel",
+    "street": "Cordeaux Corner",
+    "extended": "",
+    "locality": "LN11 0SZ Louth",
+    "tel": " +44 150 760 9169"
+  },
+  {
+    "id": "dc21976",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21976",
+    "name": "Brampton Grange Estate",
+    "street": "Brampton Grange Estate Sandy Lane",
+    "extended": "",
+    "locality": "NN6 8AD Chapel Brampton",
+    "tel": " +44 160 484 4717"
+  },
+  {
+    "id": "dc29219",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29219",
+    "name": "Brecon Retreat - Aberyscir",
+    "street": "Brecon Retreat Swn Y Nant , Aberyscir, LD3 9NP United Kingdom",
+    "extended": "",
+    "locality": "LD3 9NP Aberyscir",
+    "tel": " +44 187 463 6263"
+  },
+  {
+    "id": "dc43682",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43682",
+    "name": "Brewery House Bed & Breakfast",
+    "street": "23 King Street",
+    "extended": "",
+    "locality": "DG86DQ Newton Stewart",
+    "tel": " +44 167 140 2778"
+  },
+  {
+    "id": "dc11556",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11556",
+    "name": "Brimstone Hotel",
+    "street": "The Langdale estate",
+    "extended": "",
+    "locality": "LA22 9JD Nr Ambleside",
+    "tel": " +44 153 943 8014"
+  },
+  {
+    "id": "dc38120",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38120",
+    "name": "Brooks Country House",
+    "street": "Brooks Country House Pengethley Manor",
+    "extended": "",
+    "locality": "HR9 6LL Ross-on-Wye",
+    "tel": " +44 198 973 0211"
+  },
+  {
+    "id": "dc22420",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22420",
+    "name": "Brownsover Hall Hotel",
+    "street": "Brownsover Hall Hotel Old Brownsover",
+    "extended": "",
+    "locality": "CV21 1HU Rugby",
+    "tel": " +44 178 854 6100"
+  },
+  {
+    "id": "dc26551",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26551",
+    "name": "Bruisyard Hall",
+    "street": "Bruisyard Hall",
+    "extended": "",
+    "locality": "IP17 2EJ Saxmundham",
+    "tel": " +44 17286 39000"
+  },
+  {
+    "id": "dc11555",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11555",
+    "name": "Bryn Elltyd Eco Guesthouse",
+    "street": "Bryn Elltyd",
+    "extended": "",
+    "locality": "LL41 3TW Blaenau Ffestiniog",
+    "tel": " +44 176 683 1356"
+  },
+  {
+    "id": "dc29837",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29837",
+    "name": "Bryncir Garden Centre And Cafe",
+    "street": "Bryncir",
+    "extended": "",
+    "locality": "LL51 9LX Garndolbenmaen",
+    "tel": " +44 176 653 0434"
+  },
+  {
+    "id": "dc34680",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34680",
+    "name": "Budock Vean Hotel",
+    "street": "Near Helford Passage",
+    "extended": "",
+    "locality": "TR11 5LG Falmouth",
+    "tel": " +44 132 625 0288"
+  },
+  {
+    "id": "dc17633",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17633",
+    "name": "Bunchrew House",
+    "street": "Inverness",
+    "extended": "",
+    "locality": "IV3 8TA Bunchrew",
+    "tel": " +44 14 632 349 17"
+  },
+  {
+    "id": "dc19191",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19191",
+    "name": "Burgh Island Hotel",
+    "street": "Mainland garages, Burgh Island Causeway Marine Drive",
+    "extended": "",
+    "locality": "TQ7 4AS Bigbury on Sea",
+    "tel": " +44 1548 810514"
+  },
+  {
+    "id": "dc16681",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16681",
+    "name": "Calcot Manor Hotel & Spa",
+    "street": "Near Tetbury",
+    "extended": "",
+    "locality": "GL8 8YJ Tetbury",
+    "tel": " +44 166 689 0391"
+  },
+  {
+    "id": "dc11093",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11093",
+    "name": "Carbis Bay Hotel",
+    "street": "Carbis Bay",
+    "extended": "",
+    "locality": "TR26 2NP St Ives",
+    "tel": " +44 173 679 5311"
+  },
+  {
+    "id": "dc11772",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11772",
+    "name": "Careys Manor Hotel & SenSpa",
+    "street": "Lyndhurst Road",
+    "extended": "",
+    "locality": "SO42 7RH Brockenhurst",
+    "tel": " +44 159 062 3551"
+  },
+  {
+    "id": "dc36510",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36510",
+    "name": "Castle Lodge",
+    "street": "Castle Lodge 50 New Barns Road",
+    "extended": "",
+    "locality": "CB7 4PW Ely",
+    "tel": " +44 135 344 0430"
+  },
+  {
+    "id": "dc18755",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18755",
+    "name": "Champneys Forest Mere",
+    "street": "Portsmouth Road",
+    "extended": "",
+    "locality": "GU30 7JG Hampshire",
+    "tel": " +44 142 872 6000"
+  },
+  {
+    "id": "dc19674",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19674",
+    "name": "Champneys Henlow",
+    "street": "Champneys Henlow",
+    "extended": "",
+    "locality": "SG16 6BT Henlow",
+    "tel": " +44 146 281 1111"
+  },
+  {
+    "id": "dc19652",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19652",
+    "name": "Champneys Springs Health Resort",
+    "street": "Champneys Springs Health Resort",
+    "extended": "",
+    "locality": "LE65 1TG Packington",
+    "tel": " +44 153 027 3873"
+  },
+  {
+    "id": "dc18754",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18754",
+    "name": "Champneys Tring",
+    "street": "Champneys Tring",
+    "extended": "",
+    "locality": "HP23 6HX Wigginton",
+    "tel": " +44 144 229 1200"
+  },
+  {
+    "id": "dc43473",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43473",
+    "name": "Chapel Farm Guest House",
+    "street": "Hobbs Hill",
+    "extended": "",
+    "locality": "EX33 1NE Croyde",
+    "tel": " +44 1271 611001"
+  },
+  {
+    "id": "dc28311",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28311",
+    "name": "Chateau Rhianfa",
+    "street": "Beaumaris Road",
+    "extended": "",
+    "locality": "LL59 5NS Menai Bridge",
+    "tel": " +44 124 888 0090"
+  },
+  {
+    "id": "dc16840",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16840",
+    "name": "Chelsea Design Centre",
+    "street": "319 Harbour Yard",
+    "extended": "",
+    "locality": "SW100XD London",
+    "tel": " +44 207 225 9166"
+  },
+  {
+    "id": "dc24393",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24393",
+    "name": "Cheltenham Park Hotel",
+    "street": "Cheltenham Park Hotel Cirencester Road, Charlton Kings",
+    "extended": "",
+    "locality": "GL53 8EA Cheltenham",
+    "tel": " +44 124 222 9295"
+  },
+  {
+    "id": "dc19754",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19754",
+    "name": "Cherry Tree Lodge",
+    "street": "Cherry Tree Lodge, Saline",
+    "extended": "",
+    "locality": "KY12 9TA Dunfermline",
+    "tel": " +44 794 042 1038"
+  },
+  {
+    "id": "dc17676",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17676",
+    "name": "CitiPark 30 Tariff Street",
+    "street": "30 Tariff Street",
+    "extended": "",
+    "locality": "M1 2FJ Manchester",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc17680",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17680",
+    "name": "CitiPark Bell Street",
+    "street": "Bell Street Car Park",
+    "extended": "",
+    "locality": "NW1 5BZ London",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc39374",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39374",
+    "name": "CitiPark Church Watford",
+    "street": "CitiPark Church Exchange Road",
+    "extended": "",
+    "locality": "WD18 0BU Watford",
+    "tel": " +44 333 344 4949"
+  },
+  {
+    "id": "dc17678",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17678",
+    "name": "CitiPark Clements Road",
+    "street": "Clements Road Multi Storey Car Park",
+    "extended": "",
+    "locality": "IG1 1AG Ilford",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc17679",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17679",
+    "name": "CitiPark Clipstone Street",
+    "street": "Clipstone Street Car Park",
+    "extended": "",
+    "locality": "W1W 5DG London",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc17682",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17682",
+    "name": "CitiPark Gade Car Park",
+    "street": "Gade Car Park",
+    "extended": "",
+    "locality": "WD18 0JX Watford",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc17671",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17671",
+    "name": "CitiPark Leeds Dock",
+    "street": "Leeds Dock Multi-Storey Car Park",
+    "extended": "",
+    "locality": "LS10 1LE Leeds",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc17670",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17670",
+    "name": "CitiPark Merrion Centre",
+    "street": "Merrion Centre Multi-Storey Car Park",
+    "extended": "",
+    "locality": "LS2 8BT Leeds",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc17681",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17681",
+    "name": "CitiPark Sutton",
+    "street": "Sutton Car Park",
+    "extended": "",
+    "locality": "WD17 2PS Watford",
+    "tel": " +44 333 344 4939"
+  },
+  {
+    "id": "dc22451",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22451",
+    "name": "Clevedon Hall",
+    "street": "Clevedon Hall",
+    "extended": "",
+    "locality": "BS21 7RH Clevedon",
+    "tel": " +44 127 579 5895"
+  },
+  {
+    "id": "dc27477",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27477",
+    "name": "Coast Restaurant",
+    "street": "Coast Restaurant Coppet Hall Beach",
+    "extended": "",
+    "locality": "SA69 9AJ Saundersfoot",
+    "tel": " +44 183 481 0800"
+  },
+  {
+    "id": "dc14062",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14062",
+    "name": "Cobb Quay Marina",
+    "street": "Cobb Quay Marina",
+    "extended": "",
+    "locality": "BH15 4EL Poole",
+    "tel": " +44 120 267 4299"
+  },
+  {
+    "id": "dc22155",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22155",
+    "name": "Concierge Camping",
+    "street": "Ratham House Ratham Ln",
+    "extended": "",
+    "locality": "PO18 8DL Chichester",
+    "tel": " +44 124 357 3118"
+  },
+  {
+    "id": "dc30152",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30152",
+    "name": "Cononley Hall Bed & Breakfast",
+    "street": "Cononley Hall Bed and Breakfast Main St",
+    "extended": "",
+    "locality": "BD20 8LJ Cononley",
+    "tel": " +44 15 356 33923"
+  },
+  {
+    "id": "dc18201",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18201",
+    "name": "Cotswold House Hotel and Spa",
+    "street": "Lower High St, Upper High Street",
+    "extended": "",
+    "locality": "GL55 6AN Chipping Campden",
+    "tel": " +44 138 684 0330"
+  },
+  {
+    "id": "dc22809",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22809",
+    "name": "Crescent Link Retail Park",
+    "street": "Retail Park Crescent Link",
+    "extended": "",
+    "locality": "BT47 6SA Co. Londonderry",
+    "tel": "0800 756 9960"
+  },
+  {
+    "id": "dc32519",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32519",
+    "name": "Cringletie House Hotel",
+    "street": "Cringletie House Hotel Edinburgh Rd, Peebles, EH45 8PL United Kingdom",
+    "extended": "",
+    "locality": "EH45 8PL Peebles",
+    "tel": " +44 172 172 5750"
+  },
+  {
+    "id": "dc32589",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32589",
+    "name": "Croft Acre Holiday Cottages",
+    "street": "The Rickyard Port Eynon",
+    "extended": "",
+    "locality": "SA3 1NN Swansea",
+    "tel": " +44 179 239 0999"
+  },
+  {
+    "id": "dc20428",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20428",
+    "name": "Crowne Plaza Gerrards Cross",
+    "street": "Oxford Road",
+    "extended": "",
+    "locality": "HP9 2XE Beaconsfield",
+    "tel": " +44 175 389 3891"
+  },
+  {
+    "id": "dc11094",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11094",
+    "name": "Crowne Plaza Resort, Colchester Five Lakes",
+    "street": "Crowne Plaza Resort, Colchester Five Lakes",
+    "extended": "",
+    "locality": "CM9 8HX Colchester",
+    "tel": " +44 162 186 8888"
+  },
+  {
+    "id": "dc26550",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26550",
+    "name": "Culloden Hotel & Spa",
+    "street": "142 Bangor Road",
+    "extended": "",
+    "locality": "BT18 OEX Belfast",
+    "tel": " +44 289 042 1066"
+  },
+  {
+    "id": "dc27435",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27435",
+    "name": "Cynfal Farm Cottages",
+    "street": "Bryncrug",
+    "extended": "",
+    "locality": "LL36 9RB Tywyn",
+    "tel": " +44 165 471 1703"
+  },
+  {
+    "id": "dc43992",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43992",
+    "name": "Dandy's Topsoil",
+    "street": "Sealand Road",
+    "extended": "",
+    "locality": "CH1 6BS Chester",
+    "tel": " +44 124 428 0008"
+  },
+  {
+    "id": "dc19339",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19339",
+    "name": "Daylesford Farm",
+    "street": "Daylesford",
+    "extended": "",
+    "locality": "GL56 0YG Daylesford near Kingham",
+    "tel": " +44 1608 731 700 "
+  },
+  {
+    "id": "dc22418",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22418",
+    "name": "Deanwood Park Golf Club",
+    "street": "",
+    "extended": "",
+    "locality": "RG20 8JP Newbury",
+    "tel": " +44 163 548 772"
+  },
+  {
+    "id": "dc26957",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26957",
+    "name": "Devonshire Arms Hotel & Spa",
+    "street": "Bolton Abbey",
+    "extended": "",
+    "locality": "BD23 6AJ Skipton",
+    "tel": " +44 1756 718100"
+  },
+  {
+    "id": "dc14071",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14071",
+    "name": "Diggerland",
+    "street": "Roman Way",
+    "extended": "",
+    "locality": "ME2 2NU Strood",
+    "tel": " +44 871 227 7007"
+  },
+  {
+    "id": "dc14072",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14072",
+    "name": "Diggerland Devon",
+    "street": "Verbeer Manor",
+    "extended": "",
+    "locality": "EX15 2PE Cullompton",
+    "tel": " +44 871 227 7007"
+  },
+  {
+    "id": "dc14073",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14073",
+    "name": "Diggerland Durham",
+    "street": "Diggerland",
+    "extended": "",
+    "locality": "DH7 9TT Durham",
+    "tel": " +44 870 034 4437"
+  },
+  {
+    "id": "dc14074",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14074",
+    "name": "Diggerland Yorkshire",
+    "street": "Willowbridge Lane",
+    "extended": "",
+    "locality": "WF10 5NW Castleford",
+    "tel": " +44 871 227 7007"
+  },
+  {
+    "id": "dc22833",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22833",
+    "name": "Donington Park Farmhouse Hotel",
+    "street": "Donington Park Farmhouse Hotel",
+    "extended": "",
+    "locality": "DE74 2RN Nr Derby",
+    "tel": " +44 133 286 2409"
+  },
+  {
+    "id": "dc22417",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22417",
+    "name": "Donnington Valley Golf Club",
+    "street": "Snelsmore House",
+    "extended": "",
+    "locality": "RG14 3AG Newbury",
+    "tel": " +44 163 555 1199"
+  },
+  {
+    "id": "dc22416",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22416",
+    "name": "Donnington Valley Hotel & Spa",
+    "street": "Old Oxford Road",
+    "extended": "",
+    "locality": "RG14 3AG Newbury",
+    "tel": " +44 163 555 1199"
+  },
+  {
+    "id": "dc11961",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11961",
+    "name": "DoubleTree by Hilton Cadbury House",
+    "street": "Frost Hill",
+    "extended": "",
+    "locality": "North Somerset Congresbury",
+    "tel": " +44 193 483 4343"
+  },
+  {
+    "id": "dc34657",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34657",
+    "name": "Druidstone Hotel",
+    "street": "The Druidstone",
+    "extended": "",
+    "locality": "SA62 3NE Pembrokeshire",
+    "tel": " +44 143 778 1221"
+  },
+  {
+    "id": "dc36309",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36309",
+    "name": "Ducati Manchester",
+    "street": "Dalton House, Cross St",
+    "extended": "",
+    "locality": "M33 7AR Cross St",
+    "tel": " +44 161 973 9572"
+  },
+  {
+    "id": "dc20161",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20161",
+    "name": "Duke of York",
+    "street": "Bridlington Road",
+    "extended": "",
+    "locality": "YO41 1JS Gate Helmsley",
+    "tel": " +44 175 937 3698"
+  },
+  {
+    "id": "dc21187",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21187",
+    "name": "Dunston Hall Hotel",
+    "street": "Dunston Hall Hotel",
+    "extended": "",
+    "locality": "NR14 8PQ Norwich",
+    "tel": " +44 871 222 4683"
+  },
+  {
+    "id": "dc28791",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28791",
+    "name": "Eagle Brae",
+    "street": "Eagle Brae A831, Strathglass, IV4 7LE United Kingdom",
+    "extended": "",
+    "locality": "IV4 7LE Strathglass",
+    "tel": " +44 146 376 1301"
+  },
+  {
+    "id": "dc26017",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26017",
+    "name": "East Cambusmoon Holiday Cottages",
+    "street": "East Cambusmoon Farm Duncryne Road",
+    "extended": "",
+    "locality": "G83 8RZ Gartocharn",
+    "tel": " +44 790 509 3997"
+  },
+  {
+    "id": "dc11962",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11962",
+    "name": "Elen's Castle Hotel and Restaurant",
+    "street": "Elen's Castle Hotel and Restaurant",
+    "extended": "",
+    "locality": "LL25 0EJ Dolwyddelan",
+    "tel": " +44 169 075 0207"
+  },
+  {
+    "id": "dc19654",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19654",
+    "name": "Ellenborough Park Hotel",
+    "street": "Ellenborough Park",
+    "extended": "",
+    "locality": "GL52 3NJ Cheltenham",
+    "tel": " +44 124 254 5454"
+  },
+  {
+    "id": "dc30464",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30464",
+    "name": "English Oak Vineyard",
+    "street": "Flowers Drove",
+    "extended": "",
+    "locality": "BH16 6BX Poole",
+    "tel": " +44 125 885 8205"
+  },
+  {
+    "id": "dc21895",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21895",
+    "name": "Erneside Shopping Centre",
+    "street": "Erneside Shopping Centre, East Bridge St",
+    "extended": "",
+    "locality": "BT74 7BN Enniskillen",
+    "tel": " +44 286 632 5705"
+  },
+  {
+    "id": "dc27690",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27690",
+    "name": "Etchinghill Golf Club",
+    "street": "Canterbury Road",
+    "extended": "",
+    "locality": "CT18 8FA Etchinghill",
+    "tel": " +44 130 386 3863"
+  },
+  {
+    "id": "dc24861",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24861",
+    "name": "Fairfield The Old Rectory",
+    "street": "Fairfield, Main St",
+    "extended": "",
+    "locality": "NG22 9LP Kirton",
+    "tel": " +44 796 713 3817"
+  },
+  {
+    "id": "dc10967",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10967",
+    "name": "Fairmont St Andrews",
+    "street": "Fairmont St Andrews",
+    "extended": "",
+    "locality": "KY16 8PN Dundee",
+    "tel": " +44 133 483 7000"
+  },
+  {
+    "id": "dc26352",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26352",
+    "name": "Felbrigg Lodge",
+    "street": "School Rd",
+    "extended": "",
+    "locality": "NR11 8RA Aylmerton",
+    "tel": " +44 126 383 7588"
+  },
+  {
+    "id": "dc26871",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26871",
+    "name": "Feversham Arms Hotel & Verbena Spa",
+    "street": "Feversham Arms Hotel 1-8 High Street",
+    "extended": "",
+    "locality": "YO62 5AG Helmsley",
+    "tel": " +44 143 977 0766"
+  },
+  {
+    "id": "dc32171",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32171",
+    "name": "Flackley Ash Hotel & Restaurant",
+    "street": "Mackerel Hill",
+    "extended": "",
+    "locality": "TN31 6YH Peamarsh",
+    "tel": " +44 179 723 0651"
+  },
+  {
+    "id": "dc10722",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10722",
+    "name": "Fonab Castle",
+    "street": "Fonab Castle",
+    "extended": "",
+    "locality": "PH16 5ND Perth",
+    "tel": " +44 1796 470140"
+  },
+  {
+    "id": "dc20590",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20590",
+    "name": "Foxhill Manor",
+    "street": "Farncombe Estate, Broadway",
+    "extended": "",
+    "locality": "WR12 7LJ Broadway",
+    "tel": " +44 138 685 2711"
+  },
+  {
+    "id": "dc21890",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21890",
+    "name": "Galgorm Castle",
+    "street": "Galgorm Rd",
+    "extended": "",
+    "locality": "BT14 1HL Ballymena",
+    "tel": " +44 282 564 6161"
+  },
+  {
+    "id": "dc29847",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29847",
+    "name": "Gillingham Retail Park",
+    "street": "Gillingham Retail Park",
+    "extended": "",
+    "locality": "ME8 0PU Gillingham",
+    "tel": " N/A"
+  },
+  {
+    "id": "dc33268",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33268",
+    "name": "Glan Yr Afon Inn",
+    "street": "Milwr",
+    "extended": "",
+    "locality": "CH8 8HE Holywell",
+    "tel": " +44 135 271 0052"
+  },
+  {
+    "id": "dc10709",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10709",
+    "name": "Gleneagles",
+    "street": "The Gleneagles Hotel",
+    "extended": "",
+    "locality": "PH3 1NF Perthshire",
+    "tel": " +44 176 466 2231"
+  },
+  {
+    "id": "dc25053",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25053",
+    "name": "Glenfall House",
+    "street": "Mill Lane Charlton Kings",
+    "extended": "",
+    "locality": "Gl544 EP Cheltenham",
+    "tel": " +44 124 232 3889"
+  },
+  {
+    "id": "dc26336",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26336",
+    "name": "Glyn y Coed Hotel",
+    "street": "Porthmadog Road",
+    "extended": "",
+    "locality": "LL52 0HP Criccieth",
+    "tel": " +44 176 652 2870"
+  },
+  {
+    "id": "dc15824",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15824",
+    "name": "Glyndebourne Opera",
+    "street": "Glyndebourne Opera House",
+    "extended": "",
+    "locality": "BN8 5UU Lewes",
+    "tel": " +44 127 381 5000"
+  },
+  {
+    "id": "dc22254",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22254",
+    "name": "Goldsborough Hall",
+    "street": "Church Street",
+    "extended": "",
+    "locality": "HG5 8NR Knaresborough",
+    "tel": " +44 1423 867 321"
+  },
+  {
+    "id": "dc37772",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37772",
+    "name": "Gordon Castle Walled Garden and Cafe",
+    "street": "Gordon Castle",
+    "extended": "",
+    "locality": "IV32 7PQ Fochabers",
+    "tel": " +44 134 361 2320"
+  },
+  {
+    "id": "dc39013",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39013",
+    "name": "Grafton Manor Hotel",
+    "street": "Grafton Lane",
+    "extended": "",
+    "locality": "B61 7HA Bromsgrove",
+    "tel": " +44 152 757 9007"
+  },
+  {
+    "id": "dc16137",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16137",
+    "name": "Gravetye Manor",
+    "street": "Gravetye Manor Vowels Ln",
+    "extended": "",
+    "locality": "RH19 4LJ West Hoathly",
+    "tel": " +44 134 281 0567"
+  },
+  {
+    "id": "dc32176",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32176",
+    "name": "Great Fosters",
+    "street": "Stroude Road",
+    "extended": "",
+    "locality": "TW20 9UR Egham",
+    "tel": " +44 178 443 3822"
+  },
+  {
+    "id": "dc37003",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37003",
+    "name": "Great Tangley Manor",
+    "street": "Great Tangley Manor Great Tangley",
+    "extended": "",
+    "locality": "GU5 0PT Wonersh",
+    "tel": " +44 207 526 4852"
+  },
+  {
+    "id": "dc19675",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19675",
+    "name": "Greenbanks",
+    "street": "Greenbanks Hotel",
+    "extended": "",
+    "locality": "NR19 2NA Great Fransham",
+    "tel": " +44 136 268 7742"
+  },
+  {
+    "id": "dc16084",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16084",
+    "name": "Grey Seal Coffee Roastery",
+    "street": "Manor Farm Barns",
+    "extended": "",
+    "locality": "NR25 7JP Glandford",
+    "tel": " +44 126 374 0249"
+  },
+  {
+    "id": "dc33872",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33872",
+    "name": "Gwesty Links Hotel",
+    "street": "77 Conway Road",
+    "extended": "",
+    "locality": "LL30 1PN Llandudno",
+    "tel": " +44 149 287 9180"
+  },
+  {
+    "id": "dc14063",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14063",
+    "name": "Hamble Point Marina",
+    "street": "Hamble Point Marina",
+    "extended": "",
+    "locality": "SO31 4NB Southampton",
+    "tel": " +44 238 045 2464"
+  },
+  {
+    "id": "dc10860",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10860",
+    "name": "Hamble Yacht Services",
+    "street": "Port Hamble",
+    "extended": "",
+    "locality": "SO31 4NN Southampton",
+    "tel": " +44 238 020 1501"
+  },
+  {
+    "id": "dc18177",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18177",
+    "name": "Hambleton Hall",
+    "street": "Hambleton",
+    "extended": "",
+    "locality": "LE15 8TH Oakham",
+    "tel": " +44 157 275 6991"
+  },
+  {
+    "id": "dc12916",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12916",
+    "name": "Harbour Heights Hotel",
+    "street": "73 Haven Road",
+    "extended": "",
+    "locality": "BH13 7LW Poole",
+    "tel": " +44 120 270 7272"
+  },
+  {
+    "id": "dc13415",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13415",
+    "name": "Harrods",
+    "street": "Harrods Car Park",
+    "extended": "",
+    "locality": "SW3 1BB London",
+    "tel": " +44 207 730 1234"
+  },
+  {
+    "id": "dc43735",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43735",
+    "name": "Haven Hall",
+    "street": "5 Howard Rd",
+    "extended": "",
+    "locality": "PO37 6HD Shanklin",
+    "tel": " +44 791 479 6494"
+  },
+  {
+    "id": "dc12917",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12917",
+    "name": "Haven Hotel",
+    "street": "161 Banks Road",
+    "extended": "",
+    "locality": "BH13 7QL Poole",
+    "tel": " +44 120 270 7333"
+  },
+  {
+    "id": "dc19600",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19600",
+    "name": "Hellidon Lakes Golf & Spa Hotel",
+    "street": "Hellidon Lakes Golf & Spa Hotel",
+    "extended": "",
+    "locality": "NN11 6GG Hellidon",
+    "tel": " +44 1327 262 550"
+  },
+  {
+    "id": "dc18710",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18710",
+    "name": "Hideaway House",
+    "street": "Helebridge Road",
+    "extended": "",
+    "locality": "EX23 0HY Bude",
+    "tel": " +44 796 942 0871"
+  },
+  {
+    "id": "dc15210",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15210",
+    "name": "Hintlesham Hall Hotel",
+    "street": "Hintlesham Hall Hotel Hintlesham Ipswich Suffolk",
+    "extended": "",
+    "locality": "IP8 3NS Ipswich",
+    "tel": " +44 147 365 2334"
+  },
+  {
+    "id": "dc25132",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25132",
+    "name": "Hoburne Naish Holiday Park",
+    "street": "Naish Estate, Christchurch Road",
+    "extended": "",
+    "locality": "BH25 7RH New Milton",
+    "tel": " +44 142 528 2541"
+  },
+  {
+    "id": "dc25784",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25784",
+    "name": "Holiday Inn Express Wigan",
+    "street": "Martland Mill",
+    "extended": "",
+    "locality": "WN5 0LX Wigan",
+    "tel": " +44 194 231 1311"
+  },
+  {
+    "id": "dc18777",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18777",
+    "name": "Holiday Inn Garden Court Wolverhampton",
+    "street": "Gorsebrook Road",
+    "extended": "",
+    "locality": "WV6 0PE Wolverhampton",
+    "tel": " +44 190 239 0003"
+  },
+  {
+    "id": "dc34587",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34587",
+    "name": "Holiday Inn Newport",
+    "street": "The Coldra",
+    "extended": "",
+    "locality": "NP18 2YG Newport",
+    "tel": " +44 163 341 2777"
+  },
+  {
+    "id": "dc26432",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26432",
+    "name": "Horseshoe Guesthouse",
+    "street": "Church Street",
+    "extended": "",
+    "locality": "LD6 5AT Rhayader",
+    "tel": " +44 1597 810982"
+  },
+  {
+    "id": "dc35361",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35361",
+    "name": "Horspool Retreat",
+    "street": "Gibsmere",
+    "extended": "",
+    "locality": "NG147FS Nottingham",
+    "tel": " +44 794 318 4816"
+  },
+  {
+    "id": "dc26979",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26979",
+    "name": "Hotel Felix",
+    "street": "Hotel Felix Whitehouse Lane, Cambridge, CB3 0LX United Kingdom",
+    "extended": "",
+    "locality": "CB3 0LX Cambridge",
+    "tel": " +44 122 327 7977"
+  },
+  {
+    "id": "dc34994",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34994",
+    "name": "Hotel Number Four",
+    "street": "Fosseway",
+    "extended": "",
+    "locality": "GL54 1JX Cheltenham",
+    "tel": " +44 145 183 0297"
+  },
+  {
+    "id": "dc31676",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31676",
+    "name": "House in the Yard",
+    "street": "House in the Yard - Tyn Y Buarth Llangaffo",
+    "extended": "",
+    "locality": "LL60 6LY Gaerwen",
+    "tel": " +44 124 844 0860"
+  },
+  {
+    "id": "dc39272",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39272",
+    "name": "Housing Units",
+    "street": "Housing Units Ltd Wickentree Lane",
+    "extended": "",
+    "locality": "M35 9BA Manchester",
+    "tel": " +44 161 681 5678"
+  },
+  {
+    "id": "dc11544",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11544",
+    "name": "Huntstile Organic Farm",
+    "street": "Park Lane, Huntstile",
+    "extended": "",
+    "locality": "TA5 2DQ Bridgwater",
+    "tel": " +44 127 866 2358"
+  },
+  {
+    "id": "dc35560",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35560",
+    "name": "Hurley House Hotel",
+    "street": "Henley Road",
+    "extended": "",
+    "locality": "SL6 5LH Hurley",
+    "tel": " +44 162 856 8500"
+  },
+  {
+    "id": "dc11559",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11559",
+    "name": "Imperial Hotel",
+    "street": "13-15 North Drive",
+    "extended": "",
+    "locality": "NR30 1EQ Great Yarmouth",
+    "tel": " +44 149 384 2000"
+  },
+  {
+    "id": "dc11713",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11713",
+    "name": "Imperial Hotel",
+    "street": "The Promenade",
+    "extended": "",
+    "locality": "LL30 1AP Llandudno",
+    "tel": " +44 149 287 7466"
+  },
+  {
+    "id": "dc18858",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18858",
+    "name": "Indigo Kensington",
+    "street": "Hornton Street",
+    "extended": "",
+    "locality": "W8 7NX London",
+    "tel": " +44 1908 223 500"
+  },
+  {
+    "id": "dc17634",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17634",
+    "name": "Indigo West India Quay",
+    "street": "West India Quay Car Park",
+    "extended": "",
+    "locality": "E14 4AN London",
+    "tel": " +44 20 7517 9388"
+  },
+  {
+    "id": "dc26087",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26087",
+    "name": "Intercontinental London Park Lane",
+    "street": "1 Hamilton Place",
+    "extended": "",
+    "locality": "W1J 7QY London",
+    "tel": " +44 207 409 3131"
+  },
+  {
+    "id": "dc18974",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18974",
+    "name": "Isle of Eriska Hotel and Spa",
+    "street": "Isle of Eriska Hotel, Benderloch",
+    "extended": "",
+    "locality": "PA37 1SD By Oban",
+    "tel": " +44 163 172 0371"
+  },
+  {
+    "id": "dc22422",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22422",
+    "name": "Isle of Man Motor Museum",
+    "street": "Isle of Man Motor Museum",
+    "extended": "",
+    "locality": "IM7 3BD Jurby",
+    "tel": " +44 162 488 8333"
+  },
+  {
+    "id": "dc37008",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37008",
+    "name": "J.W. Lees Brewery",
+    "street": "Middleton Junction",
+    "extended": "",
+    "locality": "M24 2AX Manchester",
+    "tel": " +44 161 643 2487"
+  },
+  {
+    "id": "dc21154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21154",
+    "name": "JJ's Fuel Station, Convenience Store & Garden Centre",
+    "street": "Witham Road",
+    "extended": "",
+    "locality": "LN10 6QX Woodhall Spa",
+    "tel": " +44 729690679"
+  },
+  {
+    "id": "dc21894",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21894",
+    "name": "Junction 1",
+    "street": "111 Ballymena Rd",
+    "extended": "",
+    "locality": "BT41 4L Antrim",
+    "tel": " +44 28 9442 9111"
+  },
+  {
+    "id": "dc35499",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35499",
+    "name": "Kenwick Park Golf Hotel & Spa.",
+    "street": "Kenwick Park",
+    "extended": "",
+    "locality": "LN11 8NR Louth",
+    "tel": " +44 150 760 8806"
+  },
+  {
+    "id": "dc50294",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50294",
+    "name": "Kernock Cottages",
+    "street": "Kernock Cottages",
+    "extended": "",
+    "locality": "PL12 6RY Saltash",
+    "tel": " +44 157 935 0435"
+  },
+  {
+    "id": "dc39268",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39268",
+    "name": "Kids Today Ltd",
+    "street": "Kids Today Ltd 5 Renown Close",
+    "extended": "",
+    "locality": "SO53 4HZ Eastleigh",
+    "tel": " +44 238 026 3999"
+  },
+  {
+    "id": "dc33586",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33586",
+    "name": "Kings Aparthotel",
+    "street": "Kingston Passage",
+    "extended": "",
+    "locality": "CB8 8UG Newmarket",
+    "tel": " +44 163 866 0668"
+  },
+  {
+    "id": "dc34995",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34995",
+    "name": "Kings Arms Hotel",
+    "street": "30 High Street",
+    "extended": "",
+    "locality": "HP7 0DJ Amersham",
+    "tel": " +44 149 472 5722"
+  },
+  {
+    "id": "dc49913",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49913",
+    "name": "Knockaloe Beg Farm",
+    "street": "Knockaloe Beg Farm",
+    "extended": "",
+    "locality": "IM5 3AQ Peel",
+    "tel": " +44 162 484 4279"
+  },
+  {
+    "id": "dc12708",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12708",
+    "name": "L'Ortolan Restaurant",
+    "street": "Church Lane",
+    "extended": "",
+    "locality": "RG2 9BY Reading",
+    "tel": " +44 118 988 8500"
+  },
+  {
+    "id": "dc24774",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24774",
+    "name": "Lainston House",
+    "street": "Sparsholt",
+    "extended": "",
+    "locality": "SO21 2LT Winchester,",
+    "tel": " +44 196 277 6088"
+  },
+  {
+    "id": "dc14403",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14403",
+    "name": "Langaller Manor House",
+    "street": "Langaller Manor House",
+    "extended": "",
+    "locality": "TA2 8DA Taunton",
+    "tel": " +44 182 341 3744"
+  },
+  {
+    "id": "dc47837",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47837",
+    "name": "Langley Castle Hotel",
+    "street": "Langley-on-Tyne",
+    "extended": "",
+    "locality": "NE47 5LU Hexham",
+    "tel": " +44 143 468 8888"
+  },
+  {
+    "id": "dc28658",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28658",
+    "name": "Lanhydrock Hotel & Golf Club",
+    "street": "Lanhydrock Hotel & Golf Club Lostwithiel Road",
+    "extended": "",
+    "locality": "PL30 5AQ Bodmin",
+    "tel": " +44 120 826 2570"
+  },
+  {
+    "id": "dc43789",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43789",
+    "name": "Lea Marston Shooting Club",
+    "street": "Blackgreaves Lane",
+    "extended": "",
+    "locality": "B76 0DA Sutton Coldfield",
+    "tel": " +44 167 654 0070"
+  },
+  {
+    "id": "dc15094",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15094",
+    "name": "Lewinnick Lodge",
+    "street": "Pentire Headland",
+    "extended": "",
+    "locality": "TR7 1QD Newquay",
+    "tel": " +44 163 787 8117"
+  },
+  {
+    "id": "dc30723",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30723",
+    "name": "Lingwell Croft Surgery",
+    "street": "16 Shelldrake Drive",
+    "extended": "",
+    "locality": "LS10 3NP Leeds",
+    "tel": " +44 113 270 4848"
+  },
+  {
+    "id": "dc11552",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11552",
+    "name": "Linthwaite House Hotel",
+    "street": "Linthwaite House Hotel",
+    "extended": "",
+    "locality": "LA23 3JA Bowness-on-Windermere",
+    "tel": " +44 153 948 8600"
+  },
+  {
+    "id": "dc25135",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25135",
+    "name": "Little Coombe Farm",
+    "street": "Little Coombe Farm Dittisham",
+    "extended": "",
+    "locality": "TQ6 0JB Dartmouth",
+    "tel": " +44 180 372 2900"
+  },
+  {
+    "id": "dc32049",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32049",
+    "name": "Loch Fyne Oyster Oyster Bar and Deli",
+    "street": "Clachan",
+    "extended": "",
+    "locality": "PA26 8BL Cairndow",
+    "tel": " +44 144 960 0482"
+  },
+  {
+    "id": "dc34367",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34367",
+    "name": "Loch Tay Highland Lodges",
+    "street": "Loch Tay Highland Lodges",
+    "extended": "",
+    "locality": "FK21 8TY Killin",
+    "tel": " +44 156 782 0323"
+  },
+  {
+    "id": "dc40855",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40855",
+    "name": "Lochan Lodge",
+    "street": "Balnafettach Estate",
+    "extended": "",
+    "locality": "PH26 3LW Cromdale",
+    "tel": " +44 781 120 9399"
+  },
+  {
+    "id": "dc19667",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19667",
+    "name": "London Luton Airport",
+    "street": "London Luton Multi-Storey Car Park",
+    "extended": "",
+    "locality": "LU2 9QT Luton",
+    "tel": " +44 345 303 7397"
+  },
+  {
+    "id": "dc47569",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47569",
+    "name": "Lower Mill Estate",
+    "street": "Mill Lane",
+    "extended": "",
+    "locality": "GL7 6BG Somerford Keynes",
+    "tel": " 1285869489"
+  },
+  {
+    "id": "dc11558",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11558",
+    "name": "Lucknam Park Hotel",
+    "street": "Colerne, Chippenham, Wilts",
+    "extended": "",
+    "locality": "SN14 8AZ Chippenham",
+    "tel": " +44 122 574 2777"
+  },
+  {
+    "id": "dc11968",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11968",
+    "name": "Luton Hoo Hotel Golf and Spa",
+    "street": "The Mansion House",
+    "extended": "",
+    "locality": "LU1 3TQ Luton",
+    "tel": " +44 158 273 4437"
+  },
+  {
+    "id": "dc26252",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26252",
+    "name": "Manchester Fort Shopping Park",
+    "street": "Cheetham Hill Road",
+    "extended": "",
+    "locality": "M8 8EP Manchester",
+    "tel": " +44 161 832 8838"
+  },
+  {
+    "id": "dc20502",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20502",
+    "name": "Mandarin Oriental Hyde Park",
+    "street": "66 Knightsbridge",
+    "extended": "",
+    "locality": "SW1X 7LA London",
+    "tel": " +44 207 235 2000"
+  },
+  {
+    "id": "dc48239",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48239",
+    "name": "Mannin Hotel",
+    "street": "8-16 Broadway",
+    "extended": "",
+    "locality": "IM24EL Douglas",
+    "tel": " +44 162 460 2555"
+  },
+  {
+    "id": "dc28607",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28607",
+    "name": "Meldrum House Country Hotel & Golf Course",
+    "street": "Meldrum House Country Hotel Oldmeldrum",
+    "extended": "",
+    "locality": "AB51 0AE Inverurie",
+    "tel": " +44 165 187 2294"
+  },
+  {
+    "id": "dc19174",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19174",
+    "name": "Meon Valley Marriott Hotel & Country Club",
+    "street": "Sandy Lane",
+    "extended": "",
+    "locality": "SO32 2HQ Shedfield",
+    "tel": " +44 132 983 3455"
+  },
+  {
+    "id": "dc14065",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14065",
+    "name": "Mercury Yacht Harbour",
+    "street": "Satchell Lane",
+    "extended": "",
+    "locality": "SO31 4HQ Southampton",
+    "tel": " + 44 238 045 5994"
+  },
+  {
+    "id": "dc46850",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46850",
+    "name": "Mevagissey Bay Hotel",
+    "street": "Polkirt Hill",
+    "extended": "",
+    "locality": "PL26 6UX St Austell",
+    "tel": " +44 172 684 3453"
+  },
+  {
+    "id": "dc35285",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35285",
+    "name": "Mill Park Caravan & Camping",
+    "street": "Mill Lane",
+    "extended": "",
+    "locality": "EX34 9SH Ilfracombe",
+    "tel": " +44 127 188 2647 "
+  },
+  {
+    "id": "dc21287",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21287",
+    "name": "Moresby Hall",
+    "street": "Moresby",
+    "extended": "",
+    "locality": "CA28 6PJ Whitehaven",
+    "tel": " +44 194 669 6317"
+  },
+  {
+    "id": "dc26353",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26353",
+    "name": "Nanteos Mansion",
+    "street": "Rhydyfelin",
+    "extended": "",
+    "locality": "SY23 4LU Aberystwyth",
+    "tel": " +44 197 060 0522"
+  },
+  {
+    "id": "dc14082",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14082",
+    "name": "National Motorcycle Museum",
+    "street": "Coventry Road",
+    "extended": "",
+    "locality": "B92 0EJ Solihull",
+    "tel": " +44 167 544 3311"
+  },
+  {
+    "id": "dc35590",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35590",
+    "name": "New Forest Lodge Retreat",
+    "street": "New Forest Lodge Retreat Downton Lane",
+    "extended": "",
+    "locality": "SO41 0LG Downton",
+    "tel": " +44 159 064 8300"
+  },
+  {
+    "id": "dc19239",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19239",
+    "name": "No 131",
+    "street": "131 Promenade",
+    "extended": "",
+    "locality": "GL50 1NW Cheltenham",
+    "tel": " +44 124 282 2939"
+  },
+  {
+    "id": "dc19240",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19240",
+    "name": "No 38 The Park",
+    "street": "38 Evesham Road",
+    "extended": "",
+    "locality": "GL52 2AH Cheltenham",
+    "tel": " +44 124 282 2929"
+  },
+  {
+    "id": "dc18059",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18059",
+    "name": "Norfolk River Cottages",
+    "street": "Grebe Island",
+    "extended": "",
+    "locality": "NR12 8PF Horning",
+    "tel": " +44 169 263 1581"
+  },
+  {
+    "id": "dc49356",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49356",
+    "name": "Northcote Hotel",
+    "street": "Northcote Road",
+    "extended": "",
+    "locality": "BB6 8BE Langho",
+    "tel": " +44 125 424 4500"
+  },
+  {
+    "id": "dc14066",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14066",
+    "name": "Northney Marina",
+    "street": "Northney Road",
+    "extended": "",
+    "locality": "PO11 0NH Hayling Island",
+    "tel": " +44 239 246 6321"
+  },
+  {
+    "id": "dc13910",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13910",
+    "name": "Novotel London Greenwich",
+    "street": "173-185 Greenwich High Road",
+    "extended": "",
+    "locality": "SE10 8JA London",
+    "tel": " +44 207 660 0682"
+  },
+  {
+    "id": "dc47284",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47284",
+    "name": "Oakley Hall Hotel",
+    "street": "Rectory Road",
+    "extended": "",
+    "locality": "RG23 7EL Oakley, Basingstoke",
+    "tel": " +44 125 678 3350"
+  },
+  {
+    "id": "dc16146",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16146",
+    "name": "Ocean View Chalets",
+    "street": "Ocean View Chalets, 39A-D Dunamallaght Road",
+    "extended": "",
+    "locality": "BR54 6PF Ballycastle",
+    "tel": " +44 287 083 2220"
+  },
+  {
+    "id": "dc14067",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14067",
+    "name": "Ocean Village Marina",
+    "street": "Ocean Village Marina",
+    "extended": "",
+    "locality": "SO14 3TG Southampton",
+    "tel": " +44 238 022 9385"
+  },
+  {
+    "id": "dc26842",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26842",
+    "name": "Old Downton Lodge Restaurant with Rooms",
+    "street": "Old Downton Lodge",
+    "extended": "",
+    "locality": "SY8 2HU Nr Ludlow",
+    "tel": " +44 0156 8771826"
+  },
+  {
+    "id": "dc34516",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34516",
+    "name": "Old Drynie House",
+    "street": "Old Drynie House",
+    "extended": "",
+    "locality": "IV1 XG Inverness",
+    "tel": " +447989387676"
+  },
+  {
+    "id": "dc28068",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28068",
+    "name": "Old Green Dragon",
+    "street": "Blind Lane, Oxton, Nottingham NG25 0SS United Kingdom",
+    "extended": "",
+    "locality": "NG25 0SS Oxton",
+    "tel": " +44 115 965 2243"
+  },
+  {
+    "id": "dc29884",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29884",
+    "name": "Old Hall Country Breaks",
+    "street": "Old Hall, White Cross Lane",
+    "extended": "",
+    "locality": "PE34 4SR King's Lynn",
+    "tel": " +44 776 493 6199"
+  },
+  {
+    "id": "dc19997",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19997",
+    "name": "Old Tredegar",
+    "street": "33 Heol Gwys Cwm Twrch",
+    "extended": "",
+    "locality": "SA9 2XG Swansea",
+    "tel": " +44 163 983 1722"
+  },
+  {
+    "id": "dc25123",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25123",
+    "name": "Orchard Cottage Ulverston",
+    "street": "Mascalles Bungalow",
+    "extended": "",
+    "locality": "LA12 0TQ Ulverston",
+    "tel": " +44 122 946 3591"
+  },
+  {
+    "id": "dc17066",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17066",
+    "name": "Oxford Country Cottages",
+    "street": "Lower Farm",
+    "extended": "",
+    "locality": "OX3 9TX Oxford",
+    "tel": " +44 783 016 5830"
+  },
+  {
+    "id": "dc25504",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25504",
+    "name": "Parade House",
+    "street": "The Esplanade",
+    "extended": "",
+    "locality": "EX34 7DJ Woolacombe",
+    "tel": " +44 127 187 0067"
+  },
+  {
+    "id": "dc19462",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19462",
+    "name": "Parc Le Breos House",
+    "street": "Parc Le Breos House",
+    "extended": "",
+    "locality": "SA3 2HA Swasnea",
+    "tel": " +44 179 237 1636"
+  },
+  {
+    "id": "dc14731",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14731",
+    "name": "Parc-y-Scarlets",
+    "street": "Pemberton Retail Park",
+    "extended": "",
+    "locality": "SA14 9UZ Llanelli",
+    "tel": " +44 155 478 3902"
+  },
+  {
+    "id": "dc28945",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28945",
+    "name": "Park Hotel",
+    "street": "Park Hotel, Tenby, Pembrokeshire SA708AT United Kingdom",
+    "extended": "",
+    "locality": "SA708AT Tenby",
+    "tel": " +44 183 484 2352"
+  },
+  {
+    "id": "dc16353",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16353",
+    "name": "Peckforton Castle",
+    "street": "Peckforton Castle Stonehouse Lane",
+    "extended": "",
+    "locality": "CW6 9TN Peckforton",
+    "tel": " +44 182 826 0930"
+  },
+  {
+    "id": "dc48721",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48721",
+    "name": "Penblaith Barn",
+    "street": "Llangarron",
+    "extended": "",
+    "locality": "HR9 6PH Hereford",
+    "tel": " +44 198 973 0210"
+  },
+  {
+    "id": "dc14730",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14730",
+    "name": "Penderyn Distillery",
+    "street": "Penderyn",
+    "extended": "",
+    "locality": "CF44 0SX Penderyn",
+    "tel": " +44 168 581 3301"
+  },
+  {
+    "id": "dc11443",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11443",
+    "name": "Pendragon Country House",
+    "street": "Pendragon Country House",
+    "extended": "",
+    "locality": "PL32 9XR Camelford",
+    "tel": " +44 184 026 1131"
+  },
+  {
+    "id": "dc34265",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34265",
+    "name": "Pennsylvania Castle",
+    "street": "Pennsylvania Castle Pennsylvania Road",
+    "extended": "",
+    "locality": "DT5 1HZ Portland",
+    "tel": " +44 130 582 0659"
+  },
+  {
+    "id": "dc21083",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21083",
+    "name": "Penrhiw Hotel",
+    "street": "Penrhiw Hotel",
+    "extended": "",
+    "locality": "SA62 6PG St Davids",
+    "tel": " +44 143 772 5588"
+  },
+  {
+    "id": "dc11522",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11522",
+    "name": "Pentillie Castle",
+    "street": "Pentillie Castle",
+    "extended": "",
+    "locality": "PL12 6QD Saltash",
+    "tel": " +44 157 935 0044"
+  },
+  {
+    "id": "dc14068",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14068",
+    "name": "Penton Hook Marina",
+    "street": "Penton Hook Marina",
+    "extended": "",
+    "locality": "KT16 8PY Chertsey",
+    "tel": " +44 (0)1932 568681"
+  },
+  {
+    "id": "dc15965",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15965",
+    "name": "Pontlands Park",
+    "street": "West Hanningfield Road",
+    "extended": "",
+    "locality": "CM2 8HR Great Baddow",
+    "tel": " +44 124 547 6444"
+  },
+  {
+    "id": "dc24695",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24695",
+    "name": "Portsonachan Hotel",
+    "street": "Coach House, South Loch Awe Side",
+    "extended": "",
+    "locality": "PA33 1BJ Portsonachan",
+    "tel": " +44 186 683 3224"
+  },
+  {
+    "id": "dc24022",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24022",
+    "name": "Punch Bowl Inn and Restaurant",
+    "street": "Punch Bowl Inn",
+    "extended": "",
+    "locality": "LA8 8HR Kendal",
+    "tel": " +44 153 956 8237"
+  },
+  {
+    "id": "dc31488",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31488",
+    "name": "Pure Green Energy",
+    "street": "Pure Green Energy, The Barns, Hazelby House",
+    "extended": "",
+    "locality": "RG20 0AZ North End",
+    "tel": " +44 163 588 9775"
+  },
+  {
+    "id": "dc31949",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31949",
+    "name": "Purewell",
+    "street": "Meteor Retail Park",
+    "extended": "",
+    "locality": "BH233R Christchurch",
+    "tel": " +44 120 248 4411"
+  },
+  {
+    "id": "dc13736",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13736",
+    "name": "Q-Park Harley Street",
+    "street": "Queen Anne Mews",
+    "extended": "",
+    "locality": "W1G 9HF London",
+    "tel": " +44 870 442 0104"
+  },
+  {
+    "id": "dc13735",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13735",
+    "name": "Q-Park Oxford Street",
+    "street": "Cavendish Square",
+    "extended": "",
+    "locality": "W1G 0PN London",
+    "tel": " +44 870 442 0104"
+  },
+  {
+    "id": "dc13734",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13734",
+    "name": "Q-Park Tower Bridge",
+    "street": "46-50 Gainsford St",
+    "extended": "",
+    "locality": "SE1 2NE London",
+    "tel": " +44 207 407 1584"
+  },
+  {
+    "id": "dc20844",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20844",
+    "name": "Qbic Hotel London City",
+    "street": "42 Adler Street",
+    "extended": "",
+    "locality": "E1 1EE London",
+    "tel": " +44 203 021 2644"
+  },
+  {
+    "id": "dc14070",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14070",
+    "name": "Queen Anne's Marina",
+    "street": "Queen Anne's Battery Marina",
+    "extended": "",
+    "locality": "PL4 0LP Plymouth",
+    "tel": " +44 175 267 1142"
+  },
+  {
+    "id": "dc25854",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25854",
+    "name": "Radisson Blu Edwardian Heathrow Hotel",
+    "street": "140 Bath Rd",
+    "extended": "",
+    "locality": "UB3 5AW Harlington",
+    "tel": " +44 203 856 3961"
+  },
+  {
+    "id": "dc25853",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25853",
+    "name": "Radisson Blu Edwardian New Providence Wharf",
+    "street": "5 Fairmont Ave",
+    "extended": "",
+    "locality": "E14 9JB Canary Wharf",
+    "tel": " +44 207 987 2050"
+  },
+  {
+    "id": "dc26662",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26662",
+    "name": "Radisson Blu Hotel Edinburgh",
+    "street": "80 The High Street",
+    "extended": "",
+    "locality": "EH1 1TH Edinburgh",
+    "tel": " +44 131 557 9797"
+  },
+  {
+    "id": "dc27881",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27881",
+    "name": "Radisson Red Glasgow",
+    "street": "Finnieston Quay 25 Tunnel Street",
+    "extended": "",
+    "locality": "G3 8HL Glasgow",
+    "tel": " +44 141 471 1700"
+  },
+  {
+    "id": "dc29425",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29425",
+    "name": "Raemoir House Hotel",
+    "street": "Banchory",
+    "extended": "",
+    "locality": "AB31 4ED Banchory",
+    "tel": " +44 1330 824884"
+  },
+  {
+    "id": "dc23588",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23588",
+    "name": "Ravenstone Lodge Hotel",
+    "street": "Ravenstone Lodge Bassenthwaite",
+    "extended": "",
+    "locality": "CQ12 4QG Keswick",
+    "tel": " +44 176 877 6629"
+  },
+  {
+    "id": "dc28379",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28379",
+    "name": "Red Rail Farm Bed & Breakfast",
+    "street": "Red Rail Farm",
+    "extended": "",
+    "locality": "HR2 6QT Hereford",
+    "tel": " +44 1432 840 432"
+  },
+  {
+    "id": "dc16177",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16177",
+    "name": "Redpoint Climbing Centre",
+    "street": "Redpoint Climbing Centre, 40 Winterstoke Rd",
+    "extended": "",
+    "locality": "BS3 2NW Bristol",
+    "tel": " +44 117 332 2222"
+  },
+  {
+    "id": "dc25687",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25687",
+    "name": "Renaissance Club",
+    "street": "Cowden Hill Drive",
+    "extended": "",
+    "locality": "EH39 5HS Dirleton",
+    "tel": " +44 162 085 0901"
+  },
+  {
+    "id": "dc30363",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30363",
+    "name": "Retreat East",
+    "street": "Sandy Lane",
+    "extended": "",
+    "locality": "IP6 9QE Hemingstone",
+    "tel": " +44 144 976 0480"
+  },
+  {
+    "id": "dc41551",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41551",
+    "name": "Rickman Barn Warter Priory Estate",
+    "street": "Rickman Barn",
+    "extended": "",
+    "locality": "YO42 1XY Warter",
+    "tel": " +44 175 948 9000"
+  },
+  {
+    "id": "dc28268",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28268",
+    "name": "River Dart Country Park",
+    "street": "River Dart Country Park Ashburton",
+    "extended": "",
+    "locality": "TQ13 7NP Newton Abbot",
+    "tel": " +44 136 465 2511"
+  },
+  {
+    "id": "dc16473",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16473",
+    "name": "Roadhouse Restaurant",
+    "street": "Abbey Road",
+    "extended": "",
+    "locality": "SA34 0LG Whitland",
+    "tel": " +44 199 424 1193"
+  },
+  {
+    "id": "dc21082",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21082",
+    "name": "Roch Castle",
+    "street": "Roch Castle",
+    "extended": "",
+    "locality": "SA62 6AQ Haverfordwest",
+    "tel": " +44 143 772 5566"
+  },
+  {
+    "id": "dc11755",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11755",
+    "name": "Rockliffe Hall",
+    "street": "Rockliffe Hall Hotel",
+    "extended": "",
+    "locality": "DL2 2DU Darlington",
+    "tel": " +44 132 572 9999"
+  },
+  {
+    "id": "dc34456",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34456",
+    "name": "Roehampton Club",
+    "street": "Roehampton Club Roehampton Ln",
+    "extended": "",
+    "locality": "SW15 5LR London",
+    "tel": " +44 208 480 4202"
+  },
+  {
+    "id": "dc34512",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34512",
+    "name": "Rookery Manor Hotel and Spa",
+    "street": "Edingworth Road",
+    "extended": "",
+    "locality": "BS240JB Edingworth",
+    "tel": " +44 193 475 0200"
+  },
+  {
+    "id": "dc15968",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15968",
+    "name": "Rooms Inn",
+    "street": "31-40 West Parade",
+    "extended": "",
+    "locality": "NE4 7LB Newcastle",
+    "tel": " +44 191 273 3034"
+  },
+  {
+    "id": "dc26865",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26865",
+    "name": "Royal Golf Hotel",
+    "street": "Royal Golf Hotel Grange Road",
+    "extended": "",
+    "locality": "IV25 4LG Dornoch",
+    "tel": " +44 186 281 0283"
+  },
+  {
+    "id": "dc11722",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11722",
+    "name": "Royal Sportsman Hotel",
+    "street": "131 High Street",
+    "extended": "",
+    "locality": "LL49 9HB Gwynedd",
+    "tel": " +44 176 651 2015"
+  },
+  {
+    "id": "dc11964",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11964",
+    "name": "Rudding Park Hotel",
+    "street": "Rudding Park",
+    "extended": "",
+    "locality": "HG3 1JH Harrogate",
+    "tel": " +44 142 387 1350"
+  },
+  {
+    "id": "dc19354",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19354",
+    "name": "Salcombe Harbour Hotel & Spa",
+    "street": "Cliff Road",
+    "extended": "",
+    "locality": "TQ8 8JH Salcombe",
+    "tel": " +44 154 884 4444"
+  },
+  {
+    "id": "dc12918",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12918",
+    "name": "Sandbanks Hotel",
+    "street": "Sandbanks Hotel Sandbanks",
+    "extended": "",
+    "locality": "BH13 7PS Poole",
+    "tel": " +44 120 270 7377"
+  },
+  {
+    "id": "dc35158",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35158",
+    "name": "Scourie Lodge",
+    "street": "Scourie",
+    "extended": "",
+    "locality": "IV27 4TE Scourie",
+    "tel": " +44 197 150 2248"
+  },
+  {
+    "id": "dc25466",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25466",
+    "name": "Seaview Holiday Park",
+    "street": "Boswinger",
+    "extended": "",
+    "locality": "PL26 6LL Boswinger",
+    "tel": " +44 172 684 3425"
+  },
+  {
+    "id": "dc14075",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14075",
+    "name": "Shamrock Quay",
+    "street": "William Street",
+    "extended": "",
+    "locality": "SO14 5QL Southampton",
+    "tel": " +44 238 022v9461"
+  },
+  {
+    "id": "dc25500",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25500",
+    "name": "Shannon Court",
+    "street": "65 Dragon Avenue",
+    "extended": "",
+    "locality": "HG1 5DS Harrogate",
+    "tel": " +44 142 350 9858"
+  },
+  {
+    "id": "dc27521",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27521",
+    "name": "Sharvedda",
+    "street": "Sharvedda Strathy Point",
+    "extended": "",
+    "locality": "KW14 7RY Strathy",
+    "tel": " +44 164 154 1311"
+  },
+  {
+    "id": "dc27454",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27454",
+    "name": "Sheraton Grand Hotel & SPA",
+    "street": "1 Festival Square",
+    "extended": "",
+    "locality": "EH3 9SR Edinburgh",
+    "tel": " +441312299131"
+  },
+  {
+    "id": "dc44000",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc44000",
+    "name": "Shipton Mill",
+    "street": "Bridge Road Industrial Estate",
+    "extended": "",
+    "locality": "GL2 7LA Frampton On Severn",
+    "tel": " +44 166 650 5050"
+  },
+  {
+    "id": "dc35588",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35588",
+    "name": "Shorefield Country Park",
+    "street": "Shorefield Country Park Shorefield Road",
+    "extended": "",
+    "locality": "SO41 0LH Downton",
+    "tel": " +44 159 064 8300"
+  },
+  {
+    "id": "dc26549",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26549",
+    "name": "Slieve Donard Resort & Spa",
+    "street": "Downs Road",
+    "extended": "",
+    "locality": "BT33 0AH Newcastle",
+    "tel": " +44 2843724830"
+  },
+  {
+    "id": "dc38124",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38124",
+    "name": "Smile Style Dental Care Centre",
+    "street": "Smile Style Dental Care Centre 24 Lichfield Road",
+    "extended": "",
+    "locality": "ST17 4LL Stafford",
+    "tel": " +44 178 5225 505"
+  },
+  {
+    "id": "dc36491",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36491",
+    "name": "Soar Mill Cove Hotel",
+    "street": "Soar Mill Cove",
+    "extended": "",
+    "locality": "TQ7 3DS Kingsbridge",
+    "tel": " +44 154 856 1566"
+  },
+  {
+    "id": "dc19168",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19168",
+    "name": "Soho Farmhouse",
+    "street": "Soho Farmhouse",
+    "extended": "",
+    "locality": "OX7 4JS Chipping Norton",
+    "tel": " +44 160 861 9000"
+  },
+  {
+    "id": "dc22260",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22260",
+    "name": "Sopwell House Hotel",
+    "street": "Sopwell House Hotel Cotton Mill Lane",
+    "extended": "",
+    "locality": "AL1 2HQ St Albans",
+    "tel": " +44 172 786 4477"
+  },
+  {
+    "id": "dc43565",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43565",
+    "name": "South Lodge Hotel",
+    "street": "South Lodge Brighton Road",
+    "extended": "",
+    "locality": "RH13 6PS Horsham",
+    "tel": " +44 140 389 1711"
+  },
+  {
+    "id": "dc23735",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23735",
+    "name": "South Sands Hotel & Restaurant",
+    "street": "South Sands Bolt Head, Salcombe, Devon TQ8 8LL United Kingdom",
+    "extended": "",
+    "locality": "TQ8 8LL Salcombe",
+    "tel": " +44 154 884 5900"
+  },
+  {
+    "id": "dc22264",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22264",
+    "name": "Sprowston Manor Marriott Hotel",
+    "street": "Sprowston Manor",
+    "extended": "",
+    "locality": "NR7 8RP Norwich",
+    "tel": " +44 160 341 0871"
+  },
+  {
+    "id": "dc23499",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23499",
+    "name": "St David's Shopping Centre",
+    "street": "St David's Shopping Centre Bridge Street Arcade,",
+    "extended": "",
+    "locality": "CF10 2EQ Cardiff",
+    "tel": " +44 292 036 7650"
+  },
+  {
+    "id": "dc25137",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25137",
+    "name": "St Moritz Hotel",
+    "street": "St Moritz Hotel Trebetherick, Wadebridge, PL276SD United Kingdom",
+    "extended": "",
+    "locality": "PL276SD Wadebridge",
+    "tel": " +44 120 886 2242"
+  },
+  {
+    "id": "dc11627",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11627",
+    "name": "St. Brides Spa Hotel",
+    "street": "St Brides Hill, Saundersfoot, SA69 9NH United Kingdom",
+    "extended": "",
+    "locality": "SA69 9NH Saundersfoot",
+    "tel": " +44 183 481 2304"
+  },
+  {
+    "id": "dc36459",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36459",
+    "name": "Staniland Marina",
+    "street": "Staniland Marina Lock Hill",
+    "extended": "",
+    "locality": "DN8 5EP Thorne",
+    "tel": " +44 140 581 6992"
+  },
+  {
+    "id": "dc46124",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46124",
+    "name": "Stanneylands Hotel",
+    "street": "Stanneylands Road",
+    "extended": "",
+    "locality": "SK9 4EY Wilmslow",
+    "tel": " +44 162 552 5225"
+  },
+  {
+    "id": "dc20614",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20614",
+    "name": "Stapleford Park Hotel",
+    "street": "Stapleford",
+    "extended": "",
+    "locality": "LE14 2EF Nr Melton Mowbray",
+    "tel": " +44 157 278 7000"
+  },
+  {
+    "id": "dc25067",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25067",
+    "name": "Stawley Wood Farm",
+    "street": "Stawley Wood Farm Stawley",
+    "extended": "",
+    "locality": "TA21 0HP Wellington",
+    "tel": " +44 163 788 1183"
+  },
+  {
+    "id": "dc18585",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18585",
+    "name": "Stay In Bath - The Courtyard",
+    "street": "246 High Street",
+    "extended": "",
+    "locality": "BA1 7RA Bath",
+    "tel": " +44 1225 329494"
+  },
+  {
+    "id": "dc10900",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10900",
+    "name": "Stoke Park",
+    "street": "Park Road",
+    "extended": "",
+    "locality": "SL2 4PG Bucks",
+    "tel": " +44 175 371 7171"
+  },
+  {
+    "id": "dc11720",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11720",
+    "name": "Ston Easton Park Hotel",
+    "street": "Ston Easton Park",
+    "extended": "",
+    "locality": "BA3 4DF Ston Easton",
+    "tel": " +44 176 124 1631"
+  },
+  {
+    "id": "dc20559",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20559",
+    "name": "Stoneleigh Park Lodge",
+    "street": "Stoneleigh Park Lodge",
+    "extended": "",
+    "locality": "CV8 2LG Stoneleigh Park",
+    "tel": " +44 247 669 0123"
+  },
+  {
+    "id": "dc19047",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19047",
+    "name": "Storrs Hall",
+    "street": "Newby Bridge Road",
+    "extended": "",
+    "locality": "LA23 3LG Storrs Park",
+    "tel": " +44 153 944 7111"
+  },
+  {
+    "id": "dc24461",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24461",
+    "name": "Strattons Hotel",
+    "street": "4 Ash Close",
+    "extended": "",
+    "locality": "PE37 7LA Swaffham",
+    "tel": " +44 176 072 3845"
+  },
+  {
+    "id": "dc38066",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38066",
+    "name": "Sudbury House",
+    "street": "56 London St , F",
+    "extended": "",
+    "locality": "SN7 7AA Faringdon",
+    "tel": " +44 136 724 1272"
+  },
+  {
+    "id": "dc41233",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41233",
+    "name": "Summer Lodge Hotel Restaurant & Spa",
+    "street": "9 Fore Street, Ev",
+    "extended": "",
+    "locality": "DT2 0JR Evershot",
+    "tel": " +44 (0)1935 482000"
+  },
+  {
+    "id": "dc20164",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20164",
+    "name": "Swan & Talbot",
+    "street": "34 North Street",
+    "extended": "",
+    "locality": "LS22 6NN Wetherby",
+    "tel": " +44 193 758 2040"
+  },
+  {
+    "id": "dc24211",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24211",
+    "name": "Sygun Fawr Country House",
+    "street": "Sygun Fawr Country House Beddgelert, Caernarfon, Snowdonia LL554NE United Kingdom",
+    "extended": "",
+    "locality": "LL554NE Caernarfon",
+    "tel": " +44 176 689 0258"
+  },
+  {
+    "id": "dc10868",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10868",
+    "name": "TAG Farnborough Airport",
+    "street": "The Terminal, Farnborough Airport",
+    "extended": "",
+    "locality": "GU14 0LJ Farnborough",
+    "tel": " +44 125 237 9003"
+  },
+  {
+    "id": "dc21037",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21037",
+    "name": "THE PIG at Combe",
+    "street": "The Pig at Combe, Gittisham",
+    "extended": "",
+    "locality": "EX14 3AD Honiton",
+    "tel": " +44 140 454 0400"
+  },
+  {
+    "id": "dc20650",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20650",
+    "name": "Tankersley Manor",
+    "street": "Tankersley Manor, Tankersley, S75 3DQ United Kingdom",
+    "extended": "",
+    "locality": "S75 3DQ Tankersley",
+    "tel": " +44 122 674 4700"
+  },
+  {
+    "id": "dc24782",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24782",
+    "name": "Taste Perthshire",
+    "street": "Bankfoot",
+    "extended": "",
+    "locality": "PH1 4EB Perth",
+    "tel": " +44 173 878 7696"
+  },
+  {
+    "id": "dc36722",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36722",
+    "name": "Taymouth Marina",
+    "street": "Taymouth Marina",
+    "extended": "",
+    "locality": "ph152hw Kenmore",
+    "tel": " +44 188 783 0216"
+  },
+  {
+    "id": "dc19398",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19398",
+    "name": "Tewin Bury Farm Hotel",
+    "street": "Tewin Bury Farm Hotel, B1000 Hertford Road",
+    "extended": "",
+    "locality": "AL6 0JB Welwyn",
+    "tel": " +44 143 871 7793"
+  },
+  {
+    "id": "dc14923",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14923",
+    "name": "Tewkesbury Park",
+    "street": "Tewkesbury Park",
+    "extended": "",
+    "locality": "GL20 7DN Tewkesbury",
+    "tel": " +44 168 429 5405"
+  },
+  {
+    "id": "dc30258",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30258",
+    "name": "The Angel Hotel",
+    "street": "The Angel Hotel Cross Street",
+    "extended": "",
+    "locality": "NP7 5EN Monmouth",
+    "tel": " +44 187 385 7121"
+  },
+  {
+    "id": "dc16036",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16036",
+    "name": "The Ardnamurchan Distillery",
+    "street": "The Ardnamurchan Distillery Glenbeg",
+    "extended": "",
+    "locality": "PH364JG Ardnamurchan",
+    "tel": " +44 1972 500285"
+  },
+  {
+    "id": "dc28161",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28161",
+    "name": "The Ashbourne Hotel",
+    "street": "Vicarage Lane",
+    "extended": "",
+    "locality": "DN40 3JL North Killingholme, Immingham",
+    "tel": " +44 146 954 1010"
+  },
+  {
+    "id": "dc22419",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22419",
+    "name": "The Barns Hotel",
+    "street": "Cardington Road",
+    "extended": "",
+    "locality": "MK44 3SA Bedford",
+    "tel": " +44 123 427 0044"
+  },
+  {
+    "id": "dc25648",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25648",
+    "name": "The Beach House Restaurant",
+    "street": "Oxwich Beach",
+    "extended": "",
+    "locality": "SA3 1L Oxwich",
+    "tel": " +44 179 239 0965"
+  },
+  {
+    "id": "dc11626",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11626",
+    "name": "The Bedruthan Hotel & Spa",
+    "street": "Trenance",
+    "extended": "",
+    "locality": "TR8 4BU Newquay",
+    "tel": " +44 163 786 1200"
+  },
+  {
+    "id": "dc23978",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23978",
+    "name": "The Bell At Iden",
+    "street": "Church Lane, Iden",
+    "extended": "",
+    "locality": "TN31 7PU Iden",
+    "tel": " +44 179 728 0242"
+  },
+  {
+    "id": "dc33865",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33865",
+    "name": "The Belmore at Sale",
+    "street": "143 Brooklands Road",
+    "extended": "",
+    "locality": "M33 3QN Sale",
+    "tel": " +44 161 973 2538"
+  },
+  {
+    "id": "dc48516",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48516",
+    "name": "The Bijou",
+    "street": "17 Ripon Road",
+    "extended": "",
+    "locality": "HG1 2JL Harrogate",
+    "tel": " +44 789 757 6476"
+  },
+  {
+    "id": "dc33867",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33867",
+    "name": "The Boathouse",
+    "street": "21 The Groves , C",
+    "extended": "",
+    "locality": "CH1 1SD Chester",
+    "tel": " +44 124 432 8709"
+  },
+  {
+    "id": "dc14733",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14733",
+    "name": "The Brown's",
+    "street": "King Street",
+    "extended": "",
+    "locality": "SA33 4RY Carmarthenshire",
+    "tel": " +44 199 442 7688"
+  },
+  {
+    "id": "dc38301",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38301",
+    "name": "The Bull",
+    "street": "The Bull Ditchling 2 High Street",
+    "extended": "",
+    "locality": "BN6 8TA Ditchling",
+    "tel": " +44 127 384 3147"
+  },
+  {
+    "id": "dc25205",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25205",
+    "name": "The Bull - Beaumaris",
+    "street": "Castle Street, Beaumaris",
+    "extended": "",
+    "locality": "LL58 8AP Beaumaris",
+    "tel": " +44 1248 810329"
+  },
+  {
+    "id": "dc35494",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35494",
+    "name": "The Business Aviation Centre",
+    "street": "Abbotsinch Road",
+    "extended": "",
+    "locality": "PA3 2RY Paisley",
+    "tel": " +44 1418879099"
+  },
+  {
+    "id": "dc15491",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15491",
+    "name": "The Camberley",
+    "street": "52-54 Kings Road",
+    "extended": "",
+    "locality": "HG1 5JR Harrogate",
+    "tel": " +44 142 356 1618"
+  },
+  {
+    "id": "dc19482",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19482",
+    "name": "The Carlyon Bay Hotel",
+    "street": "Sea Road",
+    "extended": "",
+    "locality": "PL25 3RD St.Austell",
+    "tel": " +44 172 681 2304"
+  },
+  {
+    "id": "dc29701",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29701",
+    "name": "The Carrington Arms",
+    "street": "The Carrington Arms Cranfield Road, Moulsoe, MK16 0HB United Kingdom",
+    "extended": "",
+    "locality": "MK16 0HB Moulsoe",
+    "tel": " +44 190 821 8050"
+  },
+  {
+    "id": "dc48182",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48182",
+    "name": "The Cawdor",
+    "street": "Rhosmaen St",
+    "extended": "",
+    "locality": "SA19 6EN Llandeilo",
+    "tel": " +44 155 882 3500"
+  },
+  {
+    "id": "dc21124",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21124",
+    "name": "The Centre Livingston",
+    "street": "The Centre Livingston, Almondvale Blvd",
+    "extended": "",
+    "locality": "EH54 6HR Livingston",
+    "tel": " +44 150 643 2961"
+  },
+  {
+    "id": "dc22334",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22334",
+    "name": "The Clarendon Hotel",
+    "street": "The Clarendon Hotel, Montpelier Row",
+    "extended": "",
+    "locality": "SE3 0RW Blackheath",
+    "tel": " +44 208 318 4321"
+  },
+  {
+    "id": "dc19797",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19797",
+    "name": "The Club and Spa",
+    "street": "Frost Hill",
+    "extended": "",
+    "locality": "BS49 5AD Bristol",
+    "tel": " +44 193 483 4343"
+  },
+  {
+    "id": "dc24251",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24251",
+    "name": "The Coach House at Lodge Farm",
+    "street": "Lodge Farm Ely Road",
+    "extended": "",
+    "locality": "PE380HL Hilgay",
+    "tel": " +44 136 637 7943"
+  },
+  {
+    "id": "dc22248",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22248",
+    "name": "The Country Park Hotel",
+    "street": "Cliffe Road",
+    "extended": "",
+    "locality": "HU13 0HB Hull",
+    "tel": " +44 148 264 0526"
+  },
+  {
+    "id": "dc25449",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25449",
+    "name": "The Cow Co. & Tom's Eco Lodge",
+    "street": "Tapnell Farm",
+    "extended": "",
+    "locality": "PO41 0YJ Yarmouth",
+    "tel": " +44 198 375 8729"
+  },
+  {
+    "id": "dc31028",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31028",
+    "name": "The Crown Inn",
+    "street": "16 Market Square",
+    "extended": "",
+    "locality": "HP7 0DH Amersham",
+    "tel": " +44 149 472 1541"
+  },
+  {
+    "id": "dc18793",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18793",
+    "name": "The Dales Country House Hotel",
+    "street": "Lodge Hill",
+    "extended": "",
+    "locality": "NR26 8TJ Upper Sheringham",
+    "tel": " +44 126 382 4555"
+  },
+  {
+    "id": "dc30798",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30798",
+    "name": "The Deep",
+    "street": "Tower Street, Hull",
+    "extended": "",
+    "locality": "HU1 4DP Hull",
+    "tel": " +44 148 238 1000"
+  },
+  {
+    "id": "dc19495",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19495",
+    "name": "The Devon Hotel",
+    "street": "The Devon Hotel Matford",
+    "extended": "",
+    "locality": "EX2 8XU Exeter",
+    "tel": " +44 139 225 9268"
+  },
+  {
+    "id": "dc26962",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26962",
+    "name": "The Devonshire Arms at Beeley",
+    "street": "Devonshire Arms at Beeley Devonshire Square",
+    "extended": "",
+    "locality": "DE4 2NR Matlock",
+    "tel": " +44 162 973 3259"
+  },
+  {
+    "id": "dc26963",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26963",
+    "name": "The Devonshire Arms at Pilsley ",
+    "street": "High Street",
+    "extended": "",
+    "locality": "DE45 1UL Bakewell",
+    "tel": " +44 124 658 3258"
+  },
+  {
+    "id": "dc26961",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26961",
+    "name": "The Devonshire Fell",
+    "street": "Burnsall Village",
+    "extended": "",
+    "locality": "BD23 6BT Skipton",
+    "tel": " +44 175 672 9000"
+  },
+  {
+    "id": "dc20067",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20067",
+    "name": "The Dragon Hotel",
+    "street": "39 The Kingsway",
+    "extended": "",
+    "locality": "SA1 5LS Swansea",
+    "tel": " +44 179 265 7100"
+  },
+  {
+    "id": "dc22752",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22752",
+    "name": "The Exmoor White Horse Inn",
+    "street": "Exmoor National Park",
+    "extended": "",
+    "locality": "TA24 7PY Exford",
+    "tel": " +44 164 383 1229"
+  },
+  {
+    "id": "dc20592",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20592",
+    "name": "The Fish Hotel",
+    "street": "Farncombe Estate, Broadway",
+    "extended": "",
+    "locality": "WR12 7LJ Broadway",
+    "tel": " +44 138 685 8000"
+  },
+  {
+    "id": "dc19114",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19114",
+    "name": "The Four Seasons Hotel Hampshire",
+    "street": "Dogmersfield Park, Chalky Lane",
+    "extended": "",
+    "locality": "RG27 8TD Dogmersfield",
+    "tel": " +44 125 285 3000"
+  },
+  {
+    "id": "dc18857",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18857",
+    "name": "The Fox",
+    "street": "Willian",
+    "extended": "",
+    "locality": "SG6 2AE Letchworth Garden City",
+    "tel": " +44 146 248 0233"
+  },
+  {
+    "id": "dc15799",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15799",
+    "name": "The Gardeners Arms",
+    "street": "Beckford Road, Alderton",
+    "extended": "",
+    "locality": "GL20 8NL Tewkesbury",
+    "tel": " +44 124 262 0257"
+  },
+  {
+    "id": "dc33869",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33869",
+    "name": "The Golden Pheasant",
+    "street": "Plumley Moor Road",
+    "extended": "",
+    "locality": "WA16 9RX Knutsford",
+    "tel": " +44 156 572 2261"
+  },
+  {
+    "id": "dc14083",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14083",
+    "name": "The Gonville Hotel",
+    "street": "The Gonville Hotel",
+    "extended": "",
+    "locality": "CB1 1LY Cambridge",
+    "tel": " +44 122 336 6611"
+  },
+  {
+    "id": "dc40245",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40245",
+    "name": "The Grange Guest House",
+    "street": "22 Watton",
+    "extended": "",
+    "locality": "LD3 7ED Brecon",
+    "tel": " +44 187 462 4038"
+  },
+  {
+    "id": "dc27905",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27905",
+    "name": "The Grange Hotel York",
+    "street": "1 Clifton",
+    "extended": "",
+    "locality": "YO30 6AA York",
+    "tel": " +44 190 464 4744"
+  },
+  {
+    "id": "dc50403",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50403",
+    "name": "The Green House",
+    "street": "4 Grove Rd",
+    "extended": "",
+    "locality": "BH1 3AX Bournemouth",
+    "tel": " +44 120 249 8900"
+  },
+  {
+    "id": "dc33871",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33871",
+    "name": "The Groes Inn",
+    "street": "Llanrwst Road",
+    "extended": "",
+    "locality": "LL32 8TN Conwy",
+    "tel": " +44 149 265 0545"
+  },
+  {
+    "id": "dc25390",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25390",
+    "name": "The Grove of Narberth",
+    "street": "The Grove, Molleston, Narberth, SA67 8BX United Kingdom",
+    "extended": "",
+    "locality": "SA67 8BX Narberth",
+    "tel": " +44 183 486 0915"
+  },
+  {
+    "id": "dc21568",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21568",
+    "name": "The Halston ApartHotel",
+    "street": "20-34 Warwick Road",
+    "extended": "",
+    "locality": "CA1 1AB Carlisle",
+    "tel": " +44 122 821 0240"
+  },
+  {
+    "id": "dc33876",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33876",
+    "name": "The Huntsman Inn",
+    "street": "Greenfield Road",
+    "extended": "",
+    "locality": "HD9 3XF Holmfirth",
+    "tel": " +44 148 485 0205"
+  },
+  {
+    "id": "dc33753",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33753",
+    "name": "The Idle Rocks Hotel",
+    "street": "The Idle Rocks Hotel Harbourside",
+    "extended": "",
+    "locality": "TR2 5AN St Mawes",
+    "tel": " +44 132 627 0270"
+  },
+  {
+    "id": "dc20396",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20396",
+    "name": "The Kellbank Hotel",
+    "street": "The Kellbank , Gosforth, Cumbria CA20 1JA United Kingdom",
+    "extended": "",
+    "locality": "CA20 1JA Gosforth",
+    "tel": " +44 194 672 5254"
+  },
+  {
+    "id": "dc20033",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20033",
+    "name": "The Lake of Menteith Hotel",
+    "street": "Port of Menteith",
+    "extended": "",
+    "locality": "FK8 3RA Port of Menteith",
+    "tel": " +44 187 738 5258"
+  },
+  {
+    "id": "dc26548",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26548",
+    "name": "The Laurels B&B",
+    "street": "Star Bank, Oakamoor",
+    "extended": "",
+    "locality": "ST10 3DF Oakamoor",
+    "tel": " +44 1538 702 629"
+  },
+  {
+    "id": "dc22049",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22049",
+    "name": "The Linen Mill Film & Television Studios",
+    "street": "245 Castlewellan Rd",
+    "extended": "",
+    "locality": "BT32 3SG Banbridge",
+    "tel": " +44 284 062 0102"
+  },
+  {
+    "id": "dc18800",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18800",
+    "name": "The Links Country Park Hotel and Golf Club",
+    "street": "West Runton, Cromer, Norfolk NR27 9QH United Kingdom",
+    "extended": "",
+    "locality": "NR27 9QH Cromer",
+    "tel": " +44 126 383 8383"
+  },
+  {
+    "id": "dc36674",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36674",
+    "name": "The Lowry Hotel",
+    "street": "50 Dearmans Place",
+    "extended": "",
+    "locality": "M3 5LH Manchester",
+    "tel": " +44 161 827 8883"
+  },
+  {
+    "id": "dc43484",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43484",
+    "name": "The Manor Arms",
+    "street": "Abberley",
+    "extended": "",
+    "locality": "WR6 6BN Worcester",
+    "tel": " +44 129 989 0300"
+  },
+  {
+    "id": "dc27539",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27539",
+    "name": "The Manor House",
+    "street": "The Manor House Castle Combe, Chippenham, Wiltshire SN14 7HR United Kingdom",
+    "extended": "",
+    "locality": "SN14 7HR Chippenham",
+    "tel": " +44 124 978 2206"
+  },
+  {
+    "id": "dc27424",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27424",
+    "name": "The Mansefield Hotel",
+    "street": "2 Mayne Road",
+    "extended": "",
+    "locality": "IV30 1NY Elgin",
+    "tel": " +44 134 354 0883"
+  },
+  {
+    "id": "dc17635",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17635",
+    "name": "The Mayfair Car Park",
+    "street": "Achilles Way",
+    "extended": "",
+    "locality": "W1K 1AB London",
+    "tel": " +44 20 7499 3725"
+  },
+  {
+    "id": "dc15964",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15964",
+    "name": "The Mere Golf Resort & Spa",
+    "street": "The Mere Golf Resort & Spa",
+    "extended": "",
+    "locality": "WA16 6LJ Mere",
+    "tel": " +441565830155"
+  },
+  {
+    "id": "dc16909",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16909",
+    "name": "The Middlesex Stadium",
+    "street": "Breakspear Road",
+    "extended": "",
+    "locality": "HA4 7SB Ruislip",
+    "tel": " +44 189 563 9544"
+  },
+  {
+    "id": "dc26019",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26019",
+    "name": "The Mill House",
+    "street": "Beverley Rd",
+    "extended": "",
+    "locality": "HU16 5TF Cottingham",
+    "tel": " +44 148 284 5610"
+  },
+  {
+    "id": "dc11774",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11774",
+    "name": "The Montagu Arms Hotel",
+    "street": "Palace Lane",
+    "extended": "",
+    "locality": "SO42 7ZL Beaulieu",
+    "tel": " +44 159 061 2324"
+  },
+  {
+    "id": "dc40986",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40986",
+    "name": "The Neuadd Cottages",
+    "street": "Llangattock",
+    "extended": "",
+    "locality": "Np8 1LE Crickhowell",
+    "tel": " +44 187 381 0244"
+  },
+  {
+    "id": "dc32285",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32285",
+    "name": "The Nook",
+    "street": "Saunders way",
+    "extended": "",
+    "locality": "EX151B Cullompton",
+    "tel": " +44 188 430 8547"
+  },
+  {
+    "id": "dc16696",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16696",
+    "name": "The Oakley Court Hotel",
+    "street": "The Oakley Court Hotel, Water Oakley",
+    "extended": "",
+    "locality": "SL4 5UR Windsor Rd",
+    "tel": " +44 175 360 9988"
+  },
+  {
+    "id": "dc36012",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36012",
+    "name": "The Old Parsonage",
+    "street": "Main Street",
+    "extended": "",
+    "locality": "BS39 6UB Bristol",
+    "tel": " +44 176 145 3553"
+  },
+  {
+    "id": "dc11520",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11520",
+    "name": "The Old Piggery",
+    "street": "Mill Road, East Ruston",
+    "extended": "",
+    "locality": "NR12 9HS Norwich",
+    "tel": " +44 796 130 4836"
+  },
+  {
+    "id": "dc11521",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11521",
+    "name": "The Old Rectory",
+    "street": "1 The Old Rectory",
+    "extended": "",
+    "locality": "PL35 0BT Boscastle",
+    "tel": " +44 184 025 0225"
+  },
+  {
+    "id": "dc46542",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46542",
+    "name": "The Old Rectory",
+    "street": "The Avenue",
+    "extended": "",
+    "locality": "PE9 4NA Stamford",
+    "tel": " +44 788 151 1734"
+  },
+  {
+    "id": "dc49082",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49082",
+    "name": "The Orkney Distillery",
+    "street": "The Orkney Distillery, Kirkwall",
+    "extended": "",
+    "locality": "KW15 1QX Orkney",
+    "tel": " +441856 875338"
+  },
+  {
+    "id": "dc21893",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21893",
+    "name": "The Outlet",
+    "street": "Cascum Road",
+    "extended": "",
+    "locality": "BT32 4LF Banbridge",
+    "tel": " +44 284 062 5151"
+  },
+  {
+    "id": "dc16682",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16682",
+    "name": "The Painswick",
+    "street": "Kemps Lane",
+    "extended": "",
+    "locality": "GL66YB Painswick",
+    "tel": " +44 145 281 3688"
+  },
+  {
+    "id": "dc41694",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41694",
+    "name": "The Park Cornwall",
+    "street": "Mawgan Porth",
+    "extended": "",
+    "locality": "TR83BD Newquay",
+    "tel": " +44 163 786 0322"
+  },
+  {
+    "id": "dc19497",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19497",
+    "name": "The Park Hotel",
+    "street": "Taw Vale",
+    "extended": "",
+    "locality": "EX32 9AE Barnstaple",
+    "tel": " +44 127 137 2166"
+  },
+  {
+    "id": "dc19051",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19051",
+    "name": "The Pig Brockenhurst",
+    "street": "The Pig Brockenhurst",
+    "extended": "",
+    "locality": "SO42 7QL Brockenhurst",
+    "tel": " +44 159 062 2354"
+  },
+  {
+    "id": "dc21084",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21084",
+    "name": "The Pig in the Wall",
+    "street": "The Pig in the Wall",
+    "extended": "",
+    "locality": "SO14 2AZ Southampton",
+    "tel": " +44 238 063 6900"
+  },
+  {
+    "id": "dc50266",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50266",
+    "name": "The Pipe and Glass inn",
+    "street": "West End",
+    "extended": "",
+    "locality": "HU17 7PN South Dalton",
+    "tel": " +44 143 081 0246"
+  },
+  {
+    "id": "dc15095",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15095",
+    "name": "The Plume of Feathers",
+    "street": "The Plume of Feathers",
+    "extended": "",
+    "locality": "TR8 5AX Mitchell",
+    "tel": " +44 187 251 0387"
+  },
+  {
+    "id": "dc18080",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18080",
+    "name": "The Queen's Head",
+    "street": "Kettlesing",
+    "extended": "",
+    "locality": "HG3 2LB Harrogate",
+    "tel": " +44 142 377 0263"
+  },
+  {
+    "id": "dc34131",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34131",
+    "name": "The Queens Arms",
+    "street": "Corton Denham",
+    "extended": "",
+    "locality": "DT9 4LR Sherbourne",
+    "tel": " +44 196 322 0317"
+  },
+  {
+    "id": "dc33877",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33877",
+    "name": "The Red Lion",
+    "street": "81 Ramsbottom Road",
+    "extended": "",
+    "locality": "BL8 4JS Hawkshaw",
+    "tel": " +44 120 485 6600"
+  },
+  {
+    "id": "dc42226",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42226",
+    "name": "The Riverside at Aymestrey",
+    "street": "High Street",
+    "extended": "",
+    "locality": "HR6 9ST Aymestry",
+    "tel": " +44 156 870 8440"
+  },
+  {
+    "id": "dc25230",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25230",
+    "name": "The Royal Berkshire Hotel",
+    "street": "London Road",
+    "extended": "",
+    "locality": "SL5 0PP Ascot",
+    "tel": " +44 134 462 3322"
+  },
+  {
+    "id": "dc19463",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19463",
+    "name": "The Royal Duchy Hotel",
+    "street": "The Royal Duchy Hotel",
+    "extended": "",
+    "locality": "TR11 4NX Falmouth",
+    "tel": " +44 132 631 3042"
+  },
+  {
+    "id": "dc14080",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14080",
+    "name": "The Royal Oak Hotel Restaurant and Pub",
+    "street": "The Royal Oak",
+    "extended": "",
+    "locality": "RG18 0UG Nr Newbury",
+    "tel": " +44 163 520 1325"
+  },
+  {
+    "id": "dc11553",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11553",
+    "name": "The Samling Hotel",
+    "street": "Ambelside Road",
+    "extended": "",
+    "locality": "LA23 1LR Cumbria",
+    "tel": " +44 153 943 1922"
+  },
+  {
+    "id": "dc19489",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19489",
+    "name": "The Saunton Sands Hotel",
+    "street": "The Saunton Sands Hotel",
+    "extended": "",
+    "locality": "EX33 1LQ Near Braunton",
+    "tel": " +44 127 189 0212"
+  },
+  {
+    "id": "dc42250",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42250",
+    "name": "The Savoy Jersey",
+    "street": "The Savoy Hotel 37 Rouge Bouillon",
+    "extended": "",
+    "locality": "JE2 3ZA St. Helier",
+    "tel": " +44 153 472 7521"
+  },
+  {
+    "id": "dc11625",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11625",
+    "name": "The Scarlet Hotel",
+    "street": "Tredragon Road",
+    "extended": "",
+    "locality": "TR8 4DQ Mawgan Porth",
+    "tel": " +44 163 786 1800"
+  },
+  {
+    "id": "dc23127",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23127",
+    "name": "The Seaview Hotel",
+    "street": "Seaview Hotel, High St, Seaview, Isle Of Wight. PO34 5EX Seaview Hotel",
+    "extended": "",
+    "locality": "PO34 5EX High Street, Seaview",
+    "tel": " +44 198 361 2711"
+  },
+  {
+    "id": "dc28291",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28291",
+    "name": "The Steading",
+    "street": "4 Balnapolaig",
+    "extended": "",
+    "locality": "IV25 3HA Dornoch",
+    "tel": " +44 18628 11121"
+  },
+  {
+    "id": "dc43916",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43916",
+    "name": "The Storehouse",
+    "street": "Inchrory Drive",
+    "extended": "",
+    "locality": "IV15 9XH Dingwall",
+    "tel": " +44 134 936 8020"
+  },
+  {
+    "id": "dc18202",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18202",
+    "name": "The Talbot Hotel",
+    "street": "High Street",
+    "extended": "",
+    "locality": "GU23 6BB Woking",
+    "tel": " +44 148 322 5188"
+  },
+  {
+    "id": "dc11753",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11753",
+    "name": "The Torridon",
+    "street": "Torridon",
+    "extended": "",
+    "locality": "IV22 2EY By Achnasheen",
+    "tel": " +44 144 579 1242"
+  },
+  {
+    "id": "dc19490",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19490",
+    "name": "The Victoria Hotel",
+    "street": "Esplanade, Sidmouth, Sidmouth EX10 8RY United Kingdom",
+    "extended": "",
+    "locality": "EX10 8RY Sidmouth",
+    "tel": " +44 139 551 2651"
+  },
+  {
+    "id": "dc22415",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22415",
+    "name": "The Vineyard",
+    "street": "",
+    "extended": "",
+    "locality": "RG20 8JU Newbury",
+    "tel": " +44 163 552 8770"
+  },
+  {
+    "id": "dc32942",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32942",
+    "name": "The White Hart - Sherington",
+    "street": "1 Gun Lane",
+    "extended": "",
+    "locality": "mk169p Sherington",
+    "tel": " +44 190 861 1953"
+  },
+  {
+    "id": "dc18770",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18770",
+    "name": "The White Horse",
+    "street": "Main Road",
+    "extended": "",
+    "locality": "PE31 8BY Brancaster",
+    "tel": " +44 148 521 0262"
+  },
+  {
+    "id": "dc35041",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35041",
+    "name": "The White House",
+    "street": "Sussex Farm",
+    "extended": "",
+    "locality": "PE31 8JY Kings Lynn",
+    "tel": " +44 778 543 9727"
+  },
+  {
+    "id": "dc20162",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20162",
+    "name": "The White Swan",
+    "street": "Main Street",
+    "extended": "",
+    "locality": "LS24 8BQ Wighill",
+    "tel": " +44 193 783 2217"
+  },
+  {
+    "id": "dc24400",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24400",
+    "name": "The White Swan Inn",
+    "street": "The White Swan Inn",
+    "extended": "",
+    "locality": "YO18 7AA Pickering",
+    "tel": " +44 175 147 2288"
+  },
+  {
+    "id": "dc12447",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12447",
+    "name": "The Wild Boar Inn",
+    "street": "The Wild Boar Inn",
+    "extended": "",
+    "locality": "LA23 3NF Windermere",
+    "tel": " +44 153 944 5225"
+  },
+  {
+    "id": "dc30174",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30174",
+    "name": "Thornham Deli",
+    "street": "High Street",
+    "extended": "",
+    "locality": "PE36 6LX Thornham",
+    "tel": " +44 148 551 2194"
+  },
+  {
+    "id": "dc14057",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14057",
+    "name": "Three Glens House",
+    "street": "Three Glens House",
+    "extended": "",
+    "locality": "DG3 4EG Dumfriesshire",
+    "tel": " +44 752 580 8859"
+  },
+  {
+    "id": "dc29053",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29053",
+    "name": "Titanic Hotel Liverpool",
+    "street": "Titanic Hotel Liverpool Stanley Dock, Liverpool, L3 0AN United Kingdom",
+    "extended": "",
+    "locality": "L3 0AN Liverpool",
+    "tel": " +44 151 559 1444"
+  },
+  {
+    "id": "dc25153",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25153",
+    "name": "Trattoria San Marco",
+    "street": "Liverpool Old Road, Much Hoole",
+    "extended": "",
+    "locality": "PR4 4RJ Preston",
+    "tel": " +44 177 261 3313"
+  },
+  {
+    "id": "dc33878",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33878",
+    "name": "Trearddur Bay Hotel",
+    "street": "Lon Isallt",
+    "extended": "",
+    "locality": "LL65 2UN Trearddur Bay",
+    "tel": " +44 140 786 0301"
+  },
+  {
+    "id": "dc35650",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35650",
+    "name": "Tree Top Escape",
+    "street": "Tree Top Escape",
+    "extended": "",
+    "locality": "EX37 9BX High Bickington",
+    "tel": " +44 176 956 1900"
+  },
+  {
+    "id": "dc11828",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11828",
+    "name": "Trenderway Farm B&B and Wedding Venue",
+    "street": "Trenderway Farm",
+    "extended": "",
+    "locality": "PL13 2LY Looe",
+    "tel": " +44 150 327 2214"
+  },
+  {
+    "id": "dc35182",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35182",
+    "name": "Trevase Granary",
+    "street": "St. Owens Cross",
+    "extended": "",
+    "locality": "HR2 8ND Hereford",
+    "tel": " +44 198 973 0210"
+  },
+  {
+    "id": "dc31355",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31355",
+    "name": "Trossachs Pier",
+    "street": "Trossachs Loch Katrine",
+    "extended": "",
+    "locality": "FK17 8HZ Callander",
+    "tel": " +44 187 737 6315"
+  },
+  {
+    "id": "dc19743",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19743",
+    "name": "Twr Y Felin Hotel",
+    "street": "Twr Y Felin Hotel, Caerfai Road",
+    "extended": "",
+    "locality": "SA62 6QT St Davids",
+    "tel": " +44 143 772 5555"
+  },
+  {
+    "id": "dc11966",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11966",
+    "name": "Tylney Hall Hotel",
+    "street": "Rotherwick",
+    "extended": "",
+    "locality": "RG27 9AZ Hampshire",
+    "tel": " +44 125 676 4881"
+  },
+  {
+    "id": "dc31420",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31420",
+    "name": "Tyn Y Cornel Hotel",
+    "street": "Tal-y-llyn",
+    "extended": "",
+    "locality": "LL36 9AJ Tywyn",
+    "tel": " +44 165 478 2282"
+  },
+  {
+    "id": "dc48508",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48508",
+    "name": "Val Wyatt Marine",
+    "street": "Willow Marina",
+    "extended": "",
+    "locality": "RG10 8LH Wargrave",
+    "tel": " +44 118 940 3211"
+  },
+  {
+    "id": "dc11628",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11628",
+    "name": "Watergate Bay Hotel",
+    "street": "On The Beach",
+    "extended": "",
+    "locality": "TR8 4AA Cornwall",
+    "tel": " +44 163 786 0543"
+  },
+  {
+    "id": "dc33652",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33652",
+    "name": "Westwood Cross Shopping Centre",
+    "street": "23 Margate Road",
+    "extended": "",
+    "locality": "CT10 2BF Broadstairs",
+    "tel": " +44 184 386 7273"
+  },
+  {
+    "id": "dc20357",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20357",
+    "name": "Whatley Manor Hotel and Spa",
+    "street": "Whatley Manor Hotel and Spa",
+    "extended": "",
+    "locality": "SN16 0RB Malmesbury",
+    "tel": " +44 166 682 2888"
+  },
+  {
+    "id": "dc42172",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42172",
+    "name": "Woodlands Farm",
+    "street": "Woodlands Farm Woodlands Farm",
+    "extended": "",
+    "locality": "DL6 3PY Thimbleby, Northallerton",
+    "tel": " +44 160 988 3524"
+  },
+  {
+    "id": "dc47892",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47892",
+    "name": "Wooldown Holiday Cottages",
+    "street": "Sharlands Road",
+    "extended": "",
+    "locality": "EX23 0HP Cornwall",
+    "tel": " +44 128 836 1216"
+  },
+  {
+    "id": "dc14079",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14079",
+    "name": "Woolverstone Marina",
+    "street": "Main Road",
+    "extended": "",
+    "locality": "IP9 1AS Ipswich",
+    "tel": " +44 147 378 0206"
+  },
+  {
+    "id": "dc26863",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26863",
+    "name": "Wowo Campsite",
+    "street": "Wowo Campsite Wapsbourne Manor Farm, Uckfield, East Sussex TN22 3QT United Kingdom",
+    "extended": "",
+    "locality": "TN22 3QT Uckfield",
+    "tel": " +44 182 572 3414"
+  },
+  {
+    "id": "dc17069",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17069",
+    "name": "Wyboston Lakes",
+    "street": "Great North Road",
+    "extended": "",
+    "locality": "MK44 3AL Wyboston",
+    "tel": " +44 333 700 7667"
+  },
+  {
+    "id": "dc31275",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31275",
+    "name": "Ynyshir Restaurant and Rooms",
+    "street": "Ynyshir Restaurant and Rooms Eglwys Fach",
+    "extended": "",
+    "locality": "SY20 8TA Machynlleth",
+    "tel": " +44 165 478 1209"
+  }
+]
