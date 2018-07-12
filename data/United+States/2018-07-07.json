@@ -8955,15 +8955,6 @@
     "tel": "(407) 363-8000"
   },
   {
-    "id": "dc18383",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18383",
-    "name": "Columbia Restaurant",
-    "street": "98 St George St",
-    "extended": "",
-    "locality": "St Augustine, FL 32084",
-    "tel": "(904) 824-3341"
-  },
-  {
     "id": "dc13633",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13633",
     "name": "Columbia Restaurant",
@@ -8971,6 +8962,15 @@
     "extended": "",
     "locality": "Tampa, Florida 33605",
     "tel": "(813) 248-4961"
+  },
+  {
+    "id": "dc18383",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18383",
+    "name": "Columbia Restaurant",
+    "street": "98 St George St",
+    "extended": "",
+    "locality": "St Augustine, FL 32084",
+    "tel": "(904) 824-3341"
   },
   {
     "id": "dc24082",
@@ -9358,6 +9358,15 @@
     "extended": "",
     "locality": "Orlando, Florida 32836",
     "tel": "(407) 313-6868"
+  },
+  {
+    "id": "dc2847",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc2847",
+    "name": "GEM Remotes",
+    "street": "356 Capri Blvd",
+    "extended": "",
+    "locality": "Naples, FL 34113",
+    "tel": "(239) 248-9459"
   },
   {
     "id": "dc17435",
