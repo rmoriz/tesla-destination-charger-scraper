@@ -1,0 +1,2783 @@
+[
+  {
+    "id": "dc14496",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14496",
+    "name": "Abadia Retuerta LeDomaine",
+    "street": "Ctra. N-120 KM 332,4",
+    "extended": "",
+    "locality": "47340 Retuerta",
+    "tel": " +34 983 680 368"
+  },
+  {
+    "id": "dc33428",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33428",
+    "name": "Admiral Casino & Lodge",
+    "street": "Carretera Cadiz-Malaga, Km 124",
+    "extended": "",
+    "locality": "11360 San Roque",
+    "tel": " +34 956 926 513"
+  },
+  {
+    "id": "dc28147",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28147",
+    "name": "Almadraba Park Hotel",
+    "street": "Avinguda Diaz Pacheco, 70",
+    "extended": "",
+    "locality": "17480 Roses",
+    "tel": " +34 972 256 550"
+  },
+  {
+    "id": "dc38226",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38226",
+    "name": "Almuñécar Playa Spa Hotel",
+    "street": "Avenida Mar de Plata, s/n",
+    "extended": "",
+    "locality": "18690 Almuñécar",
+    "tel": " +34 958 639 450"
+  },
+  {
+    "id": "dc42326",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42326",
+    "name": "Altafulla Mar Hotel",
+    "street": "Via Augusta, 13-21",
+    "extended": "",
+    "locality": "43893 Altafulla",
+    "tel": " +34 976 511 55"
+  },
+  {
+    "id": "dc29763",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29763",
+    "name": "Aparcamiento - Insur ",
+    "street": "Avenida Diego Martínez Barrios, 10",
+    "extended": "",
+    "locality": "41013 Sevilla",
+    "tel": " +34 627 95 43 88"
+  },
+  {
+    "id": "dc29760",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29760",
+    "name": "Aparcamiento Buenos Aires - Insur",
+    "street": "Avenida de la República Argentina, 21, 23 y 25",
+    "extended": "",
+    "locality": "41013 Sevilla",
+    "tel": " +34 653 51 04 93"
+  },
+  {
+    "id": "dc29761",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29761",
+    "name": "Aparcamiento Cartuja - Insur",
+    "street": "Calle Louis Braille, s/n",
+    "extended": "",
+    "locality": "41092 Sevilla",
+    "tel": " +34 653 51 04 94"
+  },
+  {
+    "id": "dc29762",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29762",
+    "name": "Aparcamiento Mirador de Santa Justa - Insur",
+    "street": "Avda. Kansas City, s/n",
+    "extended": "",
+    "locality": "41018 Sevilla",
+    "tel": " +34 627 95 43 88"
+  },
+  {
+    "id": "dc21956",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21956",
+    "name": "Aparcamiento Plaza de Euskadi",
+    "street": "Aparcamiento Plaza de Euskadi",
+    "extended": "",
+    "locality": "48009 Bilbao",
+    "tel": " +34 944 423 343"
+  },
+  {
+    "id": "dc27328",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27328",
+    "name": "Apartamentos Turisiticos Embalse de Orellana",
+    "street": "Cerro de la Herrería, sn",
+    "extended": "",
+    "locality": "06740 Orellana la Vieja",
+    "tel": " +34 924 147 885"
+  },
+  {
+    "id": "dc14665",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14665",
+    "name": "Apartamentos Turisticos Al Sur",
+    "street": "Carretera de la Barrosa, sn",
+    "extended": "",
+    "locality": "11190 Chiclana de la Frontera",
+    "tel": " +34 956 003 990"
+  },
+  {
+    "id": "dc28879",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28879",
+    "name": "Arantza Hotela",
+    "street": "Aientsa Auzoa, 10",
+    "extended": "",
+    "locality": "31790 Arantza",
+    "tel": " + 34 654 318 949"
+  },
+  {
+    "id": "dc38587",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38587",
+    "name": "Atalaya Golf & Country Club",
+    "street": "Carretera de Benahavis, km 0,3",
+    "extended": "",
+    "locality": "29688 Estepona",
+    "tel": " +34 952 88 28 12"
+  },
+  {
+    "id": "dc43837",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43837",
+    "name": "Augusta Spa Resort **** Superior",
+    "street": "Lugar de Padriñán, 25",
+    "extended": "",
+    "locality": "36960 Sanxenxo",
+    "tel": " +34 986 727 878"
+  },
+  {
+    "id": "dc21917",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21917",
+    "name": "Ayuntamiento de Arties",
+    "street": "6 Calle Mola",
+    "extended": "",
+    "locality": "25599 Arties",
+    "tel": " +34 973 644 030"
+  },
+  {
+    "id": "dc35569",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35569",
+    "name": "B&B Hotel Albacete",
+    "street": "Av. Escritor Rodrigo Rubio, 11",
+    "extended": "",
+    "locality": "02006 Albacete",
+    "tel": " +34 967 242 807"
+  },
+  {
+    "id": "dc26424",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26424",
+    "name": "B&B Hotel Donostia San Sebastián Aeropuerto",
+    "street": "Ctra Madrid Irun km 469 (pol ind lintzirin 7), 7",
+    "extended": "",
+    "locality": "20180 Oiartzun",
+    "tel": " +34 943 912 451"
+  },
+  {
+    "id": "dc35563",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35563",
+    "name": "B&B Hotel Figueres",
+    "street": "Avinguda de Roses, s/n",
+    "extended": "",
+    "locality": "17600 Figueres",
+    "tel": " +34 972 501 587"
+  },
+  {
+    "id": "dc35570",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35570",
+    "name": "B&B Hotel Fuenlabrada",
+    "street": "Calle de Valparaiso, 12",
+    "extended": "",
+    "locality": "28944 Fuenlabrada",
+    "tel": " +34 912 780 874"
+  },
+  {
+    "id": "dc27066",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27066",
+    "name": "B&B Hotel Granada",
+    "street": "Calle Luis Brunel, sn",
+    "extended": "",
+    "locality": "18197 Pulianas",
+    "tel": " +34 958 185 257"
+  },
+  {
+    "id": "dc35565",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35565",
+    "name": "B&B Hotel Granollers",
+    "street": "Calle Valldoriof, 1",
+    "extended": "",
+    "locality": "08520 Can Franqueses",
+    "tel": " +34 938 407 132"
+  },
+  {
+    "id": "dc27064",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27064",
+    "name": "B&B Hotel Madrid Aeropuerto T4",
+    "street": "Calle Luis Pasteur, s/n",
+    "extended": "",
+    "locality": "28703 San Sebastian de los Reyes",
+    "tel": " +34 912 784 576"
+  },
+  {
+    "id": "dc27065",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27065",
+    "name": "B&B Hotel Valencia",
+    "street": "Av d'Ausias March, 99",
+    "extended": "",
+    "locality": "46013 Valencia",
+    "tel": " +34 963 063 000"
+  },
+  {
+    "id": "dc35567",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35567",
+    "name": "B&B Hotel Valencia Aeropuerto",
+    "street": "Ciutat de Lliria, 4",
+    "extended": "",
+    "locality": "46980 Paterna",
+    "tel": " +34 961 344 640"
+  },
+  {
+    "id": "dc22700",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22700",
+    "name": "Balneario de Manzanera El Paraiso",
+    "street": "Km. 2 Carretera Abejuela",
+    "extended": "",
+    "locality": "44420 Manzanera",
+    "tel": " +34 978 781 818"
+  },
+  {
+    "id": "dc27871",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27871",
+    "name": "Beach Club Estrella del Mar",
+    "street": "Urbanización Estrella del Mar, Carretera A7, km 190,5",
+    "extended": "",
+    "locality": "29604 Marbella",
+    "tel": " +34 951 05 39 90"
+  },
+  {
+    "id": "dc22265",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22265",
+    "name": "Bellavista del Jardin del Norte",
+    "street": "Calle d'Enric Granados, 88",
+    "extended": "",
+    "locality": "08008 Barcelona",
+    "tel": " +34 938 562 949"
+  },
+  {
+    "id": "dc14530",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14530",
+    "name": "Bodega Hotel Eguren Ugarte",
+    "street": "Carretera A-124, Km 61",
+    "extended": "",
+    "locality": "01309 Guardia",
+    "tel": " +34 945 600 766"
+  },
+  {
+    "id": "dc36091",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36091",
+    "name": "Bodega Los Aljibes",
+    "street": "Camino de Chinchilla a Pinilla",
+    "extended": "",
+    "locality": "02520 Chinchilla de Monte-Aragón",
+    "tel": " +34 967 260 015"
+  },
+  {
+    "id": "dc36065",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36065",
+    "name": "Bodegas Benjamin de Rothschild & Vega Sicilia",
+    "street": "Paraje de San Millan, s/n",
+    "extended": "",
+    "locality": "01307 Samaniego",
+    "tel": " +34 945 567 508"
+  },
+  {
+    "id": "dc14955",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14955",
+    "name": "Bodegas Torres Visitors Centre",
+    "street": "Finca El Maset s/n",
+    "extended": "",
+    "locality": "08796 Pacs del Penedes",
+    "tel": " +34 938 177 487"
+  },
+  {
+    "id": "dc40890",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40890",
+    "name": "Can Bonastre Wine Resort",
+    "street": "Finca Can Bonastre Santa Magdalena, s/n",
+    "extended": "",
+    "locality": "08783 Masquefa",
+    "tel": " +34 937 728 767"
+  },
+  {
+    "id": "dc26174",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26174",
+    "name": "Casa Rural Apartamentos Jesuskoa",
+    "street": "Barrio Oikia, 45",
+    "extended": "",
+    "locality": "20759 Zumaia",
+    "tel": " +34 635 758 849"
+  },
+  {
+    "id": "dc41070",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41070",
+    "name": "Casa Rural Costa Caion",
+    "street": "Campo da Costa, 1",
+    "extended": "",
+    "locality": "15145 Caion",
+    "tel": " +34 636 500 291"
+  },
+  {
+    "id": "dc50964",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50964",
+    "name": "Casa Rural Mas Roselló",
+    "street": "Cami Mas Palli, 7",
+    "extended": "",
+    "locality": "17251 Calonge",
+    "tel": " +34 972 652 452"
+  },
+  {
+    "id": "dc25310",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25310",
+    "name": "Casa Rural Mas del Joncar",
+    "street": "Cami del Joncar, 15",
+    "extended": "",
+    "locality": "17470 Sant Pere Pescador",
+    "tel": " +34 972 521 072"
+  },
+  {
+    "id": "dc38778",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38778",
+    "name": "Casa Rural Rustic Vilella",
+    "street": "Cal Pere Vilella, s/n",
+    "extended": "",
+    "locality": "08695 Gisclareny",
+    "tel": " +34 637 536 350"
+  },
+  {
+    "id": "dc29644",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29644",
+    "name": "Casa da Feira - Turismo Rural",
+    "street": "Lugar da Portaxe, 9",
+    "extended": "",
+    "locality": "32879 Lobios",
+    "tel": " +34 988 448 138"
+  },
+  {
+    "id": "dc19421",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19421",
+    "name": "Casona de Labrada",
+    "street": "6 Labrada",
+    "extended": "",
+    "locality": "27728 A Pontenova",
+    "tel": " +34 696 927 333"
+  },
+  {
+    "id": "dc40460",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40460",
+    "name": "Castilla Termal Monasterio de Valbuena",
+    "street": "Calle Murallas, s/n",
+    "extended": "",
+    "locality": "47359 San Bernardo",
+    "tel": " +33 983 68 30 40"
+  },
+  {
+    "id": "dc10789",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10789",
+    "name": "Castillo de Gorraiz Hotel Golf & Spa",
+    "street": "78 Avenida de Egues",
+    "extended": "",
+    "locality": "31620 Gorraiz",
+    "tel": " +34 948 337 722"
+  },
+  {
+    "id": "dc30859",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30859",
+    "name": "Celler Can Torrens",
+    "street": "Plaza de les Glories Catalanes, 3",
+    "extended": "",
+    "locality": "8105 San Fausto de Campcentellas",
+    "tel": " +34 935 707 666"
+  },
+  {
+    "id": "dc35124",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35124",
+    "name": "Centro Comercial ABC Serrano",
+    "street": "Calle de Serrano, 61",
+    "extended": "",
+    "locality": "28006 Madrid",
+    "tel": " +34 91 577 50 31"
+  },
+  {
+    "id": "dc34273",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34273",
+    "name": "Centro Comercial Albacenter",
+    "street": "Calle Alcalde Conangla, s/n",
+    "extended": "",
+    "locality": "Albacete Albacete",
+    "tel": " +34 967 246 700"
+  },
+  {
+    "id": "dc33501",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33501",
+    "name": "Centro Comercial Anecblau",
+    "street": "Avda Canal Olímpic, 24",
+    "extended": "",
+    "locality": "08860 Castelldefels",
+    "tel": " +34 936 364 243"
+  },
+  {
+    "id": "dc49952",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49952",
+    "name": "Centro Comercial Arenas de Barcelona",
+    "street": "Gran Via de les Corts Catalanes, 373-385",
+    "extended": "",
+    "locality": "8015 Barcelona",
+    "tel": " +34 932 890 244"
+  },
+  {
+    "id": "dc49950",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49950",
+    "name": "Centro Comercial Arturo Soria Plaza",
+    "street": "Calle Arturo Soria, 126",
+    "extended": "",
+    "locality": "28043 Madrid",
+    "tel": " +34 917 599 718"
+  },
+  {
+    "id": "dc33499",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33499",
+    "name": "Centro Comercial As Termas",
+    "street": "Avenida Infanta Elena, 213",
+    "extended": "",
+    "locality": "27003 Lugo",
+    "tel": " +34 982 219 752"
+  },
+  {
+    "id": "dc22615",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22615",
+    "name": "Centro Comercial Bonaire",
+    "street": "Ctra. A3 , Km. 345",
+    "extended": "",
+    "locality": "46960 Valencia",
+    "tel": " +34 961 579 224"
+  },
+  {
+    "id": "dc33505",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33505",
+    "name": "Centro Comercial El Mirador de Jinamar",
+    "street": "Autovia GC-1, Km 5",
+    "extended": "",
+    "locality": "35220 Las Palmas de Gran Canaria",
+    "tel": " +34 928 686 940"
+  },
+  {
+    "id": "dc33668",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33668",
+    "name": "Centro Comercial El Rosal",
+    "street": "Avedidad de la Constitución, 2",
+    "extended": "",
+    "locality": "24404 Ponferrada",
+    "tel": " +34 987 406 750"
+  },
+  {
+    "id": "dc40802",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40802",
+    "name": "Centro Comercial Espacio Torrelodones",
+    "street": "Av. de la Fontanilla, 1",
+    "extended": "",
+    "locality": "28250 Torrelodones",
+    "tel": " +34 918 54 41 95"
+  },
+  {
+    "id": "dc22613",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22613",
+    "name": "Centro Comercial Garbera",
+    "street": "Centro Comercial Garbera",
+    "extended": "",
+    "locality": "2017 San Sebastian",
+    "tel": " +34 943 394 895"
+  },
+  {
+    "id": "dc22611",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22611",
+    "name": "Centro Comercial Glories (PKG-1)",
+    "street": "Carrer del Perú, 22",
+    "extended": "",
+    "locality": "08018 Barcelona",
+    "tel": " +34 934 860 230"
+  },
+  {
+    "id": "dc33667",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33667",
+    "name": "Centro Comercial Gran Via de Vigo",
+    "street": "Calle Miradoiro, 2",
+    "extended": "",
+    "locality": "36210 Vigo",
+    "tel": " +34 986 447 500"
+  },
+  {
+    "id": "dc36419",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36419",
+    "name": "Centro Comercial Habaneras",
+    "street": "Avenida Rosa Mazon Valero, 7",
+    "extended": "",
+    "locality": "03184 Torrevieja",
+    "tel": " +34 965 71 23 00"
+  },
+  {
+    "id": "dc36093",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36093",
+    "name": "Centro Comercial Intu Asturias",
+    "street": "Autovia A66, Km 4.5",
+    "extended": "",
+    "locality": "33429 Paredes El Cuetu",
+    "tel": " +34 985 266 856"
+  },
+  {
+    "id": "dc26503",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26503",
+    "name": "Centro Comercial Islazul",
+    "street": "Calle Calderilla, 1",
+    "extended": "",
+    "locality": "28054 Madrid",
+    "tel": " +34 915 11 46 80"
+  },
+  {
+    "id": "dc47463",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47463",
+    "name": "Centro Comercial L'Aljub",
+    "street": "Carrer Jacarilla, 7",
+    "extended": "",
+    "locality": "03205 Elche",
+    "tel": " +34 965 43 00 90"
+  },
+  {
+    "id": "dc26507",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26507",
+    "name": "Centro Comercial L'Illa Diagonal",
+    "street": "Av. Diagonal, 559",
+    "extended": "",
+    "locality": "08029 Barcelona",
+    "tel": " +34 934 194 366"
+  },
+  {
+    "id": "dc22610",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22610",
+    "name": "Centro Comercial La Maquinista",
+    "street": "Paseo Potosi, 2 - Planta -1",
+    "extended": "",
+    "locality": "08030 Barcelona",
+    "tel": " +34 933 608 971"
+  },
+  {
+    "id": "dc49949",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49949",
+    "name": "Centro Comercial La Vital",
+    "street": "Avenida de La Vital, 10",
+    "extended": "",
+    "locality": "46701 Gandia",
+    "tel": " +34 962 881 070"
+  },
+  {
+    "id": "dc50850",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50850",
+    "name": "Centro Comercial Marineda City",
+    "street": "Estrada Baños de Arteixo, 43",
+    "extended": "",
+    "locality": "15008 A Coruña",
+    "tel": " +34 881 888 888"
+  },
+  {
+    "id": "dc43496",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43496",
+    "name": "Centro Comercial Moraleja Green",
+    "street": "Av. de Europa, 13-15",
+    "extended": "",
+    "locality": "28108 Alcobendas",
+    "tel": " +34 916 61 01 17"
+  },
+  {
+    "id": "dc33502",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33502",
+    "name": "Centro Comercial Portal de la Marina",
+    "street": "Avda. Costa Blanca, 1",
+    "extended": "",
+    "locality": "03760 Ondara",
+    "tel": " +34 965 766 780"
+  },
+  {
+    "id": "dc50851",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50851",
+    "name": "Centro Comercial Porto Pi",
+    "street": "Avinguda de Gabriel Roca, 54",
+    "extended": "",
+    "locality": "7015 Palma de Mallorca",
+    "tel": " +34 977 015 00"
+  },
+  {
+    "id": "dc32941",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32941",
+    "name": "Centro Comercial Puerto Venecia",
+    "street": "Travesia de los Jardines Reales, 7",
+    "extended": "",
+    "locality": "50021 Zaragoza",
+    "tel": " +34 976 930 645"
+  },
+  {
+    "id": "dc33506",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33506",
+    "name": "Centro Comercial Sevilla Factory",
+    "street": "Ctra Nacional IV Madrid-Cadiz, Km. 553.8",
+    "extended": "",
+    "locality": "41703 Dos Hermanas",
+    "tel": " +34 954 727 772"
+  },
+  {
+    "id": "dc39085",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39085",
+    "name": "Centro Comercial Sexta Avenida",
+    "street": "Avenida de la Victoria, 2",
+    "extended": "",
+    "locality": "28023 Madrid",
+    "tel": " +34 91 372 80 34"
+  },
+  {
+    "id": "dc33504",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33504",
+    "name": "Centro Comercial Urbil",
+    "street": "Poligono Asteasuain , 7",
+    "extended": "",
+    "locality": "20170 Usurbil",
+    "tel": " +34 943 364 187"
+  },
+  {
+    "id": "dc49953",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49953",
+    "name": "Centro Comercial Vilamarina",
+    "street": "Avenida del Siglo XXI (Parking -1 Color Lila), 6",
+    "extended": "",
+    "locality": "8840 Viladecans",
+    "tel": " +34 936 476 776"
+  },
+  {
+    "id": "dc27814",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27814",
+    "name": "Cerdanya EcoResort - Hotel Muntanya & Spa",
+    "street": "Carrer del Puig, 4",
+    "extended": "",
+    "locality": "25727 Prullans",
+    "tel": " +34 973 510 260"
+  },
+  {
+    "id": "dc21487",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21487",
+    "name": "Circuit de Barcelona-Catalunya",
+    "street": "Camino Mas Moreneta, s/n",
+    "extended": "",
+    "locality": "08160 Montmelo",
+    "tel": " +34 93 571 97 00"
+  },
+  {
+    "id": "dc34318",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34318",
+    "name": "Club Nautico Moraira",
+    "street": "Puerto de Moraira, s/n",
+    "extended": "",
+    "locality": "3724 Moraira",
+    "tel": " +34 965 744 461"
+  },
+  {
+    "id": "dc39181",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39181",
+    "name": "Comunidad General Parque Comercial Talavera",
+    "street": "Carretera N-V, km 114",
+    "extended": "",
+    "locality": "45600 Talavera de la Reina",
+    "tel": " +34 616414685"
+  },
+  {
+    "id": "dc26958",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26958",
+    "name": "Consolación. A delicious Hotel & Restaurant",
+    "street": "Carretera Nacional II km 96",
+    "extended": "",
+    "locality": "44652 Monroyo",
+    "tel": " +34 978 856 787"
+  },
+  {
+    "id": "dc40500",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40500",
+    "name": "Duques de Medinaceli",
+    "street": "Plaza de los Jazmines,, 2",
+    "extended": "",
+    "locality": "11500 El Puerto de Sta María",
+    "tel": " +34 956 86 07 77"
+  },
+  {
+    "id": "dc30028",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30028",
+    "name": "El Corte Ingles Bahía Cadiz",
+    "street": "Av. las Cortes de Cádiz , 1",
+    "extended": "",
+    "locality": "11012 Cadiz",
+    "tel": " +34 956 297 100"
+  },
+  {
+    "id": "dc22464",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22464",
+    "name": "El Corte Ingles Bilbao",
+    "street": "7-9, 1a Planta Gran Via",
+    "extended": "",
+    "locality": "48001 Bilbao",
+    "tel": " +34 944 253 500"
+  },
+  {
+    "id": "dc30031",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30031",
+    "name": "El Corte Ingles C.C. León",
+    "street": "Calle Fray Luis de León, 29, 24005 León, Spain",
+    "extended": "",
+    "locality": "24005 León",
+    "tel": " +34 987 263 100"
+  },
+  {
+    "id": "dc34371",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34371",
+    "name": "El Corte Ingles Castellana",
+    "street": "Calle de Raimundo Fernández Villaverde, 79",
+    "extended": "",
+    "locality": "28003 Madrid",
+    "tel": " +34 914 18 88 00"
+  },
+  {
+    "id": "dc33461",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33461",
+    "name": "El Corte Ingles Centro Comercial Pozuelo",
+    "street": "Carretera Nacional VI, Km. 12,500",
+    "extended": "",
+    "locality": "28224 Pozuelo de Alarcón",
+    "tel": " +34 917 08 92 00"
+  },
+  {
+    "id": "dc30030",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30030",
+    "name": "El Corte Ingles Costa Mijas",
+    "street": "CN-340, KM 210",
+    "extended": "",
+    "locality": "29602 Mijas",
+    "tel": " +34 952 669 100"
+  },
+  {
+    "id": "dc22462",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22462",
+    "name": "El Corte Ingles Diagonal",
+    "street": "Avenida Diagonal, 617 - 1a Planta",
+    "extended": "",
+    "locality": "08028 Barcelona",
+    "tel": " +34 933 667 100"
+  },
+  {
+    "id": "dc21957",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21957",
+    "name": "El Corte Ingles Goya",
+    "street": "76 - 1a Planta Click & Car Calle de Goya",
+    "extended": "",
+    "locality": "28009 Madrid",
+    "tel": " +34 915 766 139"
+  },
+  {
+    "id": "dc30029",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30029",
+    "name": "El Corte Ingles Malaga",
+    "street": "Calle Hilera, 8",
+    "extended": "",
+    "locality": "29002 Malaga",
+    "tel": " +34 952 076 500"
+  },
+  {
+    "id": "dc29415",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29415",
+    "name": "El Corte Ingles Puerto Banus",
+    "street": "Av Ramon Areces, s/n",
+    "extended": "",
+    "locality": "29660 Marbella",
+    "tel": " +34 952 90 99 90"
+  },
+  {
+    "id": "dc21958",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21958",
+    "name": "El Corte Ingles Sanchinarro",
+    "street": "1 - 1a Planta color amarillo Calle Margarita de Parma",
+    "extended": "",
+    "locality": "28050 Madrid",
+    "tel": " +34 913 848 200"
+  },
+  {
+    "id": "dc34782",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34782",
+    "name": "El Corte Ingles Sevilla Este",
+    "street": "Carretera Sevilla - Malaga, Km 1",
+    "extended": "",
+    "locality": "41020 Sevilla",
+    "tel": " +34 954 269 600"
+  },
+  {
+    "id": "dc25865",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25865",
+    "name": "El Meson de Fuencarral",
+    "street": "Carretera de Colmenar Viejo, Km 14",
+    "extended": "",
+    "locality": "28049 Madrid",
+    "tel": " +34 917 341 019"
+  },
+  {
+    "id": "dc22688",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22688",
+    "name": "Euro Hotel Castellon",
+    "street": "9 Carrer del Pintor Oliet",
+    "extended": "",
+    "locality": "12006 Castellon",
+    "tel": " +34 964 342 559"
+  },
+  {
+    "id": "dc9664",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9664",
+    "name": "Fairmont Rey Juan Carlos I",
+    "street": "Avda. Diagonal, 661-671",
+    "extended": "",
+    "locality": "08028 Barcelona",
+    "tel": " +34 93 364 40 40"
+  },
+  {
+    "id": "dc9538",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9538",
+    "name": "Fairplay Hotel Golf & Spa Resort",
+    "street": "Calle La Torre, 80",
+    "extended": "",
+    "locality": "11190 Benalup-Casas Viejas",
+    "tel": " +34 956 424 824"
+  },
+  {
+    "id": "dc20931",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20931",
+    "name": "Golf La Roqueta",
+    "street": "Ctra. Abrera a Manresa C-55, Km 24",
+    "extended": "",
+    "locality": "08289 Castellgali",
+    "tel": " +34 938 331 328"
+  },
+  {
+    "id": "dc18040",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18040",
+    "name": "Gran Hotel Domine",
+    "street": "61 Alameda Mazarredo",
+    "extended": "",
+    "locality": "48009 Bilbao",
+    "tel": " +34 944253300"
+  },
+  {
+    "id": "dc41958",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41958",
+    "name": "Gran Hotel Guadalpin Banus",
+    "street": "Calle Edgar Neville, s/n",
+    "extended": "",
+    "locality": "29660 Puerto Banus",
+    "tel": " +34 952 899 700"
+  },
+  {
+    "id": "dc30385",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30385",
+    "name": "Gran Hotel Havana",
+    "street": "Gran Via de les Corts Catalanes, 647",
+    "extended": "",
+    "locality": "08010 Barcelona",
+    "tel": " +34 933 417 000"
+  },
+  {
+    "id": "dc30830",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30830",
+    "name": "Gran Hotel Miramar Malaga",
+    "street": "Paseo Reding, 22",
+    "extended": "",
+    "locality": "29016 Malaga",
+    "tel": " +34 952 60 30 00"
+  },
+  {
+    "id": "dc24158",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24158",
+    "name": "H10 Marina Barcelona",
+    "street": "Av. del Bogatell, 64",
+    "extended": "",
+    "locality": "08006 Barcelona",
+    "tel": " +34 933 097 917"
+  },
+  {
+    "id": "dc23933",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23933",
+    "name": "H10 Tribeca",
+    "street": "5 Calle de Pedro Teixeira",
+    "extended": "",
+    "locality": "28020 Madrid",
+    "tel": " +34 915 971 568"
+  },
+  {
+    "id": "dc15038",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15038",
+    "name": "Hacienda Zorita Wine Hotel",
+    "street": "Crta.Salamanca-Ledesma , Km.12",
+    "extended": "",
+    "locality": "37115 Valverdon",
+    "tel": " +34 923 129 400"
+  },
+  {
+    "id": "dc9540",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9540",
+    "name": "Healthouse Las Dunas Health & Beach Spa",
+    "street": "Crta. Marbella - Estepona, Km 163.5",
+    "extended": "",
+    "locality": "29689 Estepona",
+    "tel": " +34 951 08 20 90"
+  },
+  {
+    "id": "dc22398",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22398",
+    "name": "Hilton Madrid Airport",
+    "street": "2 Avenida de la Hispanidad",
+    "extended": "",
+    "locality": "28042 Madrid",
+    "tel": " +34 911 534 000"
+  },
+  {
+    "id": "dc27327",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27327",
+    "name": "Hospedería Conventual Sierra de Gata",
+    "street": "Camino del Convento, 39",
+    "extended": "",
+    "locality": "10892 San Martin de Trevejo",
+    "tel": " +34 927 144 021"
+  },
+  {
+    "id": "dc27326",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27326",
+    "name": "Hospedería Conventual de Alcántara",
+    "street": "Carretera Poblado Iberdrola, sn",
+    "extended": "",
+    "locality": "10980 Alcantára",
+    "tel": " +34 927 390 638"
+  },
+  {
+    "id": "dc27325",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27325",
+    "name": "Hospedería Hurdes Reales",
+    "street": "Carretera Factoria, s/n",
+    "extended": "",
+    "locality": "10624 Las Mestas",
+    "tel": " +34 927 434 139"
+  },
+  {
+    "id": "dc27320",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27320",
+    "name": "Hospedería Mirador de Llerena",
+    "street": "Calle Aurora, 7",
+    "extended": "",
+    "locality": "06900 Llerena",
+    "tel": " +34 924 870 597"
+  },
+  {
+    "id": "dc27321",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27321",
+    "name": "Hospedería Parque de Monfragüe",
+    "street": "Carretera Ex-208, Plasencia-Trujillo, Km 37,1",
+    "extended": "",
+    "locality": "10694 Torrejon el Rubio",
+    "tel": " +34 927 455 278"
+  },
+  {
+    "id": "dc27324",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27324",
+    "name": "Hospedería Puente de Alconetar",
+    "street": "Plaza Constitucion, 18",
+    "extended": "",
+    "locality": "10940 Garrovillas de Alconetar",
+    "tel": " +34 927 309 222"
+  },
+  {
+    "id": "dc27322",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27322",
+    "name": "Hospedería Valle Del Jerte",
+    "street": "Calle Ramon Cepeda, 118",
+    "extended": "",
+    "locality": "10612 Jerte",
+    "tel": " +34 927 470 101"
+  },
+  {
+    "id": "dc27323",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27323",
+    "name": "Hospedería Valle del Ambroz",
+    "street": "Plaza del Hospital, s/n",
+    "extended": "",
+    "locality": "10700 Hervas",
+    "tel": " +34 927 474 828"
+  },
+  {
+    "id": "dc9644",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9644",
+    "name": "Hospes Palacio San Esteban",
+    "street": "3 Arroyo de Santo Domingo",
+    "extended": "",
+    "locality": "37001 Salamanca",
+    "tel": " +34 923 262 296"
+  },
+  {
+    "id": "dc14587",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14587",
+    "name": "Hospes Palacio de Arenales & Spa",
+    "street": "Ctra. Valencia de Alcantara",
+    "extended": "",
+    "locality": "10005 Caceres",
+    "tel": " +34 927 62 04 90"
+  },
+  {
+    "id": "dc10787",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10787",
+    "name": "Hostal Spa Empúries",
+    "street": "Platja Portitxol",
+    "extended": "",
+    "locality": "17130 L'Escala",
+    "tel": " +34 972 770 207"
+  },
+  {
+    "id": "dc14772",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14772",
+    "name": "Hostal de La Gavina",
+    "street": "Plaza Roserar",
+    "extended": "",
+    "locality": "17248 S'Agaro",
+    "tel": " +34 972 32 11 00"
+  },
+  {
+    "id": "dc14501",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14501",
+    "name": "Hotel & Spa Arzuaga",
+    "street": "Ctra. N.122 Aranda-Valladolid, Km. 325",
+    "extended": "",
+    "locality": "47350 Quintanilla de Onesimo",
+    "tel": " +34 983 687 004"
+  },
+  {
+    "id": "dc15245",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15245",
+    "name": "Hotel Acevi Villarroel",
+    "street": "Villarroel, 106",
+    "extended": "",
+    "locality": "08011 Barcelona",
+    "tel": " +34 934 520 000"
+  },
+  {
+    "id": "dc24310",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24310",
+    "name": "Hotel Aigua Blava S.A ",
+    "street": "Platja de Fornells, sn",
+    "extended": "",
+    "locality": "17255 Begur",
+    "tel": " +34 972 62 20 58 "
+  },
+  {
+    "id": "dc19090",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19090",
+    "name": "Hotel Aire de Bardenas",
+    "street": "Carretera de Ejea Na125 Km 1,5",
+    "extended": "",
+    "locality": "31500 Tudela",
+    "tel": " +34 948 116 666"
+  },
+  {
+    "id": "dc16804",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16804",
+    "name": "Hotel Akelarre (Restaurante Akelarre)",
+    "street": "Paseo Padre Orcolaga, 56",
+    "extended": "",
+    "locality": "20008 Donostia",
+    "tel": " +34 943 31 12 09"
+  },
+  {
+    "id": "dc37764",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37764",
+    "name": "Hotel Ametlla Mar",
+    "street": "Cala Bon Capó, s/n",
+    "extended": "",
+    "locality": "43860 L'Ametlla de Mar",
+    "tel": " +34 977 457 791"
+  },
+  {
+    "id": "dc13154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13154",
+    "name": "Hotel Arts Barcelona ",
+    "street": "Calle Marina, 19",
+    "extended": "",
+    "locality": "08005 Barcelona",
+    "tel": " +34 932 211 000"
+  },
+  {
+    "id": "dc35564",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35564",
+    "name": "Hotel B&B Girona",
+    "street": "Cami dels Carlins, 10",
+    "extended": "",
+    "locality": "17190 Salt",
+    "tel": " +34 972 439 487"
+  },
+  {
+    "id": "dc27063",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27063",
+    "name": "Hotel B&B Viladecans",
+    "street": "Av. Olof Palme, 24",
+    "extended": "",
+    "locality": "08840 Viladecans",
+    "tel": " +34 932 993 658"
+  },
+  {
+    "id": "dc23503",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23503",
+    "name": "Hotel Balneario Alhama de Aragon",
+    "street": "Calle de San Roque, 1-6",
+    "extended": "",
+    "locality": "50230 Alhama de Aragon",
+    "tel": " +34 976 879 239"
+  },
+  {
+    "id": "dc43338",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43338",
+    "name": "Hotel Barcelo Cabo de Gata",
+    "street": "Calle de los Juegos de Casablanca, s/n",
+    "extended": "",
+    "locality": "4131 Retamar",
+    "tel": " +34 950 184 250"
+  },
+  {
+    "id": "dc28545",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28545",
+    "name": "Hotel Barosse",
+    "street": "Calle Estiras, 4",
+    "extended": "",
+    "locality": "22712 Baros",
+    "tel": " +34 974 360 582"
+  },
+  {
+    "id": "dc25304",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25304",
+    "name": "Hotel Benabola",
+    "street": "Calle Benabola, 3",
+    "extended": "",
+    "locality": "29660 Marbella",
+    "tel": " +34 952 815 000"
+  },
+  {
+    "id": "dc19422",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19422",
+    "name": "Hotel Carlos III",
+    "street": "Carretera de Sant Carles a Alcanar, km 4",
+    "extended": "",
+    "locality": "43530 Alcanar",
+    "tel": " +34 977 73 70 42"
+  },
+  {
+    "id": "dc40458",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40458",
+    "name": "Hotel Carlton",
+    "street": "Plaza Federico Moyua, 2",
+    "extended": "",
+    "locality": "48001 Bilbao",
+    "tel": " +34 944 162 200"
+  },
+  {
+    "id": "dc28448",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28448",
+    "name": "Hotel Casona de la Paca",
+    "street": "El Pito, s/n",
+    "extended": "",
+    "locality": "33150 Cudillero",
+    "tel": " +34 985 591 303"
+  },
+  {
+    "id": "dc20553",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20553",
+    "name": "Hotel Chalet Val de Ruda",
+    "street": "Baqueira Beret - Edif.val de Ruda",
+    "extended": "",
+    "locality": "25598 Naut Aran",
+    "tel": " +34 973 645 258"
+  },
+  {
+    "id": "dc12232",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12232",
+    "name": "Hotel Claridge",
+    "street": "6 Plaza Conde de Casal",
+    "extended": "",
+    "locality": "28007 Madrid",
+    "tel": " +34 915 519 400"
+  },
+  {
+    "id": "dc41147",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41147",
+    "name": "Hotel Class Valls",
+    "street": "Passeig President Tarradellas, Ctra.N-240",
+    "extended": "",
+    "locality": "43800 Tarragona",
+    "tel": " +33 977 60 80 90"
+  },
+  {
+    "id": "dc24911",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24911",
+    "name": "Hotel Cortijo El Paraiso",
+    "street": "Carretera de la Isleta del Moro, Km 6",
+    "extended": "",
+    "locality": "04118 Los Esculos",
+    "tel": " +34 680 994 779"
+  },
+  {
+    "id": "dc28705",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28705",
+    "name": "Hotel Crowne Plaza Barcelona",
+    "street": "Avda Rius i Taulet 1-3",
+    "extended": "",
+    "locality": "08004 Barcelona",
+    "tel": " +34 93 426 22 23"
+  },
+  {
+    "id": "dc13016",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13016",
+    "name": "Hotel Cullera Holiday",
+    "street": "27 Avenida del Raco",
+    "extended": "",
+    "locality": "46400 Cullera",
+    "tel": " +34 961 731 555"
+  },
+  {
+    "id": "dc25305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25305",
+    "name": "Hotel Dolce Sitges",
+    "street": "Avda Cami de Miralpeix, 12",
+    "extended": "",
+    "locality": "08870 Sitges",
+    "tel": " +34 938 109 000"
+  },
+  {
+    "id": "dc12134",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12134",
+    "name": "Hotel Doña Monse",
+    "street": "Avenida de Orihuela, 75",
+    "extended": "",
+    "locality": "03186 Torrevieja",
+    "tel": " +34 96 679 86 65"
+  },
+  {
+    "id": "dc35728",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35728",
+    "name": "Hotel Echaurren Relais & Chateaux",
+    "street": "Calle Padre Jose Garcia, 19",
+    "extended": "",
+    "locality": "26280 Ezcaray",
+    "tel": " +34 941 354 047"
+  },
+  {
+    "id": "dc24263",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24263",
+    "name": "Hotel El Balcon de la Vera",
+    "street": "Km. 75,6 Carretera EX-203",
+    "extended": "",
+    "locality": "10470 Villanueva de la Ver",
+    "tel": " +34 927567164"
+  },
+  {
+    "id": "dc29116",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29116",
+    "name": "Hotel El Cruce",
+    "street": "Autovia de Andalucía, Km 173, 13200 Manzanares, Spain",
+    "extended": "",
+    "locality": "13200 Manzanares",
+    "tel": " +34 926 61 19 00"
+  },
+  {
+    "id": "dc16698",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16698",
+    "name": "Hotel Emporda",
+    "street": "170 Avda. Salvador Dali",
+    "extended": "",
+    "locality": "17600 Figueres",
+    "tel": " +34 972 500 562"
+  },
+  {
+    "id": "dc25287",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25287",
+    "name": "Hotel Extremadura",
+    "street": "Avenida Virgen de Guadalupe, 28",
+    "extended": "",
+    "locality": "10001 Caceres",
+    "tel": " +34 927 629 639"
+  },
+  {
+    "id": "dc12729",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12729",
+    "name": "Hotel Flamingo Oasis",
+    "street": "Avda. Doctor Severo Ochoa, 3",
+    "extended": "",
+    "locality": "03500 Benidorm",
+    "tel": " +34 96 681 35 30"
+  },
+  {
+    "id": "dc17541",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17541",
+    "name": "Hotel Granada Palace, Suite Business & Spa",
+    "street": "Calle Diego de Siloe s/n,",
+    "extended": "",
+    "locality": "18193 Cajar",
+    "tel": " +34 958 301 222"
+  },
+  {
+    "id": "dc16976",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16976",
+    "name": "Hotel H10 Andalucia Plaza",
+    "street": "Calle Violetas s/n",
+    "extended": "",
+    "locality": "29660 Puerto Banús",
+    "tel": " +34 952 812 000"
+  },
+  {
+    "id": "dc17823",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17823",
+    "name": "Hotel H10 Cubik",
+    "street": "Via Laet, Via Laetana 69",
+    "extended": "",
+    "locality": "08003 Barcelona",
+    "tel": " +34 933 202 200"
+  },
+  {
+    "id": "dc24859",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24859",
+    "name": "Hotel H10 Puerta de Alcalá",
+    "street": "Calle de Alcala, 66",
+    "extended": "",
+    "locality": "28009 Madrid",
+    "tel": " +34 91 435 10 60"
+  },
+  {
+    "id": "dc38071",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38071",
+    "name": "Hotel H10 Vintage Salou",
+    "street": "Calle Birmingham",
+    "extended": "",
+    "locality": "43840 Salou",
+    "tel": " +34 977 381 400"
+  },
+  {
+    "id": "dc10770",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10770",
+    "name": "Hotel Hesperia Madrid",
+    "street": "57 Paseo de la Castellana",
+    "extended": "",
+    "locality": "28046 Madrid",
+    "tel": " +34 912 108 800"
+  },
+  {
+    "id": "dc14586",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14586",
+    "name": "Hotel Hospes Amerigo",
+    "street": "Calle Rafael Altamira, 7",
+    "extended": "",
+    "locality": "03002 Alicante",
+    "tel": " +34 965 146 570"
+  },
+  {
+    "id": "dc14584",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14584",
+    "name": "Hotel Hospes Las Casas del Rey de Baeza",
+    "street": "2 Plaza Jesus de la Redencion",
+    "extended": "",
+    "locality": "41003 Sevilla",
+    "tel": " +34 954 561 496"
+  },
+  {
+    "id": "dc14583",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14583",
+    "name": "Hotel Hospes Maricel & Spa Mallorca",
+    "street": "Carretera Andratx, 11",
+    "extended": "",
+    "locality": "07181 Mallorca",
+    "tel": " +34 971 707 744"
+  },
+  {
+    "id": "dc10758",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10758",
+    "name": "Hotel Hospes Palau de la Mar",
+    "street": "14 Avinguda de Navarro Reverter",
+    "extended": "",
+    "locality": "46004 Valencia",
+    "tel": " +34 963 162 884"
+  },
+  {
+    "id": "dc25968",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25968",
+    "name": "Hotel Ibis Alcala de Henares La Garena",
+    "street": "Calle Antonio Suarez, 8",
+    "extended": "",
+    "locality": "28802 Alcala de Henares",
+    "tel": " +34 918 796 181"
+  },
+  {
+    "id": "dc14271",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14271",
+    "name": "Hotel Ibis Irun",
+    "street": "77 Avda De Letxumborro",
+    "extended": "",
+    "locality": "20305 Irun",
+    "tel": " +34 943 63 62 32"
+  },
+  {
+    "id": "dc10769",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10769",
+    "name": "Hotel InterContinental Madrid",
+    "street": "49 Paseo de la Castellana",
+    "extended": "",
+    "locality": "28046 Madrid",
+    "tel": " +34 917 00 73 00"
+  },
+  {
+    "id": "dc36379",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36379",
+    "name": "Hotel Intur Castellon",
+    "street": "Carrer d'Herrero, 20",
+    "extended": "",
+    "locality": "12002 Castellons de la Plana",
+    "tel": " +34 964 225 000"
+  },
+  {
+    "id": "dc41242",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41242",
+    "name": "Hotel Izan Puerta de Gredos",
+    "street": "Carretera de los Llanos, s/n",
+    "extended": "",
+    "locality": "5600 Ávila",
+    "tel": " +34 920 34 51 71"
+  },
+  {
+    "id": "dc37638",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37638",
+    "name": "Hotel Izan Trujillo",
+    "street": "Plaza del Campillo, 1",
+    "extended": "",
+    "locality": "10200 Trujillo",
+    "tel": " +33 927 45 89 00"
+  },
+  {
+    "id": "dc10745",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10745",
+    "name": "Hotel Kempinski Bahía Estepona",
+    "street": "Ctra de Cadiz, km. 159",
+    "extended": "",
+    "locality": "29680 Estepona",
+    "tel": " +34 952 80 95 00"
+  },
+  {
+    "id": "dc41793",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41793",
+    "name": "Hotel La Fuente de la Higuera",
+    "street": "Partido de los Frontones, s/n",
+    "extended": "",
+    "locality": "29400 Ronda",
+    "tel": " +34 952 165 608"
+  },
+  {
+    "id": "dc28873",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28873",
+    "name": "Hotel La Garriga de Castelladral",
+    "street": "Ctra de Suria a Castelladral, Km 5.",
+    "extended": "",
+    "locality": "08671 Castelladral",
+    "tel": " +34 938 682 250"
+  },
+  {
+    "id": "dc24969",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24969",
+    "name": "Hotel La Laguna Spa & Golf",
+    "street": "Avenida Antonio Quesada",
+    "extended": "",
+    "locality": "3170 Ciudad Quesada",
+    "tel": " +34 965 725 577"
+  },
+  {
+    "id": "dc41400",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41400",
+    "name": "Hotel La Manga Club Principe Felipe",
+    "street": "Carretera de Atamaría, s/n",
+    "extended": "",
+    "locality": "30389 Los Belones",
+    "tel": " +34 968 17 50 00"
+  },
+  {
+    "id": "dc10757",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10757",
+    "name": "Hotel Las Arenas Balneario Resort",
+    "street": "22 Carrer d'Eugénia Viñes",
+    "extended": "",
+    "locality": "46011 Valencia",
+    "tel": " +34 963 120 600"
+  },
+  {
+    "id": "dc23502",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23502",
+    "name": "Hotel Los Monteros SPA & Golf Resort",
+    "street": "Carretera de Cadiz, Km 187",
+    "extended": "",
+    "locality": "29603 Marbella",
+    "tel": " +34 952 86 11 99"
+  },
+  {
+    "id": "dc21102",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21102",
+    "name": "Hotel Los Nogales",
+    "street": "30 Calle Nugueret",
+    "extended": "",
+    "locality": "22450 Campo",
+    "tel": " +34 974 550 036"
+  },
+  {
+    "id": "dc13934",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13934",
+    "name": "Hotel Maria Cristina a Luxury Collection",
+    "street": "4 Republica Argentina",
+    "extended": "",
+    "locality": "20004 San Sebastian",
+    "tel": " +34 943 437 600"
+  },
+  {
+    "id": "dc14502",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14502",
+    "name": "Hotel Marques de Riscal, a Luxury Collection Hotel",
+    "street": "Calle Torrea, 1",
+    "extended": "",
+    "locality": "01340 Elciego",
+    "tel": " +34 945 180 880"
+  },
+  {
+    "id": "dc24962",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24962",
+    "name": "Hotel Mas Mariassa",
+    "street": "Carretera Santa Marina T-311, Km 30",
+    "extended": "",
+    "locality": "43320 Pratdip",
+    "tel": " +34 977262601"
+  },
+  {
+    "id": "dc28451",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28451",
+    "name": "Hotel Masia Urbisol & Spa",
+    "street": "N-141c, Km 20",
+    "extended": "",
+    "locality": "08275 Calders",
+    "tel": " +34 93 830 91 53 "
+  },
+  {
+    "id": "dc10775",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10775",
+    "name": "Hotel MiM Sitges",
+    "street": "Avenida Sofia, 12",
+    "extended": "",
+    "locality": "08870 Sitges",
+    "tel": " +34 938 113 500"
+  },
+  {
+    "id": "dc26499",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26499",
+    "name": "Hotel Mirador",
+    "street": "Plaza de Sant Pere, 4",
+    "extended": "",
+    "locality": "25726 Lles de Cerdanya",
+    "tel": " +34 973 515 075"
+  },
+  {
+    "id": "dc12230",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12230",
+    "name": "Hotel Miramar Barcelona ",
+    "street": "Plaza Carlos Ibanez, 3,",
+    "extended": "",
+    "locality": "08038 Barcelona",
+    "tel": " +34 932 811 600"
+  },
+  {
+    "id": "dc14526",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14526",
+    "name": "Hotel Monument Mas Passamaner - Spa & Restaurant",
+    "street": "52 Cami de la Serra",
+    "extended": "",
+    "locality": "43470 La Selva del Camp",
+    "tel": " +34 977 766 333"
+  },
+  {
+    "id": "dc33291",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33291",
+    "name": "Hotel Monumento Pazo de Orbán",
+    "street": "Rua do Miño, 6",
+    "extended": "",
+    "locality": "27001 Lugo",
+    "tel": " +34 982 240 217"
+  },
+  {
+    "id": "dc18048",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18048",
+    "name": "Hotel Muga de Beloso-Alma Pamplona",
+    "street": "11 Beloso Bajo",
+    "extended": "",
+    "locality": "31006 Pamplona",
+    "tel": " +34 948 293 380"
+  },
+  {
+    "id": "dc28446",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28446",
+    "name": "Hotel Nabia ",
+    "street": "Carretera Santuario de Chilla, Km. 6 apartado correos n 154",
+    "extended": "",
+    "locality": "05480 Candeleda",
+    "tel": " +34 920 38 23 07"
+  },
+  {
+    "id": "dc25306",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25306",
+    "name": "Hotel O Camiño",
+    "street": "Ctra. N-120, Km 455, 32300 O Barco de Valdeorras, Spain",
+    "extended": "",
+    "locality": "32300 O Barco de Valdeorras",
+    "tel": " +34 988 32 26 86"
+  },
+  {
+    "id": "dc28775",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28775",
+    "name": "Hotel Palacio San Facundo",
+    "street": "Plaza San Facundo, 4",
+    "extended": "",
+    "locality": "40001 Segovia",
+    "tel": " +34 921 463 061"
+  },
+  {
+    "id": "dc10784",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10784",
+    "name": "Hotel Palafox",
+    "street": "s/n Calle Marques Casa Jimenez",
+    "extended": "",
+    "locality": "50004 Zaragoza",
+    "tel": " +34 976 23 77 00"
+  },
+  {
+    "id": "dc12731",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12731",
+    "name": "Hotel Pez Espada",
+    "street": "Avda Salvador Allende, 11",
+    "extended": "",
+    "locality": "29620 Torremolinos",
+    "tel": " +34 952 380 300"
+  },
+  {
+    "id": "dc17202",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17202",
+    "name": "Hotel Playa Sol",
+    "street": "Platja Es Pianc, 3",
+    "extended": "",
+    "locality": "17488 Cadaqués",
+    "tel": " +34 972 258 100"
+  },
+  {
+    "id": "dc39017",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39017",
+    "name": "Hotel Puerta de Bilbao",
+    "street": "Rio Castaños, 2 - Avenida de la Ribera",
+    "extended": "",
+    "locality": "48903 Barakaldo",
+    "tel": " +34 94 418 47 00"
+  },
+  {
+    "id": "dc13190",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13190",
+    "name": "Hotel Rector",
+    "street": "10 Paseo del Rector Esperabe",
+    "extended": "",
+    "locality": "37008 Salamanca",
+    "tel": " +34 923 218 482"
+  },
+  {
+    "id": "dc33278",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33278",
+    "name": "Hotel Reimar Rooms and Residences",
+    "street": "Passeig Torre Valentina, 2",
+    "extended": "",
+    "locality": "17252 Sant Antoni de Calonge",
+    "tel": " +34 972 652 211"
+  },
+  {
+    "id": "dc10783",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10783",
+    "name": "Hotel Reina Petronila",
+    "street": "2 Avenida Alcalde Sainz de Varanda",
+    "extended": "",
+    "locality": "50009 Zaragoza",
+    "tel": " +34 876 541 136"
+  },
+  {
+    "id": "dc25298",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25298",
+    "name": "Hotel Restaurant Can Boix De Peramola",
+    "street": "Can Boix, s/n",
+    "extended": "",
+    "locality": "25790 Peramola",
+    "tel": " +34 973 47 02 66"
+  },
+  {
+    "id": "dc19594",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19594",
+    "name": "Hotel Restaurante Atalaia",
+    "street": "69 Ventas Auzoa",
+    "extended": "",
+    "locality": "20305 Irun",
+    "tel": " +34 943 629 433"
+  },
+  {
+    "id": "dc48557",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48557",
+    "name": "Hotel Restaurante La Carreta",
+    "street": "A-3, Km. 334",
+    "extended": "",
+    "locality": "46370 Chiva",
+    "tel": " +34 961 805 400"
+  },
+  {
+    "id": "dc12732",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12732",
+    "name": "Hotel Riviera",
+    "street": "Avda. Antonio Machado, 49",
+    "extended": "",
+    "locality": "29630 Benalmadena Costa",
+    "tel": " +34 952 441 240"
+  },
+  {
+    "id": "dc21392",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21392",
+    "name": "Hotel Sant Cugat",
+    "street": "2 Calle Cesar Martinell",
+    "extended": "",
+    "locality": "100 Sant Cugat del Valles",
+    "tel": " +34 935 442 670"
+  },
+  {
+    "id": "dc14523",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14523",
+    "name": "Hotel Santa Marta",
+    "street": "Playa de Santa Cristina",
+    "extended": "",
+    "locality": "17310 Lloret de Mar",
+    "tel": " +34 972 364 904"
+  },
+  {
+    "id": "dc12421",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12421",
+    "name": "Hotel Santos Nelva",
+    "street": "5 Avenida Primero de Mayo",
+    "extended": "",
+    "locality": "30006 Murcia",
+    "tel": " +34 968 060 200"
+  },
+  {
+    "id": "dc38224",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38224",
+    "name": "Hotel Senator Barajas",
+    "street": "Calle Galeon, 27",
+    "extended": "",
+    "locality": "28042 Madrid",
+    "tel": " +34 902 533 532"
+  },
+  {
+    "id": "dc38222",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38222",
+    "name": "Hotel Senator Mar Menor Golf & Spa Resort",
+    "street": "Avda Principe Felipe, 44",
+    "extended": "",
+    "locality": "30710 Las Lomas del Rame",
+    "tel": " +34 968 583 060"
+  },
+  {
+    "id": "dc23736",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23736",
+    "name": "Hotel Silken Al-Andalus Palace",
+    "street": "Avenida de la Palmera, s/n",
+    "extended": "",
+    "locality": "41012 Sevilla",
+    "tel": " +34 954 230 600"
+  },
+  {
+    "id": "dc22618",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22618",
+    "name": "Hotel Silken Amara Plaza",
+    "street": "7 Plaza Pio XII",
+    "extended": "",
+    "locality": "20010 San Sebastian",
+    "tel": " +34 943 464 600"
+  },
+  {
+    "id": "dc37593",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37593",
+    "name": "Hotel Silken Puerta Madrid",
+    "street": "Calle de Juan Rizi, 5",
+    "extended": "",
+    "locality": "28027 Madrid",
+    "tel": " +34 917 438 300"
+  },
+  {
+    "id": "dc15792",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15792",
+    "name": "Hotel Spa Acevi Val d'Aran",
+    "street": "20 Batlle Calbeto i Barra",
+    "extended": "",
+    "locality": "25530 Viella",
+    "tel": " +34 973 64 32 33"
+  },
+  {
+    "id": "dc28528",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28528",
+    "name": "Hotel Spa La Casa del Rector",
+    "street": "C/ Pedro Oviedo, 8",
+    "extended": "",
+    "locality": "13270 Almagro",
+    "tel": " +34 926 261 259"
+  },
+  {
+    "id": "dc38221",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38221",
+    "name": "Hotel Spa Playaballena",
+    "street": "Avd Juan carlos I, s/n",
+    "extended": "",
+    "locality": "11520 Rota",
+    "tel": " +34 956 849 044"
+  },
+  {
+    "id": "dc21961",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21961",
+    "name": "Hotel Spa Relais & Chateaux A Quinta da Auga",
+    "street": "23b Paseo de Amaia",
+    "extended": "",
+    "locality": "15706 Santiago de Compostela",
+    "tel": " +34 981 534 636"
+  },
+  {
+    "id": "dc23670",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23670",
+    "name": "Hotel Spa Terraza",
+    "street": "Avgda. de Rhode, 32",
+    "extended": "",
+    "locality": "17480 Roses",
+    "tel": " +34 972 256 154"
+  },
+  {
+    "id": "dc25849",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25849",
+    "name": "Hotel Termes Montbrio",
+    "street": "Ctra T-310 km10.5, 38",
+    "extended": "",
+    "locality": "43340 Montbrio del Camp",
+    "tel": " +34 977 814 000"
+  },
+  {
+    "id": "dc37765",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37765",
+    "name": "Hotel Tuca - RV Hotel Turistics",
+    "street": "Carretera de Baqueira, 25",
+    "extended": "",
+    "locality": "25539 Vielha",
+    "tel": " +34 973 64 07 00"
+  },
+  {
+    "id": "dc35848",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35848",
+    "name": "Hotel VP Plaza España Design",
+    "street": "Plaza España, 5",
+    "extended": "",
+    "locality": "28000 Madrid",
+    "tel": " +34 91 595 55 10"
+  },
+  {
+    "id": "dc20601",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20601",
+    "name": "Hotel Villa Soro",
+    "street": "61 Avenida Ategorrieta",
+    "extended": "",
+    "locality": "20013 Donostia",
+    "tel": " +34 943 297 970"
+  },
+  {
+    "id": "dc22608",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22608",
+    "name": "Hotel Vincci Ciudad de Salamanca",
+    "street": "16-20 Av. de Lasalle",
+    "extended": "",
+    "locality": "37008 Salamanca",
+    "tel": " +34 923 190 616"
+  },
+  {
+    "id": "dc18475",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18475",
+    "name": "Hotel Vincci Envia Golf ",
+    "street": "Avenida de la Envia, s/n",
+    "extended": "",
+    "locality": "04727 Valle de la Envía",
+    "tel": " +34 950 181 100"
+  },
+  {
+    "id": "dc19440",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19440",
+    "name": "Hotel Vincci Frontaura",
+    "street": "332 Paseo de Zorilla",
+    "extended": "",
+    "locality": "47008 Valladolid",
+    "tel": " +34 983 24 75 40"
+  },
+  {
+    "id": "dc22609",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22609",
+    "name": "Hotel Vincci Maritimo",
+    "street": "Carrer de Llull, 340",
+    "extended": "",
+    "locality": "08019 Barcelona",
+    "tel": " +34 933 562 600"
+  },
+  {
+    "id": "dc9548",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9548",
+    "name": "Hotel Vincci Selección Posada del Patio",
+    "street": "7 Pasillo de Sta. Isabel",
+    "extended": "",
+    "locality": "29005 Malaga",
+    "tel": " +34 951 001 020"
+  },
+  {
+    "id": "dc22617",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22617",
+    "name": "Hotel Vincci Soho",
+    "street": "Calle del Prado, 18",
+    "extended": "",
+    "locality": "28014 Madrid",
+    "tel": " +34 911 414 100"
+  },
+  {
+    "id": "dc14522",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14522",
+    "name": "Hotel Vistabella",
+    "street": "26 Avenida Diaz Pacheco",
+    "extended": "",
+    "locality": "17480 Roses",
+    "tel": " +34 972 256 200"
+  },
+  {
+    "id": "dc18000",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18000",
+    "name": "Hotel Viura",
+    "street": "Calle Mayor, s/n",
+    "extended": "",
+    "locality": "01307 Villabuena de Álava",
+    "tel": " +34 945 609 000"
+  },
+  {
+    "id": "dc10764",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10764",
+    "name": "Hotel Wellington Madrid",
+    "street": "8 Calle Velazquez",
+    "extended": "",
+    "locality": "28001 Madrid",
+    "tel": " +34 915 754 400"
+  },
+  {
+    "id": "dc28609",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28609",
+    "name": "Hotel World Resort",
+    "street": "Carretera Nacional N-340, p.k. 215.6",
+    "extended": "",
+    "locality": "29630 Benalmádena Costa",
+    "tel": " +34 902 75 04 01"
+  },
+  {
+    "id": "dc40433",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40433",
+    "name": "Hotel YOY Villa de Sallent",
+    "street": "Av. de los Pirineos, s/n",
+    "extended": "",
+    "locality": "22640 Formigal",
+    "tel": " +34 974 49 02 23"
+  },
+  {
+    "id": "dc24848",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24848",
+    "name": "Hotel-Restaurante Arcos de Quejana",
+    "street": "Ctra. Beotegui, S/N",
+    "extended": "",
+    "locality": "01477 Quejana",
+    "tel": " +34 945 399 320"
+  },
+  {
+    "id": "dc24406",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24406",
+    "name": "Ibis Barcelona Cornellá",
+    "street": "Carrer Albert Einstein, 53",
+    "extended": "",
+    "locality": "08940 Cornella de Llobregat",
+    "tel": " +34 934 751 777"
+  },
+  {
+    "id": "dc25558",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25558",
+    "name": "Ibis Budget Madrid Alcorcon Móstoles",
+    "street": "Travesía de Móstoles, 3",
+    "extended": "",
+    "locality": "28922 Alcorcon",
+    "tel": " +34 916 144 126"
+  },
+  {
+    "id": "dc25969",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25969",
+    "name": "Ibis Madrid Arganda",
+    "street": "Av de Madrid, 105",
+    "extended": "",
+    "locality": "28500 Arganda del Rey",
+    "tel": " +34 918 729 140"
+  },
+  {
+    "id": "dc40798",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40798",
+    "name": "Imaginalia Centro de Ocio y Comercio",
+    "street": "Av. de la Ilustración, 51",
+    "extended": "",
+    "locality": "2006 Albacete",
+    "tel": " +34 967 61 61 81"
+  },
+  {
+    "id": "dc9619",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9619",
+    "name": "Jumeirah Port Soller Hotel & Spa",
+    "street": "Calle Belgica s/n",
+    "extended": "",
+    "locality": "07108 Port de Soller",
+    "tel": " +34 971 637 888"
+  },
+  {
+    "id": "dc14192",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14192",
+    "name": "La Costa Beach & Golf Resort",
+    "street": "Avenida Arenales de Mar",
+    "extended": "",
+    "locality": "17256 Platja de Pals",
+    "tel": " +34 972 66 77 40"
+  },
+  {
+    "id": "dc26501",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26501",
+    "name": "La Regalina",
+    "street": "Carretera de la Playa, sn",
+    "extended": "",
+    "locality": "33788 Cadavedo",
+    "tel": " +34 985 645 056"
+  },
+  {
+    "id": "dc14512",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14512",
+    "name": "La Torre del Visco",
+    "street": "Partida Torre del Visco s/n",
+    "extended": "",
+    "locality": "44587 Fuentespalda",
+    "tel": " +34 978 769 015"
+  },
+  {
+    "id": "dc24015",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24015",
+    "name": "Las Colinas Golf & Country Club",
+    "street": "Av. de las Colinas, 2",
+    "extended": "",
+    "locality": "03189 San Miguel de Salinas",
+    "tel": " +34 965 32 40 04"
+  },
+  {
+    "id": "dc14528",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14528",
+    "name": "Le Meridien Barcelona",
+    "street": "Carrer Pintor Fortuny, 6-8",
+    "extended": "",
+    "locality": "08001 Barcelona",
+    "tel": " +34 93 318 62 00 "
+  },
+  {
+    "id": "dc28102",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28102",
+    "name": "Lobito de Mar",
+    "street": "Av. Bulevar Príncipe Alfonso de Hohenlohe, 178",
+    "extended": "",
+    "locality": "29602 Marbella",
+    "tel": " +34 951 554 554"
+  },
+  {
+    "id": "dc16987",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16987",
+    "name": "Los Naranjos Campo de Golf",
+    "street": "Plaza Cibeles, s/n, , 29660 Marbella, Spain",
+    "extended": "",
+    "locality": "29660 Marbella",
+    "tel": " +34 952 81 24 28"
+  },
+  {
+    "id": "dc9670",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9670",
+    "name": "Majestic Hotel & Spa Barcelona GL",
+    "street": "Passeig de Gracia, 68",
+    "extended": "",
+    "locality": "08007 Barcelona",
+    "tel": " +34 934 881 717"
+  },
+  {
+    "id": "dc36418",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36418",
+    "name": "Marjal Costa Blanca Camping & Resort",
+    "street": "AP-7, Salida 730",
+    "extended": "",
+    "locality": "03330 Crevillent",
+    "tel": " +34 965 48 49 45"
+  },
+  {
+    "id": "dc24013",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24013",
+    "name": "Marjal Guardamar Camping & Resort",
+    "street": "N-332, Km. 73.4",
+    "extended": "",
+    "locality": "03140 Calle Alicante, Km. 73,4",
+    "tel": " +34 965 48 49 45"
+  },
+  {
+    "id": "dc39096",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39096",
+    "name": "Mas Falgarona Hotel & Spa",
+    "street": "Cami de Llers, s/n",
+    "extended": "",
+    "locality": "17742 Avinyonet de Puigventós",
+    "tel": " +34 972 546 628"
+  },
+  {
+    "id": "dc14558",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14558",
+    "name": "Mas Salagros, Ecoresort & Ancient Baths",
+    "street": "Riera de Vallromanes",
+    "extended": "",
+    "locality": "08188 Vallromanes",
+    "tel": " +34 935 656 060"
+  },
+  {
+    "id": "dc14557",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14557",
+    "name": "Mas de Torrent Hotel & Spa",
+    "street": "Afueras de Torrent",
+    "extended": "",
+    "locality": "17123 Torrent",
+    "tel": " +34 972 303 292"
+  },
+  {
+    "id": "dc28449",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28449",
+    "name": "Masqi, The Energy House",
+    "street": "Camino La Mallaeta, s/n",
+    "extended": "",
+    "locality": "03450 Banyeres de Mariola",
+    "tel": " +34 699 09 44 40"
+  },
+  {
+    "id": "dc41326",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41326",
+    "name": "Metropolitan Iradier",
+    "street": "Carrer de les Escoles, 105",
+    "extended": "",
+    "locality": "08017 Barcelona",
+    "tel": " +34 932 54 17 17"
+  },
+  {
+    "id": "dc18476",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18476",
+    "name": "Museo Automovilistico de Malaga y Coleccion del Muse",
+    "street": "15 Av de Sor Teresa Prat",
+    "extended": "",
+    "locality": "29003 Malaga",
+    "tel": " +34 951 137 001"
+  },
+  {
+    "id": "dc40141",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40141",
+    "name": "MónNatura Pirineus",
+    "street": "Calle Unic, S/N",
+    "extended": "",
+    "locality": "25589 Son",
+    "tel": " +34 973 62 67 22"
+  },
+  {
+    "id": "dc21548",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21548",
+    "name": "Occidental Bilbao",
+    "street": "40 Avenida Zumalacarregui",
+    "extended": "",
+    "locality": "48006 Bilbao",
+    "tel": " +34 944 124 300"
+  },
+  {
+    "id": "dc15517",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15517",
+    "name": "Palacio Infante Don Juan Manuel Hotel Spa",
+    "street": "Calle Infante Don Juan Manuel, 2",
+    "extended": "",
+    "locality": "16640 Belmonte",
+    "tel": " +34 967 170 784"
+  },
+  {
+    "id": "dc28445",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28445",
+    "name": "Palacio Torre de Ruesga",
+    "street": "Barrio La Barcena, s/n",
+    "extended": "",
+    "locality": "39815 Valle Ruesga",
+    "tel": " +34 94 26 41 060"
+  },
+  {
+    "id": "dc14507",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14507",
+    "name": "Palacio de Canedo",
+    "street": "s/n Calle la Iglesia",
+    "extended": "",
+    "locality": "24546 Canedo",
+    "tel": " +34 987 563 366"
+  },
+  {
+    "id": "dc14585",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14585",
+    "name": "Palacio de los Patos SL",
+    "street": "1 Solarillo de Gracia",
+    "extended": "",
+    "locality": "18002 Granada",
+    "tel": " +34 958 535 790"
+  },
+  {
+    "id": "dc22782",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22782",
+    "name": "Parador El Saler",
+    "street": "Avenida de los Pinares, 151",
+    "extended": "",
+    "locality": "46012 El Saler",
+    "tel": " +34 961 611 186"
+  },
+  {
+    "id": "dc22785",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22785",
+    "name": "Parador Hostal dos Reis Catolicos",
+    "street": "Praza do Obradoiro, 1",
+    "extended": "",
+    "locality": "15704 Santiago de Compostela",
+    "tel": " +34 981 582 200"
+  },
+  {
+    "id": "dc22777",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22777",
+    "name": "Parador Lerma",
+    "street": "Plaza Mayor N1",
+    "extended": "",
+    "locality": "09340 Lerma",
+    "tel": " +34 947 177 110"
+  },
+  {
+    "id": "dc22780",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22780",
+    "name": "Parador de Alcala de Henares",
+    "street": "Calle Colegios, 8",
+    "extended": "",
+    "locality": "28801 Alcala de Henares",
+    "tel": " + 34 918 880 330"
+  },
+  {
+    "id": "dc22778",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22778",
+    "name": "Parador de Argomaniz",
+    "street": "Carretera nacional 1 Km 364",
+    "extended": "",
+    "locality": "01192 Argomaniz",
+    "tel": " +34 945 293 200"
+  },
+  {
+    "id": "dc30064",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30064",
+    "name": "Parador de Benicarlo",
+    "street": "Avinguda del Papa Luna, 5",
+    "extended": "",
+    "locality": "12580 Benicarlo",
+    "tel": " +34 964 470 100"
+  },
+  {
+    "id": "dc22784",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22784",
+    "name": "Parador de Cadiz - \"Hotel Atlantico\"",
+    "street": "9 Avenida Duque de Najera",
+    "extended": "",
+    "locality": "11002 Cadiz",
+    "tel": " +34 956 226 905"
+  },
+  {
+    "id": "dc30065",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30065",
+    "name": "Parador de Cangas de Onis",
+    "street": "Monasterio de San Pedro de Villanueva, s/n",
+    "extended": "",
+    "locality": "33550 Cangas de Onis",
+    "tel": " +34 985 849 402"
+  },
+  {
+    "id": "dc30068",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30068",
+    "name": "Parador de Cardona",
+    "street": "Castell de Cardona, s/n",
+    "extended": "",
+    "locality": "08261 Cardona",
+    "tel": " +34 938 691 275"
+  },
+  {
+    "id": "dc22783",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22783",
+    "name": "Parador de Cordoba",
+    "street": "37 Avenida de la Arruzafa",
+    "extended": "",
+    "locality": "14012 Cordoba",
+    "tel": " +34 957 275 900"
+  },
+  {
+    "id": "dc30072",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30072",
+    "name": "Parador de Corias",
+    "street": "Monasterio de San Juan Bautista de Corias, s/n",
+    "extended": "",
+    "locality": "33816 Cangas del Narcea",
+    "tel": " +34 985 070 000"
+  },
+  {
+    "id": "dc22781",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22781",
+    "name": "Parador de Jaen",
+    "street": "Castillo de Santa Catalina",
+    "extended": "",
+    "locality": "23002 Jaen",
+    "tel": " +34 953 230 000"
+  },
+  {
+    "id": "dc30073",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30073",
+    "name": "Parador de Limpias",
+    "street": "Calle Fuente del Amor, s/n",
+    "extended": "",
+    "locality": "39820 Limpias",
+    "tel": " +34 942 628 900"
+  },
+  {
+    "id": "dc30074",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30074",
+    "name": "Parador de Lorca",
+    "street": "Calle del Castillo, s/n",
+    "extended": "",
+    "locality": "30800 Lorca",
+    "tel": " +34 968 406 047"
+  },
+  {
+    "id": "dc30076",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30076",
+    "name": "Parador de Nerja",
+    "street": "Calle Almunecar, 8",
+    "extended": "",
+    "locality": "29780 Nerja",
+    "tel": " +34 952 520 050"
+  },
+  {
+    "id": "dc22776",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22776",
+    "name": "Parador de Plasencia",
+    "street": "s/n Plaza San Vicente Ferrer",
+    "extended": "",
+    "locality": "10600 Plasencia",
+    "tel": " +34 927 425 870"
+  },
+  {
+    "id": "dc22779",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22779",
+    "name": "Parador de Turismo de Salamanca",
+    "street": "2 Calle Teso de la Feria",
+    "extended": "",
+    "locality": "37008 Salamanca",
+    "tel": " +34 923 192 082"
+  },
+  {
+    "id": "dc30077",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30077",
+    "name": "Parador de Vilalba",
+    "street": "Calle Valeriano Valdesuso, s/n",
+    "extended": "",
+    "locality": "27800 Vilalba",
+    "tel": " +34 982 510 011"
+  },
+  {
+    "id": "dc28241",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28241",
+    "name": "Parking Los Sitios",
+    "street": "Calle Moret, s/n",
+    "extended": "",
+    "locality": "50001 Zaragoza",
+    "tel": " +34 876 643 658"
+  },
+  {
+    "id": "dc14956",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14956",
+    "name": "Parking&Apartosuites Jardines de Sabatini",
+    "street": "Cuesta de San Vicente, 14-16",
+    "extended": "",
+    "locality": "28008 Madrid",
+    "tel": " +34 915 425 900"
+  },
+  {
+    "id": "dc22616",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22616",
+    "name": "Parquesur",
+    "street": "Avda Gran Bretana, s/n",
+    "extended": "",
+    "locality": "28916 Leganes",
+    "tel": " +34 916 873 600"
+  },
+  {
+    "id": "dc26511",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26511",
+    "name": "Pazo da Merced",
+    "street": "Pazo da Merced, S/N",
+    "extended": "",
+    "locality": "15510 Neda",
+    "tel": " +34 981 382 200"
+  },
+  {
+    "id": "dc10748",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10748",
+    "name": "Puente Romano Marbella",
+    "street": "Bulevar Principe Alfonso von Hohenlohe, sn",
+    "extended": "",
+    "locality": "29602 Marbella",
+    "tel": " +34 952 768 234"
+  },
+  {
+    "id": "dc26204",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26204",
+    "name": "Rafael Hoteles Atocha",
+    "street": "Calle Mendez Alvaro, 30",
+    "extended": "",
+    "locality": "28045 Madrid",
+    "tel": " +34 914 688 100"
+  },
+  {
+    "id": "dc28177",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28177",
+    "name": "Rafaelhoteles Madrid Norte",
+    "street": "Avenida de Barajas, 22",
+    "extended": "",
+    "locality": "28108 Alcobendas",
+    "tel": " +34 911 842 500"
+  },
+  {
+    "id": "dc14210",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14210",
+    "name": "Rafaelhoteles by La Pleta",
+    "street": "Ctra. Baqueira a Beret, s/n",
+    "extended": "",
+    "locality": "25598 Baqueira",
+    "tel": " +34 973 64 55 50"
+  },
+  {
+    "id": "dc25542",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25542",
+    "name": "Ramon Park Hotel y Restaurante",
+    "street": "Cami de Juncadella, s/n",
+    "extended": "",
+    "locality": "08251 Santpedor",
+    "tel": " +34 938 320 850"
+  },
+  {
+    "id": "dc28383",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28383",
+    "name": "Real Sociedad Hipica Española Club de Campo",
+    "street": "Carr. de Burgos, Km 26.400",
+    "extended": "",
+    "locality": "28709 San Sebastián de los Reyes",
+    "tel": " +34 916 571 018"
+  },
+  {
+    "id": "dc22963",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22963",
+    "name": "Rectoral de Ansemil",
+    "street": "sn Lamas de ansemil",
+    "extended": "",
+    "locality": "32817 Celanova",
+    "tel": " +34 6877 75726"
+  },
+  {
+    "id": "dc14747",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14747",
+    "name": "Relais & Chateaux Molino de Alcuneza",
+    "street": "GU 128 km 0.5,",
+    "extended": "",
+    "locality": "19264 Alcuneza",
+    "tel": " +34 949 391 501"
+  },
+  {
+    "id": "dc14505",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14505",
+    "name": "Restaurant Hotel ABaC",
+    "street": "Av Tibidabo, 1",
+    "extended": "",
+    "locality": "08022 Barcelona",
+    "tel": " +34 933 19 66 00"
+  },
+  {
+    "id": "dc25300",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25300",
+    "name": "Restaurante Baratze - Camping Urrobi",
+    "street": "Ctra. Pamplona - Valcarlos, Km. 42",
+    "extended": "",
+    "locality": "31694 Aurizberri",
+    "tel": " +34 948 760 200"
+  },
+  {
+    "id": "dc26985",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26985",
+    "name": "Restaurante Via de la Plata",
+    "street": "Poligono Industrial el Prado, Calle las Palmas, 7",
+    "extended": "",
+    "locality": "06800 Merida, Badajoz",
+    "tel": " +34 6911 48 953"
+  },
+  {
+    "id": "dc22804",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22804",
+    "name": "Rigat Park & Spa Hotel",
+    "street": "1 Avinguda America",
+    "extended": "",
+    "locality": "17310 Lloret de Mar",
+    "tel": " +34 972 365 200"
+  },
+  {
+    "id": "dc23934",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23934",
+    "name": "Ruralsuite Hotel Apartamentos",
+    "street": "km 7.7 Carretera N121C Tudela - Tarazona",
+    "extended": "",
+    "locality": "31520 Cascante",
+    "tel": " +34 948 850 448"
+  },
+  {
+    "id": "dc41952",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41952",
+    "name": "SH Valencia Palace",
+    "street": "Passeig de l'Albereda",
+    "extended": "",
+    "locality": "46023 Valencia",
+    "tel": " +34 963 37 50 37"
+  },
+  {
+    "id": "dc39507",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39507",
+    "name": "SH Villa Gadea",
+    "street": "Partida Villa Gadea, s/n",
+    "extended": "",
+    "locality": "03599 Altea",
+    "tel": " +34 966 81 71 00"
+  },
+  {
+    "id": "dc17740",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17740",
+    "name": "Salles Hotel & Spa Cala del Pi",
+    "street": "160 Av. del Cavall Bernat",
+    "extended": "",
+    "locality": "17250 Platja d'Aro",
+    "tel": " +34 972 82 84 29"
+  },
+  {
+    "id": "dc17741",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17741",
+    "name": "Salles Hotel Mas Tapiolas",
+    "street": "Carretera C-65 km. 7",
+    "extended": "",
+    "locality": "17246 Santa Cristina d'Aro",
+    "tel": " +34 972 837 017"
+  },
+  {
+    "id": "dc24137",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24137",
+    "name": "Sant Carles Marina",
+    "street": "sn Ctra Poble Nou",
+    "extended": "",
+    "locality": "43540 Sant Carles de la Rapita",
+    "tel": " +34 977 745 153"
+  },
+  {
+    "id": "dc38227",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38227",
+    "name": "Senator Banús Spa Hotel",
+    "street": "Crta nacional 340, Km 168",
+    "extended": "",
+    "locality": "29680 Estepona",
+    "tel": " +34 902 533 532"
+  },
+  {
+    "id": "dc38225",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38225",
+    "name": "Senator Barcelona Spa Hotel",
+    "street": "Carrer del Cardenal Reig, 11",
+    "extended": "",
+    "locality": "08028 Barcelona",
+    "tel": " +34 932 60 99 00 "
+  },
+  {
+    "id": "dc38219",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38219",
+    "name": "Senator Cadiz Spa Hotel",
+    "street": "Calle Rubio y Diaz",
+    "extended": "",
+    "locality": "11004 Cadiz",
+    "tel": " +34 956 200 202"
+  },
+  {
+    "id": "dc38220",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38220",
+    "name": "Senator Granada Spa Hotel",
+    "street": "Paseo Violon, s/n",
+    "extended": "",
+    "locality": "18006 Granada",
+    "tel": " +34 958 131 000"
+  },
+  {
+    "id": "dc38223",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38223",
+    "name": "Senator Hotel Parque Central",
+    "street": "Plaza de Manuel Sanchis Guarner, 1",
+    "extended": "",
+    "locality": "46006 Valencia",
+    "tel": " +34 96 395 80 80"
+  },
+  {
+    "id": "dc38228",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38228",
+    "name": "Senator Marbella Spa Hotel",
+    "street": "Av. Bulevar Príncipe Alfonso de Hohenloh, 97",
+    "extended": "",
+    "locality": "29600 Marbella",
+    "tel": " +34 952 764 080"
+  },
+  {
+    "id": "dc39006",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39006",
+    "name": "Sofraga Palacio Restaurante",
+    "street": "Calle Lopez Nuñez, 1",
+    "extended": "",
+    "locality": "05001 Avila",
+    "tel": " +34 920 254 080"
+  },
+  {
+    "id": "dc16024",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16024",
+    "name": "Sono Apartamentos",
+    "street": "Avenida Els Tremolencs, 34",
+    "extended": "",
+    "locality": "08530 La Garriga",
+    "tel": " +34 931 640 660"
+  },
+  {
+    "id": "dc41318",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41318",
+    "name": "Swiss Hotel Moraira",
+    "street": "Calle Haya, 175",
+    "extended": "",
+    "locality": "3724 Moraira",
+    "tel": " +34 965 747 104"
+  },
+  {
+    "id": "dc22757",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22757",
+    "name": "Termas De Cuntis",
+    "street": "Rua Do Balneario, 1",
+    "extended": "",
+    "locality": "36670 Cuntis",
+    "tel": " +34 986 532 525"
+  },
+  {
+    "id": "dc13721",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13721",
+    "name": "Terra Remota",
+    "street": "CR. Capmany, Els Tallats Km 6",
+    "extended": "",
+    "locality": "17751 Sant Climent Sescebes",
+    "tel": " +34 972 193 727"
+  },
+  {
+    "id": "dc14142",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14142",
+    "name": "Torre del Remei",
+    "street": "2 Cami del Remei",
+    "extended": "",
+    "locality": "17539 Bolvir",
+    "tel": " +34 972 140 182"
+  },
+  {
+    "id": "dc16540",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16540",
+    "name": "Urso Hotel & Spa",
+    "street": "Calle Mejia Lequerica 8",
+    "extended": "",
+    "locality": "28004 Madrid",
+    "tel": " +34 914 444 458"
+  },
+  {
+    "id": "dc14506",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14506",
+    "name": "Valbusenda Hotel Bodega & Spa",
+    "street": "s/n Ctra. de Toro-Peleagonzalo",
+    "extended": "",
+    "locality": "49800 Toro",
+    "tel": " +34 980 699 573"
+  },
+  {
+    "id": "dc10746",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10746",
+    "name": "Villa Padierna Palace Hotel",
+    "street": "Ctra. de Cadiz, Km 166",
+    "extended": "",
+    "locality": "29679 Marbella",
+    "tel": " +34 902 20 06 76"
+  },
+  {
+    "id": "dc21285",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21285",
+    "name": "Vincci Seleccion Estrella del Mar",
+    "street": "Urbanización Estrella del Mar, Carretera A7, km 190,5",
+    "extended": "",
+    "locality": "29604 Marbella",
+    "tel": " +34 951 05 39 70"
+  },
+  {
+    "id": "dc16979",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16979",
+    "name": "Westin La Quinta",
+    "street": "Urbanizacion la Quinta Golf",
+    "extended": "",
+    "locality": "29660 Marbella",
+    "tel": " +34 952 76 20 00"
+  },
+  {
+    "id": "dc40121",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40121",
+    "name": "Zielo Shopping Pozuelo",
+    "street": "Avenida de Europa, 26",
+    "extended": "",
+    "locality": "28224 Pozuelo de Alarcon",
+    "tel": " +34 917 093 398"
+  },
+  {
+    "id": "dc41148",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41148",
+    "name": "hotel o'semaforo finisterre",
+    "street": "Carretera del Faro, s/n",
+    "extended": "",
+    "locality": "15155 Finisterre,",
+    "tel": " +34 981 11 02 10"
+  }
+]
