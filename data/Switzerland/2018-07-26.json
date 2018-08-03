@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "dc13241",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13241",
+    "name": "7132 Hotel",
+    "street": "7132 Hotel",
+    "extended": "",
+    "locality": "7132 Vals",
+    "tel": " +41 58 7132 000"
+  },
+  {
+    "id": "dc23638",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23638",
+    "name": "ACASA Suites",
+    "street": "Binzmühlestrasse 72, 8050 Zürich-Oerlikon, Switzerland",
+    "extended": "",
+    "locality": "8050 Zürich-Oerlikon",
+    "tel": " +41 4455 27878"
+  },
+  {
+    "id": "dc33277",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33277",
+    "name": "ADHHOC HOTEL",
+    "street": "Furkastrasse 7",
+    "extended": "",
+    "locality": "3904 Naters",
+    "tel": " +41 7862 29999"
+  },
+  {
+    "id": "dc36010",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36010",
+    "name": "Airport Hotel Basel",
+    "street": "Flughafenstrasse 215",
+    "extended": "",
+    "locality": "4056 Basel",
+    "tel": " +41 6132 73030"
+  },
+  {
+    "id": "dc30717",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30717",
+    "name": "Alpen Resort Hotel Zermatt",
+    "street": "Spissstrasse 52",
+    "extended": "",
+    "locality": "3920 Zermatt",
+    "tel": " +41 2796 63000"
+  },
+  {
+    "id": "dc15125",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15125",
+    "name": "Alpenblick Weggis Hotel und Restaurant",
+    "street": "31 Luzernerstrasse",
+    "extended": "",
+    "locality": "6353 Weggis",
+    "tel": " +41 4139 90505"
+  },
+  {
+    "id": "dc37129",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37129",
+    "name": "Alpvision Résidences",
+    "street": "Route de la Télécabine 7",
+    "extended": "",
+    "locality": "1918 La Tzoumaz",
+    "tel": " +41 2756 40240"
+  },
+  {
+    "id": "dc18305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18305",
+    "name": "Aparthotel Rotkreuz",
+    "street": "1 Mattenstraße",
+    "extended": "",
+    "locality": "6343 Rotkreuz",
+    "tel": " +41 41 799 49 99"
+  },
+  {
+    "id": "dc18302",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18302",
+    "name": "Arabella Hotel Waldhuus Davos",
+    "street": "58 Mattastrasse",
+    "extended": "",
+    "locality": "7270 Davos Platz",
+    "tel": " +41 81 417 93 33"
+  },
+  {
+    "id": "dc25373",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25373",
+    "name": "Art Deco Hotel Montana",
+    "street": "22 Adligenswilerstrasse",
+    "extended": "",
+    "locality": "6006 Luzern",
+    "tel": " +41 4141 90000"
+  },
+  {
+    "id": "dc35343",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35343",
+    "name": "Art de Vivre - Hotel Restaurant & Spa",
+    "street": "Fleurs des Champs 17",
+    "extended": "",
+    "locality": "3963 Crans-Montana",
+    "tel": " +41 2748 13312"
+  },
+  {
+    "id": "dc39095",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39095",
+    "name": "Art.Boutique.Hotel Beau Séjour",
+    "street": "Rue du Village 114",
+    "extended": "",
+    "locality": "1874 Champéry",
+    "tel": " +41 2447 95858"
+  },
+  {
+    "id": "dc19142",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19142",
+    "name": "Aspen alpin lifestyle hotel",
+    "street": "1 Aspen",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 33 854 40 00"
+  },
+  {
+    "id": "dc30488",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30488",
+    "name": "Badehotel Salina Maris - Wellness & Vintage",
+    "street": "Breiten 1",
+    "extended": "",
+    "locality": "3983 Breiten ob Mörel",
+    "tel": " +41 2792 84242"
+  },
+  {
+    "id": "dc13361",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13361",
+    "name": "Badrutt's Palace Hotel",
+    "street": "27 Via Serlas",
+    "extended": "",
+    "locality": "7500 St. Moritz",
+    "tel": " +41 81 837 1000"
+  },
+  {
+    "id": "dc18294",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18294",
+    "name": "BelArosa Hotel",
+    "street": "Eichhornliweg",
+    "extended": "",
+    "locality": "7050 Arosa",
+    "tel": " +41 8137 88999"
+  },
+  {
+    "id": "dc9896",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9896",
+    "name": "Belle Epoque Hotel Victoria",
+    "street": "2 Dorfstraße",
+    "extended": "",
+    "locality": "3718 Kandersteg",
+    "tel": " +41 33 675 8000"
+  },
+  {
+    "id": "dc14784",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14784",
+    "name": "Bellevue Palace Bern",
+    "street": "Kochergasse 3-5, 3011 Bern, Switzerland",
+    "extended": "",
+    "locality": "3011 Bern",
+    "tel": " +41 3132 04545"
+  },
+  {
+    "id": "dc29754",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29754",
+    "name": "Bever Lodge",
+    "street": "Via Maistra 32",
+    "extended": "",
+    "locality": "7502 Bever",
+    "tel": " +41 8185 24004"
+  },
+  {
+    "id": "dc28511",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28511",
+    "name": "Biohof Schüpfenried",
+    "street": "Schuepfenried 36",
+    "extended": "",
+    "locality": "3043 Uettligen",
+    "tel": " +41 3182 90402"
+  },
+  {
+    "id": "dc11887",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11887",
+    "name": "Birdland Hotel Sempach",
+    "street": "1 Eichenstraße",
+    "extended": "",
+    "locality": "6203 Sempach Station",
+    "tel": " +41 41 369 81 81"
+  },
+  {
+    "id": "dc51034",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc51034",
+    "name": "Bodies Premium Fitness - Ninja Warrior",
+    "street": "Industriestr. 9a",
+    "extended": "",
+    "locality": "7000 Chur",
+    "tel": " +41 7886 54468"
+  },
+  {
+    "id": "dc22572",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22572",
+    "name": "Boutique Hotel La Cambuse",
+    "street": "11 Hotel La Cambuse",
+    "extended": "",
+    "locality": "1988 Thyon les Collons",
+    "tel": " +41 2728 11883"
+  },
+  {
+    "id": "dc24457",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24457",
+    "name": "Boutique Hotel Laret",
+    "street": "Laret Strasse 9",
+    "extended": "",
+    "locality": "7562 Samnaun",
+    "tel": " +41 8186 85129"
+  },
+  {
+    "id": "dc15856",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15856",
+    "name": "Braunwald Standseilbahn",
+    "street": "2 Stachelbergstraße",
+    "extended": "",
+    "locality": "8783 Linthal",
+    "tel": " +41 55 653 50 30"
+  },
+  {
+    "id": "dc17716",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17716",
+    "name": "Brunni-Alpthal",
+    "street": "21 Brunnistr.",
+    "extended": "",
+    "locality": "8849 Alpthal",
+    "tel": " +41 55 511 50 53"
+  },
+  {
+    "id": "dc48017",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48017",
+    "name": "Buergenstock Hotel & Alpine Spa",
+    "street": "Buergenstock 17",
+    "extended": "",
+    "locality": "6363 Obbuergen",
+    "tel": " +41 4161 26000"
+  },
+  {
+    "id": "dc15480",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15480",
+    "name": "Bürgenstock Resort",
+    "street": "Buergenstock 10",
+    "extended": "",
+    "locality": "6363 Obbuergen",
+    "tel": " +41 4161 26000"
+  },
+  {
+    "id": "dc49150",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49150",
+    "name": "Campofelice Camping Village",
+    "street": "Via alla Brere 7, 6",
+    "extended": "",
+    "locality": "6598 Tenero",
+    "tel": " +41 9174 51417"
+  },
+  {
+    "id": "dc18337",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18337",
+    "name": "Campus Hotel Hertenstein",
+    "street": "156 Hertensteinstrasse",
+    "extended": "",
+    "locality": "6353 Weggis",
+    "tel": " +41 41 399 71 71"
+  },
+  {
+    "id": "dc29637",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29637",
+    "name": "Carlton Hotel St. Moritz",
+    "street": "Via Johannes Badrutt 11",
+    "extended": "",
+    "locality": "7500 St. Moritz",
+    "tel": " +41 8183 67000"
+  },
+  {
+    "id": "dc37669",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37669",
+    "name": "Casa Toedi",
+    "street": "Via principala 78",
+    "extended": "",
+    "locality": "7166 Trun",
+    "tel": " +41 8194 31121"
+  },
+  {
+    "id": "dc14154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14154",
+    "name": "Castello del Sole",
+    "street": "142 Via Muraccio",
+    "extended": "",
+    "locality": "6612 Ascona",
+    "tel": " +41 9179 10202"
+  },
+  {
+    "id": "dc35360",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35360",
+    "name": "Cave Le Rhyton d'Or",
+    "street": "Rue de Lavetan 11",
+    "extended": "",
+    "locality": "1912 Leytron",
+    "tel": " +41 7992 37343"
+  },
+  {
+    "id": "dc17227",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17227",
+    "name": "Chalet RoyAlp Hotel & Spa",
+    "street": "23 Domaine de Rochegrise",
+    "extended": "",
+    "locality": "1884 Villars-sur-Ollon",
+    "tel": " +41 2449 59090"
+  },
+  {
+    "id": "dc43128",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43128",
+    "name": "Chalet Runca",
+    "street": "Waetterweid A 31B",
+    "extended": "",
+    "locality": "7050 Arosa",
+    "tel": " +41 7983 33608"
+  },
+  {
+    "id": "dc31512",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31512",
+    "name": "Chandolin Boutique Hotel",
+    "street": "Route des Plampras 10",
+    "extended": "",
+    "locality": "3961 Chandolin",
+    "tel": " +41 2756 44444"
+  },
+  {
+    "id": "dc25372",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25372",
+    "name": "Château de Bonmont",
+    "street": "Route de Bonmont 31",
+    "extended": "",
+    "locality": "1275 Cheserex",
+    "tel": " +41 2236 99900"
+  },
+  {
+    "id": "dc40013",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40013",
+    "name": "Cobalt Project, Real Action Sport (The Cross)",
+    "street": "Route de la Claie aux Moines 324",
+    "extended": "",
+    "locality": "1090 Lutry",
+    "tel": " +41 2171 13888"
+  },
+  {
+    "id": "dc12350",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12350",
+    "name": "Congress Hotel Seepark",
+    "street": "47 Seestraße",
+    "extended": "",
+    "locality": "3602 Thun",
+    "tel": " +41 33 226 12 12"
+  },
+  {
+    "id": "dc30129",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30129",
+    "name": "Crans Ambassador",
+    "street": "Route du Petit Signal 3, 3963 Crans-Montan",
+    "extended": "",
+    "locality": "3963 Crans-Montana",
+    "tel": " +41 2748 54848"
+  },
+  {
+    "id": "dc15927",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15927",
+    "name": "Cresta Palace Hotel",
+    "street": "75 Via Maistra",
+    "extended": "",
+    "locality": "7505 Celerina",
+    "tel": " +41 81 836 5656"
+  },
+  {
+    "id": "dc17285",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17285",
+    "name": "Delinat Basel",
+    "street": "4 Barcelona Strasse",
+    "extended": "",
+    "locality": "4142 Muenchenstein",
+    "tel": " +41 6126 37474"
+  },
+  {
+    "id": "dc16857",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16857",
+    "name": "Delinat Olten",
+    "street": "Industriestrasse 78",
+    "extended": "",
+    "locality": "4601 Olten",
+    "tel": " +41 71 227 63 00"
+  },
+  {
+    "id": "dc14833",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14833",
+    "name": "Delinat St. Gallen",
+    "street": "44 Davidstrasse",
+    "extended": "",
+    "locality": "9000 St. Gallen",
+    "tel": " +41 71 227 63 00"
+  },
+  {
+    "id": "dc22661",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22661",
+    "name": "Derby Hotel Grindelwald",
+    "street": "75 Dorfstrasse",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 338 545 461"
+  },
+  {
+    "id": "dc50152",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50152",
+    "name": "Diamond Domes - Tennis & Ice Skating",
+    "street": "Buergenstock 10",
+    "extended": "",
+    "locality": "6363 Obbuergen",
+    "tel": " +41 4161 26000"
+  },
+  {
+    "id": "dc12099",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12099",
+    "name": "Dorint Airport-Hotel Zürich",
+    "street": "40 Riethofstrasse",
+    "extended": "",
+    "locality": "8152 Opfikon",
+    "tel": " +41 44 808 10 00"
+  },
+  {
+    "id": "dc35273",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35273",
+    "name": "Eden Ilanz - Hotel und Restaurant",
+    "street": "Bahnhofstrasse 31",
+    "extended": "",
+    "locality": "7130 Ilanz",
+    "tel": " +41 8192 55151"
+  },
+  {
+    "id": "dc21175",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21175",
+    "name": "Ermitage Wellness- & Spa-Hotel",
+    "street": "Dorfstrasse 46",
+    "extended": "",
+    "locality": "3778 Gstaad-Schoenried",
+    "tel": " +41 3374 80430"
+  },
+  {
+    "id": "dc21406",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21406",
+    "name": "Fairmont Le Montreux Palace",
+    "street": "2 Avenue Claude Nobs",
+    "extended": "",
+    "locality": "1820 Montreux",
+    "tel": " +41 2196 21212"
+  },
+  {
+    "id": "dc38197",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38197",
+    "name": "Gais Center",
+    "street": "Industriestrasse 1",
+    "extended": "",
+    "locality": "5000 Aarau",
+    "tel": " +41 5881 77140"
+  },
+  {
+    "id": "dc16850",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16850",
+    "name": "Gasthaus Bären zu Rothenburg",
+    "street": "11 Flecken",
+    "extended": "",
+    "locality": "6023 Rothenburg",
+    "tel": " +41 4128 09022"
+  },
+  {
+    "id": "dc31089",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc31089",
+    "name": "Gasthaus Krone, Speicher",
+    "street": "Hauptstrasse 34",
+    "extended": "",
+    "locality": "9042 Speicher",
+    "tel": " +41 7134 36700"
+  },
+  {
+    "id": "dc18219",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18219",
+    "name": "Gasthaus zum Gupf",
+    "street": "21 Gupf",
+    "extended": "",
+    "locality": "9038 Rehetobel",
+    "tel": " +41 7187 71110"
+  },
+  {
+    "id": "dc38631",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38631",
+    "name": "Gasthof Kreuz",
+    "street": "Marktgasse 9",
+    "extended": "",
+    "locality": "3454 Sumiswald",
+    "tel": " +41 3443 11526"
+  },
+  {
+    "id": "dc16371",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16371",
+    "name": "Gasthof und Metzgerei zum Ochsen",
+    "street": "32 Dorfstrasse",
+    "extended": "",
+    "locality": "5242 Lupfig",
+    "tel": " +41 5646 46363"
+  },
+  {
+    "id": "dc18424",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18424",
+    "name": "Gheimtipp - der Essbahnhof",
+    "street": "28 Alte Bahnhofstrassse",
+    "extended": "",
+    "locality": "3297 Leuzigen",
+    "tel": " +41 325304714"
+  },
+  {
+    "id": "dc18339",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18339",
+    "name": "Grand Hotel Kronenhof",
+    "street": "130 Via Maistra",
+    "extended": "",
+    "locality": "7504 Pontresina",
+    "tel": " +41 830 30 30"
+  },
+  {
+    "id": "dc25164",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25164",
+    "name": "Grand Hotel Park Gstaad",
+    "street": "Wispilenstrasse 29",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 3374 89800"
+  },
+  {
+    "id": "dc17723",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17723",
+    "name": "Grand Hotel Villa Castagnola",
+    "street": "31 Viale Castagnola",
+    "extended": "",
+    "locality": "6906 Lugano",
+    "tel": " +41 9197 32555"
+  },
+  {
+    "id": "dc49066",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49066",
+    "name": "Grand Hotel du Lac",
+    "street": "Rue d'Italie 1",
+    "extended": "",
+    "locality": "1800 Vevey",
+    "tel": " +41 2192 50606"
+  },
+  {
+    "id": "dc43770",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43770",
+    "name": "Grand Resort Bad Ragaz",
+    "street": "Bernhard-Simon-Str.",
+    "extended": "",
+    "locality": "7310 Bad Ragaz",
+    "tel": " +41 8130 33030"
+  },
+  {
+    "id": "dc25256",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25256",
+    "name": "Grillrestaurant Burgi's Burehof",
+    "street": "29 Euthalerstrasse",
+    "extended": "",
+    "locality": "8844 Euthal",
+    "tel": " +41 5541 22417"
+  },
+  {
+    "id": "dc38329",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38329",
+    "name": "Gstaad Airport",
+    "street": "Oeystr. 29",
+    "extended": "",
+    "locality": "3792 Saanen",
+    "tel": " +41 3374 83322"
+  },
+  {
+    "id": "dc18284",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18284",
+    "name": "Guarda Golf Hotel & Residences",
+    "street": "14 Route des Zirès",
+    "extended": "",
+    "locality": "3963 Crans Montana",
+    "tel": " +41 27 486 2000"
+  },
+  {
+    "id": "dc16370",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16370",
+    "name": "Guesthouse Arosio B&B",
+    "street": "82 Arosio di Sotto",
+    "extended": "",
+    "locality": "6939 Arosio",
+    "tel": " +41 9160 033 28"
+  },
+  {
+    "id": "dc18447",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18447",
+    "name": "Hotel & Gasthaus \"Die Perle\"",
+    "street": "Dorfstrasse",
+    "extended": "",
+    "locality": "6035 Perlen",
+    "tel": " +41 4145 01217"
+  },
+  {
+    "id": "dc39009",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39009",
+    "name": "Hotel & Restaurant Glacier",
+    "street": "Endweg 55",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 3385 31004"
+  },
+  {
+    "id": "dc17725",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17725",
+    "name": "Hotel & Restaurant Morteratsch",
+    "street": "Morteratsch 4",
+    "extended": "",
+    "locality": "7504 Pontresina",
+    "tel": " +41 81 842 63 13"
+  },
+  {
+    "id": "dc16318",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16318",
+    "name": "Hotel Admiral",
+    "street": "15 Via Geretta",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 919 863 838"
+  },
+  {
+    "id": "dc12352",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12352",
+    "name": "Hotel Adula",
+    "street": "3 Via Sorts Sut",
+    "extended": "",
+    "locality": "7018 Flims Waldhaus",
+    "tel": " +41 81 928 28 28"
+  },
+  {
+    "id": "dc18712",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18712",
+    "name": "Hotel Arc-en-ciel",
+    "street": "Egglistrasse 24",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 3374 84343"
+  },
+  {
+    "id": "dc38295",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38295",
+    "name": "Hotel Arcade",
+    "street": "Luzernerestr. 31",
+    "extended": "",
+    "locality": "5643 Sins",
+    "tel": " +41 7897 878"
+  },
+  {
+    "id": "dc25065",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25065",
+    "name": "Hotel BEATUS Wellness- & Spa-Hotel",
+    "street": "Seestrasse 300",
+    "extended": "",
+    "locality": "3658 Merligen am Thunersee",
+    "tel": " +41 3325 28181"
+  },
+  {
+    "id": "dc18830",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18830",
+    "name": "Hotel Bad Bubendorf",
+    "street": "3 Kantonsstrasse",
+    "extended": "",
+    "locality": "4416 Oberdorf",
+    "tel": " + 41 619355555"
+  },
+  {
+    "id": "dc17957",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17957",
+    "name": "Hotel Bad Eptingen",
+    "street": "2 Läufelfingerstr.",
+    "extended": "",
+    "locality": "4458 Eptingen",
+    "tel": " +41 6228 52010"
+  },
+  {
+    "id": "dc26673",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26673",
+    "name": "Hotel Baer & Post",
+    "street": "108 Curtins",
+    "extended": "",
+    "locality": "7530 Zernez",
+    "tel": " +41 8185 15500"
+  },
+  {
+    "id": "dc25012",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25012",
+    "name": "Hotel Balsthal",
+    "street": "1 Falkensteinerstrasse",
+    "extended": "",
+    "locality": "4710 Balsthal",
+    "tel": " +41 62 386 88 88"
+  },
+  {
+    "id": "dc15148",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15148",
+    "name": "Hotel Beau-Rivage Genève",
+    "street": "13 Quai du Mont-Blanc",
+    "extended": "",
+    "locality": "1201 Genève",
+    "tel": " + 41 22 716 66 66"
+  },
+  {
+    "id": "dc36373",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36373",
+    "name": "Hotel Bellevue Wiesen",
+    "street": "Hauptstr. 9",
+    "extended": "",
+    "locality": "7494 Davos Wiesen",
+    "tel": " +41 8140 41150"
+  },
+  {
+    "id": "dc25617",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25617",
+    "name": "Hotel Belvedere Grindelwald",
+    "street": "Dorfstrasse 53",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 3388 89999"
+  },
+  {
+    "id": "dc12760",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12760",
+    "name": "Hotel Belvedere Locarno",
+    "street": "44 Via ai Monti della Trinità",
+    "extended": "",
+    "locality": "6600 Locarno",
+    "tel": " +41 91 751 03 63"
+  },
+  {
+    "id": "dc12704",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12704",
+    "name": "Hotel Belvédère",
+    "street": "Stradun 330",
+    "extended": "",
+    "locality": "7550 Scuol",
+    "tel": " +41 81 861 06 06"
+  },
+  {
+    "id": "dc25118",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25118",
+    "name": "Hotel Bernerhof",
+    "street": "2 Banofstrasse",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 33 7488844"
+  },
+  {
+    "id": "dc35271",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35271",
+    "name": "Hotel Cafe Adler Appenzell",
+    "street": "Weissbadstrasse 2",
+    "extended": "",
+    "locality": "9050 Appenzell",
+    "tel": " +41 7178 71389"
+  },
+  {
+    "id": "dc38594",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38594",
+    "name": "Hotel Chesa Grischuna",
+    "street": "Bahnhofstrasse 12",
+    "extended": "",
+    "locality": "7250 Klosters",
+    "tel": " +41 8142 22222"
+  },
+  {
+    "id": "dc35342",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35342",
+    "name": "Hotel Continental-Park",
+    "street": "Murbacherstrasse 4",
+    "extended": "",
+    "locality": "6002 Luzern",
+    "tel": " +41 2289 050"
+  },
+  {
+    "id": "dc38592",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38592",
+    "name": "Hotel Cresta und Erlebnisrestaurant Almrausch",
+    "street": "Schulstrasse 5",
+    "extended": "",
+    "locality": "7562 Samnaun-Laret",
+    "tel": " +41 8186 85223"
+  },
+  {
+    "id": "dc53096",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc53096",
+    "name": "Hotel Crystal Engelberg",
+    "street": "Dorfstr. 45",
+    "extended": "",
+    "locality": "6390 Engelberg",
+    "tel": " +41 4163 72122"
+  },
+  {
+    "id": "dc16114",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16114",
+    "name": "Hotel Delfino Lugano",
+    "street": "6 Via Cassarinetta",
+    "extended": "",
+    "locality": "6902 Lugano",
+    "tel": " +41 9198 59999"
+  },
+  {
+    "id": "dc15119",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15119",
+    "name": "Hotel Eden Roc",
+    "street": "16 Via Albarelle",
+    "extended": "",
+    "locality": "6612 Ascona",
+    "tel": " +41 91 785 71 71"
+  },
+  {
+    "id": "dc18820",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18820",
+    "name": "Hotel Europa",
+    "street": "Via Suot chesas 9, 7512 Champfier, Switzerland",
+    "extended": "",
+    "locality": "7512 Champfier",
+    "tel": " +41 8183 95555"
+  },
+  {
+    "id": "dc22413",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22413",
+    "name": "Hotel Federale Lugano",
+    "street": "8 via Paolo Regazzoni",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 9191 00808"
+  },
+  {
+    "id": "dc16215",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16215",
+    "name": "Hotel Felmis",
+    "street": "91 Kastanienbaumstrasse",
+    "extended": "",
+    "locality": "6048 Horw",
+    "tel": " +41 4134 91919"
+  },
+  {
+    "id": "dc39109",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39109",
+    "name": "Hotel Fontana",
+    "street": "Moos 10",
+    "extended": "",
+    "locality": "2513 Twann",
+    "tel": " +41 3231 50303"
+  },
+  {
+    "id": "dc15617",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15617",
+    "name": "Hotel Frauenfeld",
+    "street": "74 Schaffhauserstrasse",
+    "extended": "",
+    "locality": "8500 Frauenfeld",
+    "tel": " +41 525510505"
+  },
+  {
+    "id": "dc23367",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23367",
+    "name": "Hotel Gasthaus Krone",
+    "street": "2 Via Cumunela",
+    "extended": "",
+    "locality": "7522 La Punt-Chamues-ch",
+    "tel": " +41 818541269"
+  },
+  {
+    "id": "dc18735",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18735",
+    "name": "Hotel Gasthof Frohsinn",
+    "street": "10 Dorfstrasse",
+    "extended": "",
+    "locality": "8200 Flurlingen",
+    "tel": " +41 52 659 17 63"
+  },
+  {
+    "id": "dc20804",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20804",
+    "name": "Hotel Giardino Mountain",
+    "street": "3 Via Maistra",
+    "extended": "",
+    "locality": "7512 Champfèr",
+    "tel": " +41 8183 66300"
+  },
+  {
+    "id": "dc27915",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27915",
+    "name": "Hotel Gletschergarten",
+    "street": "Obere Gletscherstrasse 1",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 3385 31721"
+  },
+  {
+    "id": "dc23741",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23741",
+    "name": "Hotel Glockenhof",
+    "street": "31 Sihlstrasse",
+    "extended": "",
+    "locality": "8001 Zurich",
+    "tel": " +41 4422 59191"
+  },
+  {
+    "id": "dc25064",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25064",
+    "name": "Hotel Helvetia",
+    "street": "62 Via Maistra",
+    "extended": "",
+    "locality": "7537 Müstair",
+    "tel": " +41 81 858 55 55"
+  },
+  {
+    "id": "dc32050",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32050",
+    "name": "Hotel Helvetia Intergolf",
+    "street": "Route de la Moubra 8",
+    "extended": "",
+    "locality": "3963 Crans-Montana",
+    "tel": " +41 2748 58888"
+  },
+  {
+    "id": "dc19360",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19360",
+    "name": "Hotel Kemmeriboden-Bad",
+    "street": "Kemmeriboden",
+    "extended": "",
+    "locality": "6197 Schangnau",
+    "tel": " +41 3449 37777"
+  },
+  {
+    "id": "dc30497",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30497",
+    "name": "Hotel Kernen",
+    "street": "Dorfstrasse 58",
+    "extended": "",
+    "locality": "3778 Schoenried Gstaad",
+    "tel": " +41 3374 84020"
+  },
+  {
+    "id": "dc17719",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17719",
+    "name": "Hotel Kristall-Saphir",
+    "street": "41-43 Talstrasse",
+    "extended": "",
+    "locality": "3905 Saas-Almagell",
+    "tel": " +41 2795 81700"
+  },
+  {
+    "id": "dc18307",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18307",
+    "name": "Hotel La Perla",
+    "street": "Strada Collina 14",
+    "extended": "",
+    "locality": "6612 Ascona",
+    "tel": " +41 9179 13577"
+  },
+  {
+    "id": "dc15930",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15930",
+    "name": "Hotel La Val",
+    "street": "18 Via Palius",
+    "extended": "",
+    "locality": "7165 Breil/Brigels",
+    "tel": " +41 81 929 26 26"
+  },
+  {
+    "id": "dc47107",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47107",
+    "name": "Hotel La Vatga",
+    "street": "Voa Principale 30",
+    "extended": "",
+    "locality": "7078 Lenzerheide",
+    "tel": " +41 8125 31212"
+  },
+  {
+    "id": "dc23566",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23566",
+    "name": "Hotel Les Sources des Alpes",
+    "street": "17 Tuftstrasse",
+    "extended": "",
+    "locality": "3954 Leukerbad",
+    "tel": " +41 2747 22000"
+  },
+  {
+    "id": "dc20748",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20748",
+    "name": "Hotel Liberty HLR Roncelli",
+    "street": "Vicolo Nord 1",
+    "extended": "",
+    "locality": "6500 Bellinzona",
+    "tel": " +41 9182 51919"
+  },
+  {
+    "id": "dc15797",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15797",
+    "name": "Hotel Linde Fislisbach",
+    "street": "1 Niederrohrdorferstrasse",
+    "extended": "",
+    "locality": "5442 Fislisbach",
+    "tel": " +41 5649 31280"
+  },
+  {
+    "id": "dc49224",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49224",
+    "name": "Hotel Lugano Dante Center",
+    "street": "Piazza Cioccaro 5",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 9191 05700"
+  },
+  {
+    "id": "dc35344",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35344",
+    "name": "Hotel Marina Lachen",
+    "street": "Hafenstrasse 4",
+    "extended": "",
+    "locality": "8853 Lachen",
+    "tel": " +41 5545 17373"
+  },
+  {
+    "id": "dc24459",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24459",
+    "name": "Hotel Meisser",
+    "street": "Dorfstrasse 42",
+    "extended": "",
+    "locality": "7545 Guarda",
+    "tel": " +41 8186 22132"
+  },
+  {
+    "id": "dc13354",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13354",
+    "name": "Hotel National",
+    "street": "10 Obere Bahnhofstraße",
+    "extended": "",
+    "locality": "3714 Frutigen",
+    "tel": " +41 33 671 16 16"
+  },
+  {
+    "id": "dc36002",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36002",
+    "name": "Hotel National Resort & Spa",
+    "street": "Rue du village 47",
+    "extended": "",
+    "locality": "1874 Champery",
+    "tel": " +41 24 479 11 30"
+  },
+  {
+    "id": "dc21633",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21633",
+    "name": "Hotel Opera Zürich",
+    "street": "5 Dufourstrasse",
+    "extended": "",
+    "locality": "8008 Zürich",
+    "tel": " +41 4425 89999"
+  },
+  {
+    "id": "dc16911",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16911",
+    "name": "Hotel Paradies",
+    "street": "150 Munt Plan",
+    "extended": "",
+    "locality": "7551 Scuol",
+    "tel": " +41 8186 10808"
+  },
+  {
+    "id": "dc34306",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34306",
+    "name": "Hotel Residence Sanetsch",
+    "street": "Gsteigstrasse 8",
+    "extended": "",
+    "locality": "3785 Gsteig bei Gstaad",
+    "tel": " +41 3375 51000"
+  },
+  {
+    "id": "dc19396",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19396",
+    "name": "Hotel Restaurant Bergalga",
+    "street": "Rufana",
+    "extended": "",
+    "locality": "7447 Avers",
+    "tel": " +41 8166 71168"
+  },
+  {
+    "id": "dc18992",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18992",
+    "name": "Hotel Restaurant Enjoy Goldach",
+    "street": "70 Klosterstrasse",
+    "extended": "",
+    "locality": "9403 Goldach",
+    "tel": " +41 71 841 00 80"
+  },
+  {
+    "id": "dc15057",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15057",
+    "name": "Hotel Restaurant Kaiserstuhl Lungernsee",
+    "street": "232 Bruenigstrasse",
+    "extended": "",
+    "locality": "6078 Buerglen",
+    "tel": " +41 4131 01313"
+  },
+  {
+    "id": "dc28595",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28595",
+    "name": "Hotel Restaurant Landhaus",
+    "street": "Furkastrasse 133",
+    "extended": "",
+    "locality": "3985 Muenster",
+    "tel": " +41 2797 32273"
+  },
+  {
+    "id": "dc47016",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47016",
+    "name": "Hotel Restaurant Löwen",
+    "street": "Albisstrasse 2",
+    "extended": "",
+    "locality": "8915 Hausen am Albis",
+    "tel": " +41 4476 40006"
+  },
+  {
+    "id": "dc18255",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18255",
+    "name": "Hotel Restaurant Schuetzen Steffisburg",
+    "street": "Alte Bernstrasse 153, 3613 Steffisburg, Switzerland",
+    "extended": "",
+    "locality": "3613 Steffisburg",
+    "tel": " +41 3343 94000"
+  },
+  {
+    "id": "dc18985",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18985",
+    "name": "Hotel Restaurant Vogelsang",
+    "street": "2 Vogelsang",
+    "extended": "",
+    "locality": "6205 Eich",
+    "tel": " +41 4146 26666"
+  },
+  {
+    "id": "dc16387",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16387",
+    "name": "Hotel Restaurant Wellness Blattnerhof",
+    "street": "1 Rischinustrasse",
+    "extended": "",
+    "locality": "3914 Naters",
+    "tel": " +41 2792 38676"
+  },
+  {
+    "id": "dc18236",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18236",
+    "name": "Hotel Royal Savoy",
+    "street": "40 Avenue d'Ouchy",
+    "extended": "",
+    "locality": "1006 Lausanne",
+    "tel": " +41 216148888"
+  },
+  {
+    "id": "dc20772",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20772",
+    "name": "Hotel Saluver",
+    "street": "Via Maistra 128",
+    "extended": "",
+    "locality": "7505 Celerina/Schlarigna",
+    "tel": " +41 8183 31314"
+  },
+  {
+    "id": "dc19698",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19698",
+    "name": "Hotel Sarain",
+    "street": "La Fola 7",
+    "extended": "",
+    "locality": "7083 Lantsch",
+    "tel": " +41 8138 40613"
+  },
+  {
+    "id": "dc18291",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18291",
+    "name": "Hotel Saratz Pontresina",
+    "street": "Via Da la Staziun 2",
+    "extended": "",
+    "locality": "7504 Pontresina",
+    "tel": " +41 8183 94000"
+  },
+  {
+    "id": "dc12301",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12301",
+    "name": "Hotel Schweizerhof",
+    "street": "11 Plaz d'Ora",
+    "extended": "",
+    "locality": "7536 Santa Maria",
+    "tel": " +41 8185 16030"
+  },
+  {
+    "id": "dc18303",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18303",
+    "name": "Hotel Schweizerhof Bern",
+    "street": "11 Bahnhofplatz",
+    "extended": "",
+    "locality": "3011 Bern",
+    "tel": " +41 31 326 80 80"
+  },
+  {
+    "id": "dc11689",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11689",
+    "name": "Hotel Schweizerhof St. Moritz",
+    "street": "54 Via dal Bagn",
+    "extended": "",
+    "locality": "7500 St. Moritz",
+    "tel": " +41 81 837 07 07"
+  },
+  {
+    "id": "dc9924",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9924",
+    "name": "Hotel Seehof Davos",
+    "street": "159 Promenade",
+    "extended": "",
+    "locality": "7260 Davos Dorf",
+    "tel": " +41 81 417 94 44"
+  },
+  {
+    "id": "dc12353",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12353",
+    "name": "Hotel Seerose Resort & Spa",
+    "street": "1 Seerosenstrasse",
+    "extended": "",
+    "locality": "5616 Meisterschwanden",
+    "tel": " +41 56 676 68 68"
+  },
+  {
+    "id": "dc17834",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17834",
+    "name": "Hotel Splendide Royal",
+    "street": "7 Riva Antonio Caccia",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 91 985 77 11"
+  },
+  {
+    "id": "dc9952",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9952",
+    "name": "Hotel Swiss Star",
+    "street": "5 Grubenstrasse",
+    "extended": "",
+    "locality": "8620 Wetzikon",
+    "tel": " +41 44 578 78 00"
+  },
+  {
+    "id": "dc36770",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36770",
+    "name": "Hotel Ultima Gstaad",
+    "street": "Gsteigstr. 7",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 3374 80550"
+  },
+  {
+    "id": "dc36017",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36017",
+    "name": "Hotel Villa Honegg",
+    "street": "Honegg",
+    "extended": "",
+    "locality": "6373 Ennetbuergen",
+    "tel": " +41 4161 83200"
+  },
+  {
+    "id": "dc26669",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26669",
+    "name": "Hotel Villa Principe Leopoldo",
+    "street": "Via Montalbano 5",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 9198 58855"
+  },
+  {
+    "id": "dc18252",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18252",
+    "name": "Hotel Waldegg",
+    "street": "91 Schwandstrasse",
+    "extended": "",
+    "locality": "6390 Engelberg",
+    "tel": " +41 4163 96900"
+  },
+  {
+    "id": "dc18218",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18218",
+    "name": "Hotel Waldrand",
+    "street": "Aegertenstrasse 12",
+    "extended": "",
+    "locality": "3775 Lenk",
+    "tel": " +41 3373 68282"
+  },
+  {
+    "id": "dc16451",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16451",
+    "name": "Hotel Walliserhof Leukerbad",
+    "street": "38 Rathausstrasse",
+    "extended": "",
+    "locality": "3954 Leukerbad",
+    "tel": " +41 2747 27960"
+  },
+  {
+    "id": "dc16213",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16213",
+    "name": "Hotel Weisses Kreuz",
+    "street": "72 Platz",
+    "extended": "",
+    "locality": "7482 Berguen",
+    "tel": " +41 8141 05010"
+  },
+  {
+    "id": "dc15058",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15058",
+    "name": "Hotel Wetterhorn Hasliberg",
+    "street": "Sattel",
+    "extended": "",
+    "locality": "6083 Hasliberg Hohfluh",
+    "tel": " +41 3397 501313"
+  },
+  {
+    "id": "dc22704",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22704",
+    "name": "Hotel aux Remparts",
+    "street": "1 Chemin de Montrevers",
+    "extended": "",
+    "locality": "1700 Fribourg",
+    "tel": " +41 2634 75656"
+  },
+  {
+    "id": "dc9877",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9877",
+    "name": "Hotel de La Paix",
+    "street": "18 Via Cattori",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 91 960 60 60"
+  },
+  {
+    "id": "dc30499",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30499",
+    "name": "Hotel des Alpes",
+    "street": "Saanenmoeserstrasse 168",
+    "extended": "",
+    "locality": "3777 Saanenmoeser-Gstaad",
+    "tel": " +41 3374 80450"
+  },
+  {
+    "id": "dc36007",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36007",
+    "name": "Hotel des Balances",
+    "street": "Weinmarkt",
+    "extended": "",
+    "locality": "6004 Luzern",
+    "tel": " +41 4141 82828"
+  },
+  {
+    "id": "dc22702",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22702",
+    "name": "Hotel des Inventions",
+    "street": "2 Chemin du Parc",
+    "extended": "",
+    "locality": "1024 Ecublens",
+    "tel": " +41 21 694 39 39"
+  },
+  {
+    "id": "dc18253",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18253",
+    "name": "Hotel des Trois Couronnes et Destination Spa",
+    "street": "49 Rue d'Italie, 49",
+    "extended": "",
+    "locality": "1800 Vevey",
+    "tel": " +41 219233200"
+  },
+  {
+    "id": "dc15541",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15541",
+    "name": "Hôtel du Léman - Centre de Séminaires",
+    "street": "2 Chemin de la Fontaine",
+    "extended": "",
+    "locality": "1805 Jongny",
+    "tel": " +41 21 923 03 03"
+  },
+  {
+    "id": "dc21817",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21817",
+    "name": "Jelmoli - The House of Brands",
+    "street": "1 Steinmühlenplatz",
+    "extended": "",
+    "locality": "8001 Zurich",
+    "tel": " +41 442204411"
+  },
+  {
+    "id": "dc12878",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12878",
+    "name": "Kindercity Sciencity",
+    "street": "12 Chlirietstraße",
+    "extended": "",
+    "locality": "8604 Volketswil",
+    "tel": " +41 43 204 30 60"
+  },
+  {
+    "id": "dc18265",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18265",
+    "name": "Kongress + Kursaal Bern",
+    "street": "3 Kornhausstrasse",
+    "extended": "",
+    "locality": "3013 Bern",
+    "tel": " +41 31 339 55 00"
+  },
+  {
+    "id": "dc17061",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17061",
+    "name": "Kulm Hotel St. Moritz",
+    "street": "18 Via Veglia",
+    "extended": "",
+    "locality": "7500 St. Moritz",
+    "tel": " +41 81 836 8000"
+  },
+  {
+    "id": "dc17715",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17715",
+    "name": "Kurhaus am Sarnersee",
+    "street": "35 Wilerstrasse",
+    "extended": "",
+    "locality": "6062 Sarnen",
+    "tel": " +41 6667 466"
+  },
+  {
+    "id": "dc48886",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48886",
+    "name": "La Maison du Moulin Winery",
+    "street": "Chemin du Grand-Pre 4",
+    "extended": "",
+    "locality": "1267 Coinsins",
+    "tel": " +41 7947 37587"
+  },
+  {
+    "id": "dc26692",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26692",
+    "name": "Landgasthof Löwen Heimiswil",
+    "street": "Dorfstrasse 2",
+    "extended": "",
+    "locality": "3412 Heimiswil",
+    "tel": " +41 3442 23206"
+  },
+  {
+    "id": "dc25862",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25862",
+    "name": "Landquart Fashion Outlet",
+    "street": "Tardistrasse 20a",
+    "extended": "",
+    "locality": "7302 Landquart",
+    "tel": " +41 8130 00222"
+  },
+  {
+    "id": "dc21669",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21669",
+    "name": "Lausanne Palace",
+    "street": "42560 Rue du Grand Chêne",
+    "extended": "",
+    "locality": "1002 Lausanne",
+    "tel": " +41 21 331 3131"
+  },
+  {
+    "id": "dc46143",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46143",
+    "name": "Le Grand Bellevue, Gstaad",
+    "street": "Untergstaadstrasse 17",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 3374 80000"
+  },
+  {
+    "id": "dc14814",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14814",
+    "name": "Le Mirador Resort & Spa",
+    "street": "Chemin de l'hotel Mirador 5",
+    "extended": "",
+    "locality": "1801 Le Mont-Pelerin",
+    "tel": " +41 2192 51715"
+  },
+  {
+    "id": "dc36004",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36004",
+    "name": "Le Terminus",
+    "street": "Rue du jura 31",
+    "extended": "",
+    "locality": "2900 Porrentruy",
+    "tel": " +41 3246 62643"
+  },
+  {
+    "id": "dc29693",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29693",
+    "name": "LeCrans Hotel & Spa",
+    "street": "Chemin du Mont Blanc 1 1",
+    "extended": "",
+    "locality": "3963 Crans-Montana",
+    "tel": " +41 2748 66060"
+  },
+  {
+    "id": "dc14054",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14054",
+    "name": "Lenkerhof gourmet spa resort",
+    "street": "20 Badstrasse",
+    "extended": "",
+    "locality": "3775 Lenk",
+    "tel": " +41 33 736 3636"
+  },
+  {
+    "id": "dc12354",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12354",
+    "name": "Limmathof Baden Hotel & Spa",
+    "street": "20 Badstraße",
+    "extended": "",
+    "locality": "5408 Ennetbaden",
+    "tel": " +41 56 200 17 17"
+  },
+  {
+    "id": "dc14455",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14455",
+    "name": "Maiensässhotel Guarda Val",
+    "street": "85 Voa Sporz",
+    "extended": "",
+    "locality": "7078 Lenzerheide",
+    "tel": " +41 81 385 85 85"
+  },
+  {
+    "id": "dc29495",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29495",
+    "name": "Manor Vesenaz",
+    "street": "Route de Thonon 40",
+    "extended": "",
+    "locality": "1222 Vesenaz",
+    "tel": " +41 2270 71699"
+  },
+  {
+    "id": "dc16917",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16917",
+    "name": "Maya Boutique Hotel",
+    "street": "27 Linzerbot",
+    "extended": "",
+    "locality": "1973 Nax",
+    "tel": " +41 2756 55155"
+  },
+  {
+    "id": "dc22634",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22634",
+    "name": "Modern Times Hotel",
+    "street": "20 Chemin du Genevrier",
+    "extended": "",
+    "locality": "1806 St-Legier",
+    "tel": " +41 21 925 22 22"
+  },
+  {
+    "id": "dc21058",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21058",
+    "name": "Motel Brueggli ",
+    "street": "Feldmastrasse 1-3",
+    "extended": "",
+    "locality": "6032 Emmen",
+    "tel": " +41 2601 346"
+  },
+  {
+    "id": "dc38391",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38391",
+    "name": "Mövenpick Hotel & Casino Geneva",
+    "street": "Route de Pré-Bois 20",
+    "extended": "",
+    "locality": "1215 Geneva",
+    "tel": " +41 22 717 11 11"
+  },
+  {
+    "id": "dc17794",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17794",
+    "name": "Nangijala Café, Bar & Guest House",
+    "street": "43 Via Alpsu",
+    "extended": "",
+    "locality": "7180 Disentis",
+    "tel": " +41 81 936 44 60"
+  },
+  {
+    "id": "dc43804",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43804",
+    "name": "Palace Hotel",
+    "street": "Palacestr. 28",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 3374 85000"
+  },
+  {
+    "id": "dc11151",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11151",
+    "name": "Panoramahotel Brünig Kulm",
+    "street": "Passhohe",
+    "extended": "",
+    "locality": "3860 Brünig",
+    "tel": " +41 33 971 00 40"
+  },
+  {
+    "id": "dc17336",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17336",
+    "name": "Park Hotel Vitznau",
+    "street": "18 Seestrasse",
+    "extended": "",
+    "locality": "6354 Vitznau",
+    "tel": " +41 41 399 60 60"
+  },
+  {
+    "id": "dc49223",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49223",
+    "name": "Park my Car",
+    "street": "Rue des Entreprises 1",
+    "extended": "",
+    "locality": "1217 Meyrin",
+    "tel": " +41 7978 59000"
+  },
+  {
+    "id": "dc18264",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18264",
+    "name": "Parkhaus Schaller",
+    "street": "Neue Kantonstr.",
+    "extended": "",
+    "locality": "3929 Täsch",
+    "tel": " +41 27 967 40 30"
+  },
+  {
+    "id": "dc27914",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27914",
+    "name": "Parkhotel Bellevue & Spa Adelboden",
+    "street": "Bellevuestrasse 15, 3715 Adelboden, Switzerland",
+    "extended": "",
+    "locality": "3715 Adelboden",
+    "tel": " +41 3367 38000"
+  },
+  {
+    "id": "dc46888",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46888",
+    "name": "Parkhotel Brenscino Brissago",
+    "street": "Via Sacro Monte 21",
+    "extended": "",
+    "locality": "6614 Brissago",
+    "tel": " +41 9178 68111"
+  },
+  {
+    "id": "dc13405",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13405",
+    "name": "Parkhotel Delta Wellbeing Resort",
+    "street": "137 Via Deta",
+    "extended": "",
+    "locality": "6612 Ascona",
+    "tel": " +41 9178 577 85"
+  },
+  {
+    "id": "dc22380",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22380",
+    "name": "Parkhotel Schoenegg",
+    "street": "161 Dorfstrasse",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 3385 41818"
+  },
+  {
+    "id": "dc23585",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23585",
+    "name": "Parking du Centre",
+    "street": "31 Rue de Geneve",
+    "extended": "",
+    "locality": "1003 Lausanne",
+    "tel": " +41 21 329 06 16"
+  },
+  {
+    "id": "dc34387",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34387",
+    "name": "Pizolcenter",
+    "street": "Regazerstrasse 61",
+    "extended": "",
+    "locality": "7320 Sargans",
+    "tel": " +41 4330 50240"
+  },
+  {
+    "id": "dc29477",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29477",
+    "name": "Priva Alpine Lodge",
+    "street": "Dieschen sot 18",
+    "extended": "",
+    "locality": "7078 Vaz",
+    "tel": " +41 8138 20606"
+  },
+  {
+    "id": "dc18342",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18342",
+    "name": "Relais & Châteaux Chasa Montana Hotel & Spa",
+    "street": "30 Dorfstrasse",
+    "extended": "",
+    "locality": "7563 Samnaun",
+    "tel": " +41 81 861 9000"
+  },
+  {
+    "id": "dc29796",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29796",
+    "name": "Restaurant 8610",
+    "street": "Friedhofstrasse 3a",
+    "extended": "",
+    "locality": "8610 Uster",
+    "tel": " +41 4494 08610"
+  },
+  {
+    "id": "dc37339",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37339",
+    "name": "Restaurant Al Covo",
+    "street": "Abacus Platz 1",
+    "extended": "",
+    "locality": "9300 Wittenbach",
+    "tel": " +41 7129 02020"
+  },
+  {
+    "id": "dc50154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50154",
+    "name": "Restaurant La Channe",
+    "street": "Route du Grand St Bernard 16",
+    "extended": "",
+    "locality": "1945 Liddes",
+    "tel": " +41 2756 57012"
+  },
+  {
+    "id": "dc14172",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14172",
+    "name": "Restaurant Panorama Panoteca",
+    "street": "36 Aeschiriedstrasse",
+    "extended": "",
+    "locality": "3703 Aeschiried",
+    "tel": " +41 3365 42973"
+  },
+  {
+    "id": "dc39609",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39609",
+    "name": "Restaurant Plattas",
+    "street": "Praezstr. 29",
+    "extended": "",
+    "locality": "7424 Praez-Cazis",
+    "tel": " +41 8154 30765"
+  },
+  {
+    "id": "dc49454",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49454",
+    "name": "Restaurant Schlemmerei",
+    "street": "Kirchfeldstrasse 25",
+    "extended": "",
+    "locality": "6032 Luzern",
+    "tel": " +41 4126 85050"
+  },
+  {
+    "id": "dc18913",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18913",
+    "name": "Restaurant Triangel",
+    "street": "Domleschgerstrasse 80",
+    "extended": "",
+    "locality": "7417 Paspels",
+    "tel": " +41 8165 01000"
+  },
+  {
+    "id": "dc9906",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9906",
+    "name": "Restaurant de l'Hotel de Ville",
+    "street": "Rue d'Yverdon 1",
+    "extended": "",
+    "locality": "1023 Crissier",
+    "tel": " +41 2163 40505"
+  },
+  {
+    "id": "dc23721",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23721",
+    "name": "Ristorante Pizzeria La Fontana",
+    "street": "61 Haldenstrasse",
+    "extended": "",
+    "locality": "8602 Wangen",
+    "tel": " +41 4483 32603"
+  },
+  {
+    "id": "dc36928",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36928",
+    "name": "Ristorante Segreto",
+    "street": "Abacus-Platz 1",
+    "extended": "",
+    "locality": "9300 Wittenbach",
+    "tel": " +41 7129 011"
+  },
+  {
+    "id": "dc12915",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12915",
+    "name": "Riverside Seminar- und Eventhotel",
+    "street": "Spinnerei-Lettenstrasse",
+    "extended": "",
+    "locality": "8192 Glattfelden - Zweidlen",
+    "tel": " +41 43 500 92 92"
+  },
+  {
+    "id": "dc26000",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26000",
+    "name": "Romantik Hotel Baren",
+    "street": "17 Dorfstrasse",
+    "extended": "",
+    "locality": "3465 Durrenroth",
+    "tel": " +41 6295 90088"
+  },
+  {
+    "id": "dc15005",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15005",
+    "name": "Romantik Hotel Castello Seeschloss",
+    "street": "26 Via Circonvallazzione",
+    "extended": "",
+    "locality": "6612 Ascona",
+    "tel": " +41 9179 10161"
+  },
+  {
+    "id": "dc12690",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12690",
+    "name": "Romantik Hotel Hornberg",
+    "street": "36 Bahnhofstrasse",
+    "extended": "",
+    "locality": "3777 Saanenmöser bei Gstaad",
+    "tel": " +41 33 748 66 88"
+  },
+  {
+    "id": "dc22865",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22865",
+    "name": "Romantik Hotel Schweizerhof Grindelwald",
+    "street": "1 Swiss Alp Resort",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 338 545858"
+  },
+  {
+    "id": "dc18295",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18295",
+    "name": "Romantik Hotel Stern",
+    "street": "11 Reichsgasse",
+    "extended": "",
+    "locality": "7000 Chur",
+    "tel": " +41 81 258 5757"
+  },
+  {
+    "id": "dc19916",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19916",
+    "name": "SALZANO Hotel - Spa - Restaurant",
+    "street": "Lehnweg 31",
+    "extended": "",
+    "locality": "3800 Unterseen",
+    "tel": " +41 3382 10070"
+  },
+  {
+    "id": "dc23466",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23466",
+    "name": "Sassi Center",
+    "street": "7 Via Angelo Maspoli",
+    "extended": "",
+    "locality": "6850 Mendrisio",
+    "tel": " +41 9164 69748"
+  },
+  {
+    "id": "dc43775",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43775",
+    "name": "Schloss Huenigen Boutiquehotel",
+    "street": "Freimettigenstr. 9",
+    "extended": "",
+    "locality": "3510 Konolfingen",
+    "tel": " +41 3179 12611"
+  },
+  {
+    "id": "dc18323",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18323",
+    "name": "Schweizerhof Flims Romantik Hotel",
+    "street": "1 Rudi Dadens",
+    "extended": "",
+    "locality": "7018 Flims Waldhaus",
+    "tel": " +41 81 928 10 10"
+  },
+  {
+    "id": "dc21493",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21493",
+    "name": "Sheraton Zurich Hotel",
+    "street": "100 Pfingstweidstr.",
+    "extended": "",
+    "locality": "8005 Zurich",
+    "tel": " +41 044 28 54000"
+  },
+  {
+    "id": "dc21180",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21180",
+    "name": "Sheraton Zürich Neues Schloss Hotel",
+    "street": "17 Stockerstrasse",
+    "extended": "",
+    "locality": "8002 Zurich",
+    "tel": " +41 44 286 94 00"
+  },
+  {
+    "id": "dc21794",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21794",
+    "name": "Sihlcity",
+    "street": "1 Kalanderplatz",
+    "extended": "",
+    "locality": "8045 Zurich",
+    "tel": " +41 44 204 99 99"
+  },
+  {
+    "id": "dc12527",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12527",
+    "name": "Sporthotel Pontresina",
+    "street": "145 Via Maistra 145",
+    "extended": "",
+    "locality": "7504 Pontresina",
+    "tel": " +41 81 838 94 00"
+  },
+  {
+    "id": "dc18281",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18281",
+    "name": "Steigenberger Grandhotel Belvédère Davos",
+    "street": "89 Promenade",
+    "extended": "",
+    "locality": "7270 Davos",
+    "tel": " +41 8141 56000"
+  },
+  {
+    "id": "dc25444",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25444",
+    "name": "Strandhotel Seeblick",
+    "street": "Interlakenstrasse 81",
+    "extended": "",
+    "locality": "3705 Faulensee am Thunersee",
+    "tel": " +41 3365 56080"
+  },
+  {
+    "id": "dc18311",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18311",
+    "name": "Stücki Shoppingcenter Basel",
+    "street": "70 Hochbergstrasse",
+    "extended": "",
+    "locality": "4057 Basel",
+    "tel": " +41 61 633 33 00"
+  },
+  {
+    "id": "dc16834",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16834",
+    "name": "Suitenhotel Parco Paradiso",
+    "street": "27 Via Carona",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 91 993 11 11"
+  },
+  {
+    "id": "dc23967",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23967",
+    "name": "Sunstar Alpine Hotel Arosa",
+    "street": "Seewaldweg",
+    "extended": "",
+    "locality": "7050 Arosa",
+    "tel": " +41 6192 57071"
+  },
+  {
+    "id": "dc23968",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23968",
+    "name": "Sunstar Alpine Hotel Davos",
+    "street": "Parkstrasse 1",
+    "extended": "",
+    "locality": "7270 Davos Platz",
+    "tel": " +41 8183 61212"
+  },
+  {
+    "id": "dc23969",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23969",
+    "name": "Sunstar Alpine Hotel Flims",
+    "street": "Rudi Dado 8",
+    "extended": "",
+    "locality": "7018 Flims Walshaus",
+    "tel": " +41 8192 81800"
+  },
+  {
+    "id": "dc23954",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23954",
+    "name": "Sunstar Alpine Hotel Grindelwald",
+    "street": "Dorfstrasse 168",
+    "extended": "",
+    "locality": "3818 Grindelwald",
+    "tel": " +41 3385 47777"
+  },
+  {
+    "id": "dc23970",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23970",
+    "name": "Sunstar Alpine Hotel Lenzerheide",
+    "street": "Voa Sporz 8",
+    "extended": "",
+    "locality": "7078 Lenzerheide",
+    "tel": " +41 8138 58888"
+  },
+  {
+    "id": "dc23971",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23971",
+    "name": "Sunstar Boutique Hotel Albeina Klosters",
+    "street": "Boscaweg 7",
+    "extended": "",
+    "locality": "7252 Klosters Dorf",
+    "tel": " +41 8142 32100"
+  },
+  {
+    "id": "dc23972",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23972",
+    "name": "Sunstar Boutique Hotel Villa Caesar Brissago",
+    "street": "Via Gabietta 3, 6614 Brissago, Switzerland",
+    "extended": "",
+    "locality": "6614 Brissago",
+    "tel": " +41 9179 32766"
+  },
+  {
+    "id": "dc17714",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17714",
+    "name": "Swiss Historic Hotel Munsterhof & Chalet Trafoegl",
+    "street": "Via Maistra 40",
+    "extended": "",
+    "locality": "7537 Mustair",
+    "tel": " +41 8185 85541"
+  },
+  {
+    "id": "dc16027",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16027",
+    "name": "Swiss Holiday Park",
+    "street": "10 Dorfstrasse",
+    "extended": "",
+    "locality": "6443 Morschach",
+    "tel": " +41 418255050"
+  },
+  {
+    "id": "dc37423",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37423",
+    "name": "Swiss tesla owners club (STOC) - Lounge/Cafe",
+    "street": "Hoelzliwisenstrasse 5A",
+    "extended": "",
+    "locality": "8604 Volketswil",
+    "tel": " +41 4344 49494"
+  },
+  {
+    "id": "dc21361",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21361",
+    "name": "Swissotel Zürich",
+    "street": "44 Schulstrasse",
+    "extended": "",
+    "locality": "8050 Zürich",
+    "tel": " +41 44 317 3111"
+  },
+  {
+    "id": "dc21482",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21482",
+    "name": "Taxi Parkhaus Christophe",
+    "street": "1 Neue Kantonsstrasse",
+    "extended": "",
+    "locality": "3929 Täsch",
+    "tel": " +41 27 967 35 35"
+  },
+  {
+    "id": "dc24845",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24845",
+    "name": "The Alpina Gstaad",
+    "street": "Alpinastrasse 23",
+    "extended": "",
+    "locality": "3780 Gstaad",
+    "tel": " +41 (0)33 888 98 88"
+  },
+  {
+    "id": "dc9915",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9915",
+    "name": "The Chedi Andermatt",
+    "street": "4 Gotthardstrasse",
+    "extended": "",
+    "locality": "6490 Andermatt",
+    "tel": " +41 41 888 74 88"
+  },
+  {
+    "id": "dc10832",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10832",
+    "name": "The Dolder Grand (Parking P1)",
+    "street": "65 Kurhausstraße",
+    "extended": "",
+    "locality": "8032 Zürich",
+    "tel": " +41 44 456 60 00"
+  },
+  {
+    "id": "dc12310",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12310",
+    "name": "The View Lugano",
+    "street": "29 Via Giudino",
+    "extended": "",
+    "locality": "6900 Lugano",
+    "tel": " +41 9121 00000"
+  },
+  {
+    "id": "dc9921",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9921",
+    "name": "Tschuggen Grand Hotel",
+    "street": "Sonnenbergstrasse 1",
+    "extended": "",
+    "locality": "7050 Arosa",
+    "tel": " +41 81 378 99 99"
+  },
+  {
+    "id": "dc37134",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37134",
+    "name": "Valsana Hotel & Appartements",
+    "street": "Oberseepromenade 2",
+    "extended": "",
+    "locality": "7050 Arosa",
+    "tel": " +41 8137 86363"
+  },
+  {
+    "id": "dc14149",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14149",
+    "name": "Victoria-Jungfrau Grand Hotel und Spa",
+    "street": "Höheweg 41",
+    "extended": "",
+    "locality": "3800 Interlaken",
+    "tel": " +41 33 828 28 28"
+  },
+  {
+    "id": "dc29319",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29319",
+    "name": "Vulpera Golfclub und Feriencenter ",
+    "street": "Via Maistra",
+    "extended": "",
+    "locality": "7552 Vulpera",
+    "tel": " +41 8186 49688"
+  },
+  {
+    "id": "dc11024",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11024",
+    "name": "W Verbier Hotel",
+    "street": "70 Rue de Medran",
+    "extended": "",
+    "locality": "1936 Verbier",
+    "tel": " +41 27 472 88 88"
+  },
+  {
+    "id": "dc21342",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21342",
+    "name": "Waldhaus Flims Alpine Grand Hotel & SPA",
+    "street": "3 Via dil Parc",
+    "extended": "",
+    "locality": "7018 Flims Waldhaus",
+    "tel": " +41 81 928 48 48"
+  },
+  {
+    "id": "dc9893",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9893",
+    "name": "Waldhotel Doldenhorn",
+    "street": "Doldenhornstrasse 148c",
+    "extended": "",
+    "locality": "3718 Kandersteg",
+    "tel": " +41 33 675 81 81"
+  },
+  {
+    "id": "dc48022",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48022",
+    "name": "Waldhotel Health & Medical Excellence",
+    "street": "Buergenstock 30",
+    "extended": "",
+    "locality": "6363 Obbuergen",
+    "tel": " +41 4161 26000"
+  },
+  {
+    "id": "dc14907",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14907",
+    "name": "Welcome Parking Täsch",
+    "street": "Kantonsstrasse",
+    "extended": "",
+    "locality": "3929 Täsch",
+    "tel": " +41 27 967 33 66"
+  },
+  {
+    "id": "dc46899",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46899",
+    "name": "Wellness im Center-Parc Wettingen",
+    "street": "Maerzengasse 19",
+    "extended": "",
+    "locality": "5430 Wettingen",
+    "tel": " +41 5642 61640"
+  },
+  {
+    "id": "dc24422",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24422",
+    "name": "Wellnesshotel Golf Panorama",
+    "street": "6 Golfpanorama",
+    "extended": "",
+    "locality": "8564 Lipperswil",
+    "tel": " +41 5220 80808"
+  },
+  {
+    "id": "dc17152",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17152",
+    "name": "Whitepod hotel - Restaurant les Cerniers",
+    "street": "100 Route des Cerniers",
+    "extended": "",
+    "locality": "1871 Les Giettes",
+    "tel": " +41 244713838"
+  },
+  {
+    "id": "dc18336",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18336",
+    "name": "Wirtschaft zum Schweizerhaus",
+    "street": "41 Schweizerhausstrasse",
+    "extended": "",
+    "locality": "6390 Engelberg",
+    "tel": " +41 41 637 12 80"
+  },
+  {
+    "id": "dc11699",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11699",
+    "name": "rocksresort",
+    "street": "632 Via Murschetg",
+    "extended": "",
+    "locality": "7032 Laax",
+    "tel": " +41 81 927 97 97"
+  }
+]

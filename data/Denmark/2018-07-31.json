@@ -1,0 +1,659 @@
+[
+  {
+    "id": "dc15933",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15933",
+    "name": "Aalborg Lufthavn",
+    "street": "100 Ny Lufthavnsvej",
+    "extended": "",
+    "locality": "9400 Nørresundby",
+    "tel": " +45 98 17 11 44"
+  },
+  {
+    "id": "dc23684",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23684",
+    "name": "Agerbæk Hotel",
+    "street": "Storegade 7",
+    "extended": "",
+    "locality": "6753 Agerbæk",
+    "tel": " +45 75 19 60 02"
+  },
+  {
+    "id": "dc23848",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23848",
+    "name": "Bandholm Hotel",
+    "street": "37 Havnegade",
+    "extended": "",
+    "locality": "4941 Bandholm",
+    "tel": " +45 54 75 54 76"
+  },
+  {
+    "id": "dc14330",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14330",
+    "name": "Benniksgaard Hotel",
+    "street": "101 Sejrsvej",
+    "extended": "",
+    "locality": "6300 Gråsten",
+    "tel": " +45 74 65 09 49"
+  },
+  {
+    "id": "dc11731",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11731",
+    "name": "Best Western Hotel Knudsens Gaard",
+    "street": "2 Hunderupgade",
+    "extended": "",
+    "locality": "5230 Odense",
+    "tel": " +45 63 11 43 11"
+  },
+  {
+    "id": "dc30051",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30051",
+    "name": "Brundtland Golfcenter",
+    "street": "Brundtland Allé 3",
+    "extended": "",
+    "locality": "6520 Toftlund",
+    "tel": " +45 73831600"
+  },
+  {
+    "id": "dc19540",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19540",
+    "name": "City2",
+    "street": "Cityringen 4",
+    "extended": "",
+    "locality": "2630 Taastrup",
+    "tel": " +45 43320100"
+  },
+  {
+    "id": "dc19015",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19015",
+    "name": "Dayz Grønhøj Strand",
+    "street": "Ingeborgvej 2",
+    "extended": "",
+    "locality": "9480 Løkken",
+    "tel": " +45 88 88 82 08"
+  },
+  {
+    "id": "dc22689",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22689",
+    "name": "Dayz Rønbjerg",
+    "street": "Livøvej 80",
+    "extended": "",
+    "locality": "9681 Ranum",
+    "tel": " +45 70 23 20 30"
+  },
+  {
+    "id": "dc22690",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22690",
+    "name": "Dayz Seawest",
+    "street": "Vesterhavsvej 81",
+    "extended": "",
+    "locality": "6830 Nr. Nebel",
+    "tel": " +45 70 23 20 30"
+  },
+  {
+    "id": "dc22691",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22691",
+    "name": "Dayz Søhøjlandet",
+    "street": "Lille Amerika 10",
+    "extended": "",
+    "locality": "8883 Gjern",
+    "tel": " +45 78 75 82 36"
+  },
+  {
+    "id": "dc16563",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16563",
+    "name": "Det Gamle Rådhus",
+    "street": "August Kraags Plads 10B",
+    "extended": "",
+    "locality": "6300 Gråsten",
+    "tel": " +45 74651200"
+  },
+  {
+    "id": "dc18746",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18746",
+    "name": "Energimuseet",
+    "street": "Bjerringbrovej 44",
+    "extended": "",
+    "locality": "8850 Bjerringbro",
+    "tel": " +45 86 68 42 11"
+  },
+  {
+    "id": "dc27979",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27979",
+    "name": "Fredensborg Badehotel",
+    "street": "Strandvejen116",
+    "extended": "",
+    "locality": "3700 Rønne",
+    "tel": " +45 56 90 44 44"
+  },
+  {
+    "id": "dc15011",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15011",
+    "name": "Gammel Brydegaard",
+    "street": "4 Helnæsvej",
+    "extended": "",
+    "locality": "5683 Haarby",
+    "tel": " +45 64771475"
+  },
+  {
+    "id": "dc27978",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27978",
+    "name": "Green Solution House",
+    "street": "Strandvejen 79",
+    "extended": "",
+    "locality": "3700 Rønne",
+    "tel": " +45 56 95 19 13"
+  },
+  {
+    "id": "dc19724",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19724",
+    "name": "Helenekilde Badehotel",
+    "street": "Strandvejen 25",
+    "extended": "",
+    "locality": "3220 Tisvildeleje",
+    "tel": " +45 48707001"
+  },
+  {
+    "id": "dc13114",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13114",
+    "name": "Himmerland Golf & Spa Resort",
+    "street": "1 Centervej, Gatten",
+    "extended": "",
+    "locality": "9640 Farsø",
+    "tel": " +45 96 49 61 00"
+  },
+  {
+    "id": "dc10689",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc10689",
+    "name": "Hjerting Badehotel",
+    "street": "1 Strandpromenaden",
+    "extended": "",
+    "locality": "6710 Esbjerg",
+    "tel": " +45 751 170 00"
+  },
+  {
+    "id": "dc26262",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26262",
+    "name": "Hotel Amerika",
+    "street": "Amerikavej 48",
+    "extended": "",
+    "locality": "9500 Hobro",
+    "tel": " +45 98 54 42 00"
+  },
+  {
+    "id": "dc18823",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18823",
+    "name": "Hotel Christiansminde",
+    "street": "16 Christiansmindevej",
+    "extended": "",
+    "locality": "5700 Svendborg",
+    "tel": " +45 62 21 90 00"
+  },
+  {
+    "id": "dc16119",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16119",
+    "name": "Hotel Falster",
+    "street": "150 Stubbekøbingvej",
+    "extended": "",
+    "locality": "4800 Nykøbing Falster",
+    "tel": " +45 54 85 93 93"
+  },
+  {
+    "id": "dc20665",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20665",
+    "name": "Hotel Fjordgården A/S",
+    "street": "28 Vester Kær",
+    "extended": "",
+    "locality": "6950 Ringkøbing",
+    "tel": " +45 97 32 14 00"
+  },
+  {
+    "id": "dc37053",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37053",
+    "name": "Hotel Fredericia",
+    "street": "Vestre Ringvej 96",
+    "extended": "",
+    "locality": "7000 Fredericia",
+    "tel": " +45 75910000"
+  },
+  {
+    "id": "dc27980",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27980",
+    "name": "Hotel Griffen",
+    "street": "Ndr. Kystvej 34",
+    "extended": "",
+    "locality": "3700 Rønne",
+    "tel": " +45 56 90 42 44"
+  },
+  {
+    "id": "dc11732",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11732",
+    "name": "Hotel Hesselet",
+    "street": "119 Christianslundsvej",
+    "extended": "",
+    "locality": "5800 Nyborg",
+    "tel": " +45 65 31 30 29"
+  },
+  {
+    "id": "dc18752",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18752",
+    "name": "Hotel Hovborg Kro",
+    "street": "2 Holmeåvej",
+    "extended": "",
+    "locality": "6682 Hovborg",
+    "tel": " +45 75 39 60 33"
+  },
+  {
+    "id": "dc29056",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29056",
+    "name": "Hotel Inger",
+    "street": "Hulsigvej 17",
+    "extended": "",
+    "locality": "9990 Skagen",
+    "tel": " +45 98488126"
+  },
+  {
+    "id": "dc17931",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17931",
+    "name": "Hotel Jutlandia",
+    "street": "Havnepladsen 1",
+    "extended": "",
+    "locality": "9900 Frederikshavn",
+    "tel": " +45 98 42 42 00"
+  },
+  {
+    "id": "dc37307",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37307",
+    "name": "Hotel Kong Arthur",
+    "street": "Nørre Søgade 11",
+    "extended": "",
+    "locality": "1370 Copenhagen",
+    "tel": " +45 33111212"
+  },
+  {
+    "id": "dc20673",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20673",
+    "name": "Hotel Munkebo Kro",
+    "street": "56 Fjordvej",
+    "extended": "",
+    "locality": "5330 Munkebo",
+    "tel": " +45 65 97 40 30"
+  },
+  {
+    "id": "dc35622",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35622",
+    "name": "Hotel Randers",
+    "street": "Torvegade 11 , 8900",
+    "extended": "",
+    "locality": "8900 Randers C",
+    "tel": " +45 86423422"
+  },
+  {
+    "id": "dc13599",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13599",
+    "name": "Hotel Sct Thomas",
+    "street": "7 Frederiksberg Allé",
+    "extended": "",
+    "locality": "1621 København",
+    "tel": " +45 33 21 64 64"
+  },
+  {
+    "id": "dc29957",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29957",
+    "name": "Hotel Skivehus",
+    "street": "Sdr.Boulevard 1",
+    "extended": "",
+    "locality": "7800 Skive",
+    "tel": " +45 97521144"
+  },
+  {
+    "id": "dc20470",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20470",
+    "name": "Hotel Tannishus",
+    "street": "123 Tannisbugtvej",
+    "extended": "",
+    "locality": "9881 Bindslev",
+    "tel": " +45 9893 1300​"
+  },
+  {
+    "id": "dc15700",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15700",
+    "name": "Hotel Vejlefjord",
+    "street": "26 Sanatorievej",
+    "extended": "",
+    "locality": "7140 Stouby",
+    "tel": " +45 76 82 33 80"
+  },
+  {
+    "id": "dc20338",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20338",
+    "name": "Kaløvig Center",
+    "street": "46 Præstekravevej",
+    "extended": "",
+    "locality": "8410 Rønde",
+    "tel": " +45 86 37 11 55"
+  },
+  {
+    "id": "dc24103",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24103",
+    "name": "Latterly",
+    "street": "Smingegårdsvej 15",
+    "extended": "",
+    "locality": "8600 Silkeborg",
+    "tel": " +45 40 53 08 65"
+  },
+  {
+    "id": "dc17815",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17815",
+    "name": "Ledreborg Palace Golf Club",
+    "street": "12 Skottehusvej",
+    "extended": "",
+    "locality": "4320 Lejre",
+    "tel": " +45 4646 1630"
+  },
+  {
+    "id": "dc19445",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19445",
+    "name": "Lille Restrup Hovedgård",
+    "street": "71 Ll. Restrupvej",
+    "extended": "",
+    "locality": "9620 Aalestrup",
+    "tel": " +45 98 64 11 00"
+  },
+  {
+    "id": "dc19446",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19446",
+    "name": "Lynge Drive In Bio",
+    "street": "Nymøllevej 5",
+    "extended": "",
+    "locality": "3540 Lynge",
+    "tel": " +45 52 40 02 52"
+  },
+  {
+    "id": "dc14921",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14921",
+    "name": "Læsø Camping & Hytteby",
+    "street": "18A Agersigen",
+    "extended": "",
+    "locality": "9940 Læsø",
+    "tel": " +45 98 49 94 95"
+  },
+  {
+    "id": "dc40715",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40715",
+    "name": "Lønborggaard Feriecenter",
+    "street": "Lønborggaardvej 1",
+    "extended": "",
+    "locality": "6880 Tarm",
+    "tel": " +45 23447899"
+  },
+  {
+    "id": "dc19884",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19884",
+    "name": "Marstal Havn",
+    "street": "8 Havnepladsen",
+    "extended": "",
+    "locality": "5960 Marstal",
+    "tel": " +45 63 52 50 25"
+  },
+  {
+    "id": "dc19252",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19252",
+    "name": "MejeriGaarden.com",
+    "street": "Gl. Landevej 87",
+    "extended": "",
+    "locality": "4874 Gedser",
+    "tel": " +45 23 64 31 14"
+  },
+  {
+    "id": "dc13113",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13113",
+    "name": "Montra Hotel Hanstholm",
+    "street": "2 Chr. Hansensvej",
+    "extended": "",
+    "locality": "7730 Hanstholm",
+    "tel": " +45 97 96 10 44"
+  },
+  {
+    "id": "dc11653",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11653",
+    "name": "Montra Hotel Sabro",
+    "street": "780 Viborgvej",
+    "extended": "",
+    "locality": "8471 Sabro",
+    "tel": " +45 86 94 89 22"
+  },
+  {
+    "id": "dc11654",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11654",
+    "name": "Montra Odder Parkhotel",
+    "street": "25 Torvald Køhlsvej",
+    "extended": "",
+    "locality": "8300 Odder",
+    "tel": " +45 86 54 47 44"
+  },
+  {
+    "id": "dc11655",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11655",
+    "name": "Montra Skaga Hotel",
+    "street": "1 Willemoesvej",
+    "extended": "",
+    "locality": "9850 Hirtshals",
+    "tel": " +45 98 94 55 00"
+  },
+  {
+    "id": "dc15289",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15289",
+    "name": "Ny Kirstineberg Gods",
+    "street": "7 Ny Kirstinebergvej",
+    "extended": "",
+    "locality": "4800 Nykøbing Falster",
+    "tel": " +45 70 27 92 79"
+  },
+  {
+    "id": "dc16400",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16400",
+    "name": "Nymindegab Kro",
+    "street": "327 Vesterhavsvej, Nymindegab",
+    "extended": "",
+    "locality": "6830 Nørre Nebel",
+    "tel": " +45 75 28 9 211"
+  },
+  {
+    "id": "dc20409",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20409",
+    "name": "Radisson Blu Limfjord Hotel",
+    "street": "14-16 Ved Stranden",
+    "extended": "",
+    "locality": "9000 Aalborg",
+    "tel": " +45 98 16 43 33"
+  },
+  {
+    "id": "dc19423",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19423",
+    "name": "Ranum Efterskole College",
+    "street": "Ranum Efterskole College",
+    "extended": "",
+    "locality": "9681 Ranum",
+    "tel": " +45 31 60 13 29"
+  },
+  {
+    "id": "dc12261",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12261",
+    "name": "Restaurant Noli",
+    "street": "1 Østergade",
+    "extended": "",
+    "locality": "7430 Ikast",
+    "tel": " +45 20 44 82 63"
+  },
+  {
+    "id": "dc15486",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15486",
+    "name": "Rødovre Centrum",
+    "street": "238 Rødovre Centrum",
+    "extended": "",
+    "locality": "2610 Rødovre",
+    "tel": " +45 36 70 99 44"
+  },
+  {
+    "id": "dc20283",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20283",
+    "name": "Sinatur Hotel Gl. Avernæs",
+    "street": "9 Helnæsvej",
+    "extended": "",
+    "locality": "5631 Ebberup",
+    "tel": " +45 6373 7373"
+  },
+  {
+    "id": "dc20231",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20231",
+    "name": "Sinatur Hotel Haraldskær",
+    "street": "140 Skibetvej",
+    "extended": "",
+    "locality": "7100 Vejle",
+    "tel": " +45 76 49 60 00"
+  },
+  {
+    "id": "dc20281",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20281",
+    "name": "Sinatur Hotel Sixtus",
+    "street": "73 Teglgårdsvej",
+    "extended": "",
+    "locality": "5500 Middelfart",
+    "tel": " +45 6441 1999"
+  },
+  {
+    "id": "dc20280",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20280",
+    "name": "Sinatur Hotel Skarrildhus",
+    "street": "4 Sdr. Ommevej",
+    "extended": "",
+    "locality": "6933 Kibæk",
+    "tel": " +45 97 19 62 33"
+  },
+  {
+    "id": "dc20286",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20286",
+    "name": "Sinatur Hotel Storebælt",
+    "street": "121 Østerøvej",
+    "extended": "",
+    "locality": "5800 Nyborg",
+    "tel": " +45 65 31 40 02"
+  },
+  {
+    "id": "dc20955",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20955",
+    "name": "Skjalm Hvide Hotel",
+    "street": "Bygaden 1, Jørlunde",
+    "extended": "",
+    "locality": "3550 Slangerup",
+    "tel": " +45 47 33 33 88"
+  },
+  {
+    "id": "dc37483",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37483",
+    "name": "Skt. Petri",
+    "street": "Krystalgade 22",
+    "extended": "",
+    "locality": "1172 København K",
+    "tel": " +45 33459806"
+  },
+  {
+    "id": "dc34495",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34495",
+    "name": "Sportshotel Vejen",
+    "street": "Jacob Gades Allé 1",
+    "extended": "",
+    "locality": "6600 Vejen",
+    "tel": " +45 75 36 05 00"
+  },
+  {
+    "id": "dc16484",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16484",
+    "name": "Stella Maris Hotel de Luxe",
+    "street": "3 Kogtvedvænget",
+    "extended": "",
+    "locality": "5700 Svendborg",
+    "tel": " +45 62 21 25 25"
+  },
+  {
+    "id": "dc27634",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27634",
+    "name": "Strand- og Badehotel Marienlyst ",
+    "street": "Ndr. Strandvej 2",
+    "extended": "",
+    "locality": "3000 Helsingør",
+    "tel": " +45 49 21 40 00"
+  },
+  {
+    "id": "dc19885",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19885",
+    "name": "Søby Havn",
+    "street": "6 Søby Havn",
+    "extended": "",
+    "locality": "5985 Søby Ærø",
+    "tel": " +45 63 52 50 25"
+  },
+  {
+    "id": "dc14693",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14693",
+    "name": "Tannisby Camping",
+    "street": "86 Tannisbugtvej",
+    "extended": "",
+    "locality": "9881 Bindslev",
+    "tel": " +45 98 93 12 50"
+  },
+  {
+    "id": "dc29040",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29040",
+    "name": "Thyborøn Camping, Hotel & Hytteby",
+    "street": "Idrætsvej 3",
+    "extended": "",
+    "locality": "7680 Thyborøn",
+    "tel": " +45 97831277"
+  },
+  {
+    "id": "dc24291",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24291",
+    "name": "Vammen Camping",
+    "street": "Langsøvej 15",
+    "extended": "",
+    "locality": "8830 Tjele",
+    "tel": " +45 86690152"
+  },
+  {
+    "id": "dc28556",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28556",
+    "name": "Vejen Idrætscenter",
+    "street": "Petersmindevej 1",
+    "extended": "",
+    "locality": "6600 Vejen",
+    "tel": " +45 75 36 05 00"
+  },
+  {
+    "id": "dc14757",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14757",
+    "name": "Vitsøhus",
+    "street": "3 Søbygårdsmarksvej",
+    "extended": "",
+    "locality": "5985 Søby",
+    "tel": " +45 36981919"
+  },
+  {
+    "id": "dc14267",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14267",
+    "name": "Ærøskøbing Havn",
+    "street": "4G Ærøskøbing Havn",
+    "extended": "",
+    "locality": "5970 Ærøskøbing",
+    "tel": " +45 63525025"
+  },
+  {
+    "id": "dc14268",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14268",
+    "name": "Ærøskøbing Rådhus",
+    "street": "2 Statene",
+    "extended": "",
+    "locality": "5970 Ærøskøbing",
+    "tel": " +45 62 52 13 00"
+  }
+]
