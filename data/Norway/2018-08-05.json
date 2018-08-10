@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "dc19393",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19393",
+    "name": "Arctic Panorama Lodge",
+    "street": "Uløybukt , 91",
+    "extended": "",
+    "locality": "9197 Lyngen",
+    "tel": " +47 91612520"
+  },
+  {
+    "id": "dc20863",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20863",
+    "name": "Aurora Spirits",
+    "street": "Årøybuktneset",
+    "extended": "",
+    "locality": "9060 Lyngseidet",
+    "tel": " +47 91 90 42 60"
+  },
+  {
+    "id": "dc28930",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28930",
+    "name": "Ballangen Camping",
+    "street": "Stor-Ballangen",
+    "extended": "",
+    "locality": "8540 Ballangen",
+    "tel": " +47 76927690"
+  },
+  {
+    "id": "dc29147",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29147",
+    "name": "Besseggen Fjellpark",
+    "street": "Hoskelivegen 27",
+    "extended": "",
+    "locality": "2680 Vågå",
+    "tel": " +47 61238922"
+  },
+  {
+    "id": "dc15832",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15832",
+    "name": "Best Western Kampen Hotell",
+    "street": "Kjølberggata 29",
+    "extended": "",
+    "locality": "0653 Oslo",
+    "tel": " +47 24074000"
+  },
+  {
+    "id": "dc19178",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19178",
+    "name": "Birkebeineren Hotel & Apartments",
+    "street": "Birkebeinervegen 24",
+    "extended": "",
+    "locality": "2618 Lillehammer",
+    "tel": " +47 61 05 00 80"
+  },
+  {
+    "id": "dc16147",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16147",
+    "name": "Bortistu Gjestegard",
+    "street": "Storligrenda 25",
+    "extended": "",
+    "locality": "7342 Lønset",
+    "tel": " +47 91 55 62 87"
+  },
+  {
+    "id": "dc34378",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34378",
+    "name": "Brekkeseter",
+    "street": "Brekkeseterveien 33",
+    "extended": "",
+    "locality": "2673 Høvringen",
+    "tel": " +33 4 94 55 90 90"
+  },
+  {
+    "id": "dc16672",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16672",
+    "name": "Bårdshaug Herregård",
+    "street": "Orkdalsveien 102",
+    "extended": "",
+    "locality": "7300 Orkanger",
+    "tel": " +47 72 47 99 00"
+  },
+  {
+    "id": "dc18204",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18204",
+    "name": "CC Gjøvik",
+    "street": "Jernbanesvingen 6",
+    "extended": "",
+    "locality": "2821 Gjøvik",
+    "tel": " +47 919 06 094"
+  },
+  {
+    "id": "dc18200",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18200",
+    "name": "CC Stadion",
+    "street": "Vangsvegen 62",
+    "extended": "",
+    "locality": "2317 Hamar",
+    "tel": " +47 969 14 800"
+  },
+  {
+    "id": "dc17932",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17932",
+    "name": "Clarion Collection Hotel Bryggeparken",
+    "street": "7 Langbrygga",
+    "extended": "",
+    "locality": "3715 Skien",
+    "tel": " +47 35 91 21 00"
+  },
+  {
+    "id": "dc18022",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18022",
+    "name": "Clarion Collection Hotel Hammer",
+    "street": "Storgata 108",
+    "extended": "",
+    "locality": "2615 Lillehammer",
+    "tel": " +47 61 26 73 73"
+  },
+  {
+    "id": "dc14354",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14354",
+    "name": "Clarion Collection Hotel Helma",
+    "street": "Thomas Von Westens gate 2",
+    "extended": "",
+    "locality": "8624 Mo i Rana",
+    "tel": " +47 78 10 11 80"
+  },
+  {
+    "id": "dc12064",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12064",
+    "name": "Clarion Hotel Air",
+    "street": "16 Utsolaarmen",
+    "extended": "",
+    "locality": "4055 Sola",
+    "tel": " +47 51 71 85 00"
+  },
+  {
+    "id": "dc13864",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13864",
+    "name": "Dale-Gudbrands Gard Hotel",
+    "street": "Dale Gudbrands Gard 12",
+    "extended": "",
+    "locality": "2647 Sør-Fron",
+    "tel": " +47 91 15 89 38"
+  },
+  {
+    "id": "dc1547",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1547",
+    "name": "Dalen Hotel",
+    "street": "Hotellvegen 33",
+    "extended": "",
+    "locality": "3880 Dalen",
+    "tel": " +47 35 07 90 00"
+  },
+  {
+    "id": "dc40770",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40770",
+    "name": "Devoldfabrikken",
+    "street": "Geilneset",
+    "extended": "",
+    "locality": "6030 Langevåg",
+    "tel": " +47 70301111"
+  },
+  {
+    "id": "dc14355",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14355",
+    "name": "Dolmsundet Hotell Hitra",
+    "street": "Dolmsundbrua 1",
+    "extended": "",
+    "locality": "7250 Melandsjø",
+    "tel": " +47 72 44 04 40"
+  },
+  {
+    "id": "dc35305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35305",
+    "name": "Dovregubbens Hall",
+    "street": "Trondheimsvegen 2100 , 2",
+    "extended": "",
+    "locality": "2660 Dombås",
+    "tel": " +47 61242917"
+  },
+  {
+    "id": "dc11888",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11888",
+    "name": "Dr Holms Hotel",
+    "street": "Timrehaugvegen 2",
+    "extended": "",
+    "locality": "3580 Geilo",
+    "tel": " +47 32 09 57 00"
+  },
+  {
+    "id": "dc12169",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12169",
+    "name": "Energihotellet",
+    "street": "Nesflaten",
+    "extended": "",
+    "locality": "4244 Nesflaten",
+    "tel": " +47 51 20 05 55"
+  },
+  {
+    "id": "dc24533",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24533",
+    "name": "Falksenteret",
+    "street": "Industriveien 1",
+    "extended": "",
+    "locality": "7200 Kyrksæterøra",
+    "tel": " +47 72450300"
+  },
+  {
+    "id": "dc1546",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1546",
+    "name": "Farris Bad",
+    "street": "2 Fritzøe Brygge",
+    "extended": "",
+    "locality": "3264 Larvik",
+    "tel": " +47 33 19 60 00"
+  },
+  {
+    "id": "dc19255",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19255",
+    "name": "Fjellkysten Gjestehus",
+    "street": "Soløyveien 190",
+    "extended": "",
+    "locality": "9357 Tennevoll",
+    "tel": " +47 47 92 47 92"
+  },
+  {
+    "id": "dc18951",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18951",
+    "name": "Fjordbris Hotell",
+    "street": "609 Østhusvikveien",
+    "extended": "",
+    "locality": "4150 Rennesøy",
+    "tel": " +47 92 23 39 00"
+  },
+  {
+    "id": "dc15956",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15956",
+    "name": "Fleischer's Hotel",
+    "street": "Evangervegen 13",
+    "extended": "",
+    "locality": "5704 Voss",
+    "tel": " +47 56 52 05 00"
+  },
+  {
+    "id": "dc20551",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20551",
+    "name": "Fosen Fjordhotel",
+    "street": "Nedre Årnes 5",
+    "extended": "",
+    "locality": "7170 Åfjord",
+    "tel": " +47 72 53 20 00"
+  },
+  {
+    "id": "dc19280",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19280",
+    "name": "Gammelstu Stai Gård",
+    "street": "Storelvdalsveien 3551",
+    "extended": "",
+    "locality": "2480 Koppang",
+    "tel": " +47 97 74 31 01"
+  },
+  {
+    "id": "dc22519",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22519",
+    "name": "Gargia Fjellstue",
+    "street": "Gargiaveien 96",
+    "extended": "",
+    "locality": "9518 Alta",
+    "tel": " +47 78 43 33 51"
+  },
+  {
+    "id": "dc21813",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21813",
+    "name": "Gaustablikk Høyfjellshotell",
+    "street": "Kvitåvatnvegen 372",
+    "extended": "",
+    "locality": "3660 Rjukan",
+    "tel": " +47 35 09 14 22"
+  },
+  {
+    "id": "dc55798",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc55798",
+    "name": "Glasshytta Spiseri",
+    "street": "Riksveg 2 3960",
+    "extended": "",
+    "locality": "2240 Magnor",
+    "tel": " +47 93841436"
+  },
+  {
+    "id": "dc12388",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12388",
+    "name": "Glomfjord Overnatting",
+    "street": "Glomveien 63",
+    "extended": "",
+    "locality": "8160 Glomfjord",
+    "tel": " +47 91 54 08 66"
+  },
+  {
+    "id": "dc23402",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23402",
+    "name": "Gloppen Hotell",
+    "street": "Gloppen Hotell",
+    "extended": "",
+    "locality": "6823 Sandane",
+    "tel": " +47 57 86 53 33"
+  },
+  {
+    "id": "dc18368",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18368",
+    "name": "Grand Hotell Egersund",
+    "street": "Johan Feyersgate 3",
+    "extended": "",
+    "locality": "4370 Egersund",
+    "tel": " +47 51 49 60 60"
+  },
+  {
+    "id": "dc22728",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22728",
+    "name": "Gålå Booking",
+    "street": "Gålåvegen 1343",
+    "extended": "",
+    "locality": "2646 Gålå",
+    "tel": " +47 21422522"
+  },
+  {
+    "id": "dc15951",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15951",
+    "name": "Hardingasete",
+    "street": "131 Tangavegen",
+    "extended": "",
+    "locality": "5620 Tørvikbygd",
+    "tel": " +47 56 55 39 30"
+  },
+  {
+    "id": "dc22526",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22526",
+    "name": "Havblikk Camping AS",
+    "street": "Sjøvegen 34",
+    "extended": "",
+    "locality": "8700 Nesna",
+    "tel": " +47 75 05 65 40"
+  },
+  {
+    "id": "dc20416",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20416",
+    "name": "Havsdalsgrenda",
+    "street": "Havsdalsvegen 216",
+    "extended": "",
+    "locality": "3580 Geilo",
+    "tel": " +47 31 41 11 15"
+  },
+  {
+    "id": "dc11889",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11889",
+    "name": "Herangtunet Boutique Hotel",
+    "street": "17 Vølbusvegen",
+    "extended": "",
+    "locality": "2940 Heggenes",
+    "tel": " +47 97 63 33 10"
+  },
+  {
+    "id": "dc13880",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc13880",
+    "name": "Hjerkinnhus",
+    "street": "Dovrefjell",
+    "extended": "",
+    "locality": "2661 Hjerkinn",
+    "tel": " +47 46 42 01 02"
+  },
+  {
+    "id": "dc42305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42305",
+    "name": "Hoel Gård",
+    "street": "Tingnesvegen 581",
+    "extended": "",
+    "locality": "2350 Nes på Hedmark",
+    "tel": " +47 62353546"
+  },
+  {
+    "id": "dc16260",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16260",
+    "name": "Hotel Aak",
+    "street": "Aak",
+    "extended": "",
+    "locality": "6300 Aandalsnes",
+    "tel": " +47 71 22 17 00"
+  },
+  {
+    "id": "dc11791",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11791",
+    "name": "Hotel Continental",
+    "street": "Stortingsgata 24/26",
+    "extended": "",
+    "locality": "0161 Oslo",
+    "tel": " +47 48990907"
+  },
+  {
+    "id": "dc11438",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11438",
+    "name": "Hotel Union Geiranger",
+    "street": "Geirangervegen 100",
+    "extended": "",
+    "locality": "6216 Geiranger",
+    "tel": " +47 70268300"
+  },
+  {
+    "id": "dc1550",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1550",
+    "name": "Hotel Union Øye",
+    "street": "Norangsfjorden",
+    "extended": "",
+    "locality": "6196 Norangsfjorden",
+    "tel": " +47 90366349"
+  },
+  {
+    "id": "dc19391",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19391",
+    "name": "Hotell Frøya",
+    "street": "Rådhusgata 10",
+    "extended": "",
+    "locality": "7260 Sistranda",
+    "tel": " +47 72 46 45 00"
+  },
+  {
+    "id": "dc20988",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20988",
+    "name": "Hotell Refsnes Gods",
+    "street": "5 Godset",
+    "extended": "",
+    "locality": "1518 Moss",
+    "tel": " +47 69 27 83 00"
+  },
+  {
+    "id": "dc14242",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14242",
+    "name": "IKEA Ringsaker",
+    "street": "Krokstadvegen 4",
+    "extended": "",
+    "locality": "2324 Furnes",
+    "tel": " +47 81 54 40 00"
+  },
+  {
+    "id": "dc16433",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16433",
+    "name": "Jacob's Holtet",
+    "street": "Ekebergveien 145",
+    "extended": "",
+    "locality": "1178 Oslo",
+    "tel": " +47 23 18 01 00"
+  },
+  {
+    "id": "dc16380",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16380",
+    "name": "Kronen Gaard Hotell",
+    "street": "Lutsiveien 70",
+    "extended": "",
+    "locality": "4309 Sandnes",
+    "tel": " +47 51 60 83 00"
+  },
+  {
+    "id": "dc1552",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1552",
+    "name": "Kviknes Hotel",
+    "street": "8 Kviknevegen",
+    "extended": "",
+    "locality": "6899 Balestrand",
+    "tel": " +47 57 69 42 00"
+  },
+  {
+    "id": "dc12262",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12262",
+    "name": "Kvitåvatn Fjellstoge",
+    "street": "398 Kvitåvatnvegen",
+    "extended": "",
+    "locality": "3660 Kvitåvatn",
+    "tel": " +47 35 09 20 40"
+  },
+  {
+    "id": "dc29488",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29488",
+    "name": "Lille Chili Restaurant",
+    "street": "Veiskillet - E75",
+    "extended": "",
+    "locality": "9802 Vestre Jakobselv",
+    "tel": " +47 93064001"
+  },
+  {
+    "id": "dc17594",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17594",
+    "name": "Lindesnes Havhotell",
+    "street": "Lindesnes Havhotell",
+    "extended": "",
+    "locality": "4521 Lindesnes",
+    "tel": " +47 38 60 08 00"
+  },
+  {
+    "id": "dc47452",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47452",
+    "name": "Livsstilsenteret Bekkjarvik",
+    "street": "Storebøvegen 50 , 53",
+    "extended": "",
+    "locality": "5392 Storebø",
+    "tel": " + 47 41571124"
+  },
+  {
+    "id": "dc29105",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29105",
+    "name": "Livsstilssenteret Storebø",
+    "street": "Rv546 840",
+    "extended": "",
+    "locality": "5392 Storebø",
+    "tel": " +47 95527971"
+  },
+  {
+    "id": "dc36423",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36423",
+    "name": "Lyngseidet Gjestegård",
+    "street": "Kjosveien 14",
+    "extended": "",
+    "locality": "9060 Lyngseidet",
+    "tel": " +47 92856221"
+  },
+  {
+    "id": "dc24739",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24739",
+    "name": "Montebelloe Camping & Turistcenter",
+    "street": "Grensevegen , 2",
+    "extended": "",
+    "locality": "2240 Magnor",
+    "tel": " +47 62837233"
+  },
+  {
+    "id": "dc14449",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14449",
+    "name": "Myrkdalen Hotel",
+    "street": "Klypeteigane",
+    "extended": "",
+    "locality": "5713 Myrkdalen",
+    "tel": " +47 47 47 16 00"
+  },
+  {
+    "id": "dc23366",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23366",
+    "name": "Nordre Ekre Gardshotell og restaurant",
+    "street": "Heidalsvegen 1265",
+    "extended": "",
+    "locality": "2677 Nedre Heidal",
+    "tel": " +47 61 23 41 13"
+  },
+  {
+    "id": "dc1491",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1491",
+    "name": "Norefjell Ski & Spa",
+    "street": "Bøeseter",
+    "extended": "",
+    "locality": "3536 Norefjell",
+    "tel": " +47 32 14 82 00"
+  },
+  {
+    "id": "dc19960",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19960",
+    "name": "OSA-BU",
+    "street": "Suldalsvegen 1682",
+    "extended": "",
+    "locality": "4237 SULDALSOSEN",
+    "tel": " +47 52 79 92 60"
+  },
+  {
+    "id": "dc20860",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20860",
+    "name": "Olderfjord Hotell Russenes Camping",
+    "street": "E69",
+    "extended": "",
+    "locality": "9713 Russenes",
+    "tel": " +47 78 46 37 11"
+  },
+  {
+    "id": "dc22788",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22788",
+    "name": "Park Hotel Halden",
+    "street": "Marcus Thranesgate 30",
+    "extended": "",
+    "locality": "1776 Halden",
+    "tel": " +47 69211500"
+  },
+  {
+    "id": "dc36916",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36916",
+    "name": "Parkhallen Parkering",
+    "street": "Kongensgate 39",
+    "extended": "",
+    "locality": "8514 Narvik",
+    "tel": " +47 76977280"
+  },
+  {
+    "id": "dc12158",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12158",
+    "name": "Pollfoss Hotell",
+    "street": "Skjåkvegen 3484",
+    "extended": "",
+    "locality": "2690 Skjåk",
+    "tel": " +47 61214700"
+  },
+  {
+    "id": "dc15861",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15861",
+    "name": "Quality Hotel Grand Kristiansund",
+    "street": "Bernstorffstredet 1",
+    "extended": "",
+    "locality": "6509 Kristiansund",
+    "tel": " +47 71 57 13 00"
+  },
+  {
+    "id": "dc17899",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17899",
+    "name": "Quality Hotel Vøringfoss",
+    "street": "Ostangvegen 6A",
+    "extended": "",
+    "locality": "5783 Eidfjord",
+    "tel": " +47 53 67 41 00"
+  },
+  {
+    "id": "dc17930",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17930",
+    "name": "Quality Straand Hotel",
+    "street": "Kviteseidvegen 1698",
+    "extended": "",
+    "locality": "3853 Vrådal",
+    "tel": " +47 35 06 90 00"
+  },
+  {
+    "id": "dc11840",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11840",
+    "name": "Radisson Blu Mountain Resort & Residences, Trysil",
+    "street": "Fageråsen",
+    "extended": "",
+    "locality": "2420 Trysil",
+    "tel": " +47 62 44 93 00"
+  },
+  {
+    "id": "dc1166",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1166",
+    "name": "Radisson Blu Plaza Hotel, Oslo",
+    "street": "3 Sonja Henies plass",
+    "extended": "",
+    "locality": "0185 Oslo",
+    "tel": " +47 47202570"
+  },
+  {
+    "id": "dc1093",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1093",
+    "name": "Radisson Blu Resort Trysil",
+    "street": "Hotellvegen",
+    "extended": "",
+    "locality": "2420 Trysil",
+    "tel": " +47 62 44 90 00"
+  },
+  {
+    "id": "dc28309",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28309",
+    "name": "Radisson Blu Royal Hotel",
+    "street": "Løkkeveien 26",
+    "extended": "",
+    "locality": "4002 Stavanger",
+    "tel": " +47 51766000"
+  },
+  {
+    "id": "dc16421",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16421",
+    "name": "Ranten Hotel",
+    "street": "Øvre Ranten 5",
+    "extended": "",
+    "locality": "3540 Nesbyen",
+    "tel": " +47 32 07 28 00"
+  },
+  {
+    "id": "dc17593",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17593",
+    "name": "Rosfjord Strandhotell",
+    "street": "Rosnesveien 25",
+    "extended": "",
+    "locality": "4580 Lyngdal",
+    "tel": " +47 38 34 01 00"
+  },
+  {
+    "id": "dc20932",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20932",
+    "name": "Røisheim Hotell",
+    "street": "Sognefjellsvegen 1526",
+    "extended": "",
+    "locality": "2687 Lom",
+    "tel": " +47 61212031"
+  },
+  {
+    "id": "dc21013",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21013",
+    "name": "Røros Hotell",
+    "street": "Ann-Magritts vei",
+    "extended": "",
+    "locality": "7374 Røros",
+    "tel": " +47 72 40 80 00"
+  },
+  {
+    "id": "dc1520",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1520",
+    "name": "Scandic Ishavshotel",
+    "street": "Fredrik Langesgate 2",
+    "extended": "",
+    "locality": "9008 Tromsø",
+    "tel": " +47 77666400"
+  },
+  {
+    "id": "dc35583",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35583",
+    "name": "Scandic Kokstad",
+    "street": "Kokstadflaten 2",
+    "extended": "",
+    "locality": "5257 Bergen",
+    "tel": " +47 21614400"
+  },
+  {
+    "id": "dc1628",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1628",
+    "name": "Scandic Kristiansund",
+    "street": "Storgata 41",
+    "extended": "",
+    "locality": "6508 Kristiansund",
+    "tel": " +47 71571200"
+  },
+  {
+    "id": "dc1568",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1568",
+    "name": "Scandic Nordfjord",
+    "street": "Sandplassen 1",
+    "extended": "",
+    "locality": "6770 Nordfjordeid",
+    "tel": " +47 57 86 33 33"
+  },
+  {
+    "id": "dc14335",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14335",
+    "name": "Scandic Svolvær",
+    "street": "Lamholmen",
+    "extended": "",
+    "locality": "8301 Svolvær",
+    "tel": " +47 76 07 22 22"
+  },
+  {
+    "id": "dc24170",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24170",
+    "name": "Sjøholt Camping",
+    "street": "Ryssebøen 53",
+    "extended": "",
+    "locality": "6240 Ørskog",
+    "tel": " +47 91 32 91 01"
+  },
+  {
+    "id": "dc22525",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22525",
+    "name": "Skagen Hotel",
+    "street": "Nyholmsgata 11",
+    "extended": "",
+    "locality": "8005 Bodø",
+    "tel": " +47 75519100"
+  },
+  {
+    "id": "dc21388",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21388",
+    "name": "Skaidi Hotel",
+    "street": "Skaidi",
+    "extended": "",
+    "locality": "9620 Kvalsund",
+    "tel": " +47 78 41 55 00"
+  },
+  {
+    "id": "dc1490",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1490",
+    "name": "Skarsnuten Hotel",
+    "street": "Holdeskaret 25",
+    "extended": "",
+    "locality": "3560 Hemsedal",
+    "tel": " +47 32 06 17 00"
+  },
+  {
+    "id": "dc20893",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20893",
+    "name": "Skjåk Turistheim",
+    "street": "Skjåkvegen 1184",
+    "extended": "",
+    "locality": "2698 Skjåk",
+    "tel": " +47 61 21 40 24"
+  },
+  {
+    "id": "dc29418",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29418",
+    "name": "Skydive Oslo",
+    "street": "Oestre Jernskallen 215",
+    "extended": "",
+    "locality": "2460 Osen",
+    "tel": " +47 91641801"
+  },
+  {
+    "id": "dc12234",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12234",
+    "name": "Sola Strand Hotel",
+    "street": "27 Axel Lunds veg",
+    "extended": "",
+    "locality": "4050 Sola",
+    "tel": " +47 51 94 30 00"
+  },
+  {
+    "id": "dc21659",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21659",
+    "name": "Solsiden Brygge Rorbuer",
+    "street": "Moloveien 41",
+    "extended": "",
+    "locality": "8373 Ballstad",
+    "tel": " +47 40 46 33 33"
+  },
+  {
+    "id": "dc37477",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37477",
+    "name": "Son Spa",
+    "street": "Hollandveien 30",
+    "extended": "",
+    "locality": "1555 Son",
+    "tel": " +47 64984800"
+  },
+  {
+    "id": "dc16066",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16066",
+    "name": "Spidsbergseter Resort Rondane",
+    "street": "Flaksjølivegen 82",
+    "extended": "",
+    "locality": "2632 Venabygd",
+    "tel": " +47 61 28 40 00"
+  },
+  {
+    "id": "dc14674",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14674",
+    "name": "Storefjell Resort Hotel",
+    "street": "Einarsetvegen 401",
+    "extended": "",
+    "locality": "3550 Gol i Hallingdal",
+    "tel": " +47 32 07 80 00"
+  },
+  {
+    "id": "dc30075",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30075",
+    "name": "Storfjord Hotel",
+    "street": "Øvre Glomset",
+    "extended": "",
+    "locality": "6260 Skodje",
+    "tel": " +47 70274922"
+  },
+  {
+    "id": "dc17461",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17461",
+    "name": "Storhall Karmøy AS",
+    "street": "Slettavegen 130",
+    "extended": "",
+    "locality": "4276 Veavägen",
+    "tel": " +47 91 35 83 89"
+  },
+  {
+    "id": "dc16438",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16438",
+    "name": "Strand Hotel Fevik",
+    "street": "Nedre Hausland 80",
+    "extended": "",
+    "locality": "4870 Fevik",
+    "tel": " +47 37 25 00 00"
+  },
+  {
+    "id": "dc17194",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17194",
+    "name": "Sundvolden Hotel",
+    "street": "Dronningveien 2",
+    "extended": "",
+    "locality": "3531 Krokkleiva",
+    "tel": " +47 32 16 21 00"
+  },
+  {
+    "id": "dc1674",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1674",
+    "name": "Sølvgarden Hotell og Feriesenter",
+    "street": "Rv.9",
+    "extended": "",
+    "locality": "4748 Rysstad",
+    "tel": " +47 37 93 61 30"
+  },
+  {
+    "id": "dc29479",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29479",
+    "name": "Sømna Kro og Gjestegård",
+    "street": "Kirkeveien 2",
+    "extended": "",
+    "locality": "8920 Sømna",
+    "tel": " +47 75029460"
+  },
+  {
+    "id": "dc19059",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19059",
+    "name": "Telemark Camping & Inn",
+    "street": "Fyresdalvegen 622",
+    "extended": "",
+    "locality": "3870 Fyresdal",
+    "tel": " +47 95 01 82 98"
+  },
+  {
+    "id": "dc14212",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14212",
+    "name": "Thon Hotel Halden",
+    "street": "1 Langbrygga",
+    "extended": "",
+    "locality": "1767 Halden",
+    "tel": " +47 69 21 33 00"
+  },
+  {
+    "id": "dc14211",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14211",
+    "name": "Thon Hotel Linne",
+    "street": "Statsråd Mathiesens vei 12",
+    "extended": "",
+    "locality": "0598 Oslo",
+    "tel": " +47 23 17 00 00"
+  },
+  {
+    "id": "dc14213",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14213",
+    "name": "Thon Hotel Vettre",
+    "street": "Konglungveien 201",
+    "extended": "",
+    "locality": "1392 Vettre",
+    "tel": " +47 66 90 22 11"
+  },
+  {
+    "id": "dc19304",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19304",
+    "name": "Tinnsjø Kro & Camping AS",
+    "street": "4 Nedre veg",
+    "extended": "",
+    "locality": "3658 Miland",
+    "tel": " +47 35 09 05 85"
+  },
+  {
+    "id": "dc19450",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19450",
+    "name": "Trolltunga Guesthouse",
+    "street": "Mjøstølsvegen",
+    "extended": "",
+    "locality": "5770 Tyssedal",
+    "tel": " *47 96 91 45 70"
+  },
+  {
+    "id": "dc22463",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22463",
+    "name": "Utne Hotel",
+    "street": "Utne Sentrum",
+    "extended": "",
+    "locality": "5778 Utne",
+    "tel": " +47 53 66 64 00"
+  },
+  {
+    "id": "dc24171",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24171",
+    "name": "Valldal Camping",
+    "street": "47 Urikamben",
+    "extended": "",
+    "locality": "6210 Valldal",
+    "tel": " +47 98 88 72 56"
+  },
+  {
+    "id": "dc1493",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc1493",
+    "name": "Vestlia Resort",
+    "street": "81 Bakkestølvegen",
+    "extended": "",
+    "locality": "3580 Geilo",
+    "tel": " +47 32 08 72 00"
+  },
+  {
+    "id": "dc18895",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18895",
+    "name": "Viken Hotell",
+    "street": "Dillingøyveien 44",
+    "extended": "",
+    "locality": "1591 Sperrebotn",
+    "tel": " +47 94 25 55 50"
+  },
+  {
+    "id": "dc29337",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29337",
+    "name": "Villa Åmot",
+    "street": "Åmot gard",
+    "extended": "",
+    "locality": "6977 Bygstad",
+    "tel": " +47 97 16 07 04"
+  },
+  {
+    "id": "dc22998",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22998",
+    "name": "Volsdalen Camping",
+    "street": "1 Sjömannsvegen",
+    "extended": "",
+    "locality": "6008 Ålesund",
+    "tel": " +47 70 12 58 90"
+  },
+  {
+    "id": "dc28557",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28557",
+    "name": "Vågslidtun Hotell AS",
+    "street": "Vågslidtun 19",
+    "extended": "",
+    "locality": "3895 Edland",
+    "tel": " +47 35070585"
+  },
+  {
+    "id": "dc28790",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28790",
+    "name": "Væktarstua",
+    "street": "Stugudalveien",
+    "extended": "",
+    "locality": "7590 Tydal",
+    "tel": " +47 73813100"
+  },
+  {
+    "id": "dc17522",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17522",
+    "name": "Wadahl Høgfjellshotell",
+    "street": "Peer Gynt vegen",
+    "extended": "",
+    "locality": "2646 Gålå",
+    "tel": " +47 61 29 75 00"
+  },
+  {
+    "id": "dc25522",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25522",
+    "name": "Åmnes Camping",
+    "street": "Åmnesveien 157 , 8170",
+    "extended": "",
+    "locality": "8170 Engavågen",
+    "tel": " +47 41528522"
+  }
+]
