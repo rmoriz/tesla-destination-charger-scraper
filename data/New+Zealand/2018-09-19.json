@@ -54,15 +54,6 @@
     "tel": "+64 7-834 0010"
   },
   {
-    "id": "dc50885",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50885",
-    "name": "Annandale Villas",
-    "street": "",
-    "extended": "",
-    "locality": "",
-    "tel": "+64 3 3046 841"
-  },
-  {
     "id": "dc33347",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33347",
     "name": "Aro Ha Wellness Retreat",
@@ -398,7 +389,7 @@
   {
     "id": "dc29743",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29743",
-    "name": "Kings on Peace Apartments",
+    "name": "Kings on Peace",
     "street": "",
     "extended": "",
     "locality": "",
@@ -675,15 +666,6 @@
     "tel": "+64 6 306 9122"
   },
   {
-    "id": "dc24764",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24764",
-    "name": "The Crown Hotel Napier",
-    "street": "",
-    "extended": "",
-    "locality": "",
-    "tel": "+64 6 833 8300"
-  },
-  {
     "id": "dc51458",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc51458",
     "name": "The Crown Hotel Napier",
@@ -691,6 +673,15 @@
     "extended": "",
     "locality": "",
     "tel": "+64 0 6833 8300"
+  },
+  {
+    "id": "dc24764",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24764",
+    "name": "The Crown Hotel Napier",
+    "street": "",
+    "extended": "",
+    "locality": "",
+    "tel": "+64 6 833 8300"
   },
   {
     "id": "dc41075",

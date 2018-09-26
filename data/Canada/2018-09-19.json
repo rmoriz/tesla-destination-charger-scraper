@@ -1827,15 +1827,6 @@
     "tel": "(416) 595-1975"
   },
   {
-    "id": "dc41670",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41670",
-    "name": "City of Barrie - Barrie Public Library",
-    "street": "60 Worsley St",
-    "extended": "",
-    "locality": "Barrie, Ontario L4M 1L6",
-    "tel": "(705) 728-1010"
-  },
-  {
     "id": "dc39366",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39366",
     "name": "City of Barrie - Collier Street Parkade",
@@ -1847,10 +1838,10 @@
   {
     "id": "dc46148",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46148",
-    "name": "City of Barrie - Heritage Park",
-    "street": "6 Simcoe St",
+    "name": "City of Barrie - Heritage Park (Waterfront Trail)",
+    "street": "1 Lakeshore Dr",
     "extended": "",
-    "locality": "Barrie, ON ON L4M 1L6",
+    "locality": "Barrie, Ontario L4M 1L6",
     "tel": "(705) 726-4242"
   },
   {
@@ -2511,21 +2502,21 @@
     "tel": "(905) 468-9463"
   },
   {
-    "id": "dc12278",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12278",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Toronto, M6S 2W1",
-    "tel": "(877) 798-3752"
-  },
-  {
     "id": "dc18742",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18742",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Toronto, M6J 2V2",
+    "tel": "(877) 798-3752"
+  },
+  {
+    "id": "dc12278",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12278",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Toronto, M6S 2W1",
     "tel": "(877) 798-3752"
   },
   {

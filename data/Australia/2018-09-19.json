@@ -261,15 +261,6 @@
     "tel": "+61 488 638488"
   },
   {
-    "id": "dc50290",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50290",
-    "name": "Banksia Park cottages",
-    "street": "114 Riadiata Riad",
-    "extended": "",
-    "locality": "Kangaroo Valley NSW 2577",
-    "tel": "+61 4 0537 9392"
-  },
-  {
     "id": "dc32309",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32309",
     "name": "Bankstown Sports Club",
@@ -511,15 +502,6 @@
     "extended": "",
     "locality": "Dubbo NSW 2830",
     "tel": "+61 2 6882 0900"
-  },
-  {
-    "id": "dc50356",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50356",
-    "name": "Best Western PLUS Apollo International",
-    "street": "290 Pacific Highway",
-    "extended": "",
-    "locality": "Charlestown NSW 2290",
-    "tel": "+61 2 4943 6733"
   },
   {
     "id": "dc52638",
@@ -1843,15 +1825,6 @@
     "extended": "",
     "locality": "Ravenhall VIC 3023",
     "tel": "+61 1300 448 658"
-  },
-  {
-    "id": "dc56354",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc56354",
-    "name": "Hidden Creek Winery",
-    "street": "2271 Eukey Road",
-    "extended": "",
-    "locality": "Ballandean QLD 4382",
-    "tel": "+61 7 4684 1383"
   },
   {
     "id": "dc17320",
@@ -3438,12 +3411,21 @@
     "tel": "+61 8 9838 1050"
   },
   {
-    "id": "dc33011",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33011",
+    "id": "dc14394",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14394",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Bowral NSW 2576",
+    "locality": "Broken Hill NSW 2880",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc12798",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12798",
+    "name": "Rental Property",
+    "street": "Available via website.com",
+    "extended": "",
+    "locality": "Noosa Heads QLD 4567",
     "tel": "1 800 64 6952"
   },
   {
@@ -3456,33 +3438,6 @@
     "tel": "1 800 64 6952"
   },
   {
-    "id": "dc40699",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40699",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Byron Bay NSW 2481",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc23608",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23608",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Lutwyche QLD 4030",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc47775",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47775",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Freshwater Creek VIC 3217",
-    "tel": "1 800 64 6952"
-  },
-  {
     "id": "dc25697",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25697",
     "name": "Rental Property",
@@ -3492,111 +3447,12 @@
     "tel": "1 800 64 6952"
   },
   {
-    "id": "dc14394",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14394",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Broken Hill NSW 2880",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc35779",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35779",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Albany WA 6330",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc28422",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28422",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Johanna VIC 3238",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc42228",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42228",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Albany WA 6330",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc50210",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50210",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Albany WA 6330",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc14393",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14393",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Kangaroo Valley NSW 2577",
-    "tel": "1 800 64 6952"
-  },
-  {
     "id": "dc23828",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23828",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
     "locality": "Lakehaven NSW 2263",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc18724",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18724",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Lake Moogerah QLD 4309",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc12558",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12558",
-    "name": "Rental Property",
-    "street": "Available via website.com",
-    "extended": "",
-    "locality": "Alberton VIC 3971",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc54846",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc54846",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Sanctuary Cove QLD 4212",
-    "tel": "+61 7 5699 9131"
-  },
-  {
-    "id": "dc12798",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12798",
-    "name": "Rental Property",
-    "street": "Available via website.com",
-    "extended": "",
-    "locality": "Noosa Heads QLD 4567",
-    "tel": "1 800 64 6952"
-  },
-  {
-    "id": "dc22342",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22342",
-    "name": "Rental Property",
-    "street": "Available via website",
-    "extended": "",
-    "locality": "Sandstone Point QLD 4511",
     "tel": "1 800 64 6952"
   },
   {
@@ -3618,6 +3474,24 @@
     "tel": "1 800 64 6952"
   },
   {
+    "id": "dc23608",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23608",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Lutwyche QLD 4030",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc18724",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18724",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Lake Moogerah QLD 4309",
+    "tel": "1 800 64 6952"
+  },
+  {
     "id": "dc18723",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18723",
     "name": "Rental Property",
@@ -3627,12 +3501,66 @@
     "tel": "1 800 64 6952"
   },
   {
-    "id": "dc34917",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34917",
+    "id": "dc12782",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12782",
+    "name": "Rental Property",
+    "street": "Available via website.com",
+    "extended": "",
+    "locality": "Forbes NSW 2871",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc40699",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40699",
     "name": "Rental Property",
     "street": "Available via website",
     "extended": "",
-    "locality": "Dover TAS 7117",
+    "locality": "Byron Bay NSW 2481",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc28422",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28422",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Johanna VIC 3238",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc50210",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50210",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Albany WA 6330",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc42228",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42228",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Albany WA 6330",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc14393",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc14393",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Kangaroo Valley NSW 2577",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc35779",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc35779",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Albany WA 6330",
     "tel": "1 800 64 6952"
   },
   {
@@ -3645,12 +3573,57 @@
     "tel": "+61 408 951 071"
   },
   {
-    "id": "dc12782",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12782",
+    "id": "dc54846",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc54846",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Sanctuary Cove QLD 4212",
+    "tel": "+61 7 5699 9131"
+  },
+  {
+    "id": "dc33011",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33011",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Bowral NSW 2576",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc22342",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22342",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Sandstone Point QLD 4511",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc12558",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc12558",
     "name": "Rental Property",
     "street": "Available via website.com",
     "extended": "",
-    "locality": "Forbes NSW 2871",
+    "locality": "Alberton VIC 3971",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc34917",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34917",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Dover TAS 7117",
+    "tel": "1 800 64 6952"
+  },
+  {
+    "id": "dc47775",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47775",
+    "name": "Rental Property",
+    "street": "Available via website",
+    "extended": "",
+    "locality": "Freshwater Creek VIC 3217",
     "tel": "1 800 64 6952"
   },
   {
@@ -4975,15 +4948,6 @@
     "extended": "",
     "locality": "Wallaroo SA 5556",
     "tel": "+61 8 8823 2531"
-  },
-  {
-    "id": "dc36557",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36557",
-    "name": "Wallaroo Marina Apartments",
-    "street": "11 Heritage Drive",
-    "extended": "",
-    "locality": "Wallaroo SA 5556",
-    "tel": "+61 8 8823 4068"
   },
   {
     "id": "dc25756",

@@ -8697,9 +8697,9 @@
     "id": "dc37526",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37526",
     "name": "Morrison-Clark Historic Inn & Restaurant",
-    "street": "1011 L St NW",
+    "street": "1015 L St NW",
     "extended": "",
-    "locality": "Washington, DC 20001",
+    "locality": "Washington, District of Columbia 20001",
     "tel": "(202) 898-1200"
   },
   {
@@ -11491,15 +11491,6 @@
     "extended": "",
     "locality": "Blue Ridge, Georgia 30513",
     "tel": "(706) 661-7575"
-  },
-  {
-    "id": "dc27153",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27153",
-    "name": "Brasstown Valley Resort and Spa",
-    "street": "6321 US-76",
-    "extended": "",
-    "locality": "Young Harris, Georgia 30582",
-    "tel": "(706) 379-9900"
   },
   {
     "id": "dc46082",
@@ -14391,15 +14382,6 @@
     "tel": "(504) 525-2500"
   },
   {
-    "id": "dc24329",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24329",
-    "name": "Southern Hotel",
-    "street": "428 E Boston St #200",
-    "extended": "",
-    "locality": "Covington, Louisiana 70433",
-    "tel": "(844) 866-1907"
-  },
-  {
     "id": "dc24483",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24483",
     "name": "Staybridge Suites Covington",
@@ -16146,15 +16128,6 @@
     "tel": "(507) 388-1234"
   },
   {
-    "id": "dc49013",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49013",
-    "name": "Courtyard by Marriott Maple Grove / Arbor Lakes",
-    "street": "11871 Fountains Wy",
-    "extended": "",
-    "locality": "Maple Grove, Minnesota 55369",
-    "tel": "(763) 425-5355"
-  },
-  {
     "id": "dc259",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc259",
     "name": "Crowne Plaza Minneapolis Northstar Downtown",
@@ -16351,15 +16324,6 @@
     "extended": "",
     "locality": "Minneapolis, MN 55403",
     "tel": "(612) 370-1234"
-  },
-  {
-    "id": "dc23478",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23478",
-    "name": "Invictus Brewing Company",
-    "street": "2025 105th Ave NE",
-    "extended": "",
-    "locality": "Blaine, Minnesota 55449",
-    "tel": "(763) 208-3063"
   },
   {
     "id": "dc34418",
@@ -17575,15 +17539,6 @@
     "extended": "",
     "locality": "Reno, NV 89523",
     "tel": "(775) 470-5555"
-  },
-  {
-    "id": "dc57013",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc57013",
-    "name": "Hampton Inn & Suites Reno/Sparks",
-    "street": "200 Legends Bay Dr",
-    "extended": "",
-    "locality": "Sparks, Nevada 89434",
-    "tel": "(775) 351-2220"
   },
   {
     "id": "dc15723",
@@ -22815,15 +22770,6 @@
     "tel": "(701) 478-5333"
   },
   {
-    "id": "dc37617",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37617",
-    "name": "Prairie Knights Casino & Resort",
-    "street": "7932 Hwy 24",
-    "extended": "",
-    "locality": "Fort Yates, North Dakota 58538",
-    "tel": "(800) 425-8277"
-  },
-  {
     "id": "dc483",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc483",
     "name": "21c Hotel Cincinnati",
@@ -23454,15 +23400,6 @@
     "tel": "(740) 599-6107"
   },
   {
-    "id": "dc27886",
-    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27886",
-    "name": "TownePlace Suites Marriott Solon Ohio",
-    "street": "6040 Enterprise Pkwy",
-    "extended": "",
-    "locality": "Solon, Ohio 44139",
-    "tel": "(440) 394-1270"
-  },
-  {
     "id": "dc26628",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26628",
     "name": "Unusual Junction",
@@ -23628,9 +23565,9 @@
     "id": "dc32749",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32749",
     "name": "Muskogee-Davis Regional Airport (Davis Field)",
-    "street": "1201 Sabre St",
+    "street": "1201 Sabre St #1",
     "extended": "",
-    "locality": "Muskogee, OK 74403",
+    "locality": "Muskogee, Oklahoma 74403",
     "tel": "(918) 682-4101"
   },
   {
