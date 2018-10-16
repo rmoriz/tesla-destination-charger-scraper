@@ -72,6 +72,15 @@
     "tel": ""
   },
   {
+    "id": "dc29305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29305",
+    "name": "China Resources Building",
+    "street": "26 Harbour Road",
+    "extended": "",
+    "locality": "Wan Chai",
+    "tel": "2828-5666"
+  },
+  {
     "id": "dc23581",
     "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23581",
     "name": "City Garden Hotel",
@@ -133,6 +142,15 @@
     "extended": "",
     "locality": "Kowloon Bay",
     "tel": "2620-3388"
+  },
+  {
+    "id": "dc36585",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36585",
+    "name": "FTLife Tower",
+    "street": "18 Sheung Yuet Rd",
+    "extended": "",
+    "locality": "Kowloon Bay",
+    "tel": "8201-1211"
   },
   {
     "id": "dc10991",
