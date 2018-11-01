@@ -29,7 +29,7 @@
     }
   },
   "scripts": {
-    "fetch": "node index.js Andorra Australia Austria Belgium Bosnia+and+Herzegovina Canada China Croatia Czech+Republic Denmark Estonia Finland France Germany Gibraltar Hong+Kong+S.A.R.%2C+China Hungary Ireland Italy Japan Jordan Liechtenstein Lithuania Luxembourg Macau Mexico Netherlands New+Zealand Norway Poland Portugal San+Marino Serbia Slovakia Slovenia South+Korea Spain Sweden Switzerland Taiwan United+Arab+Emirates United+Kingdom United+States ",
+    "fetch": "node index.js Andorra Australia Austria Belgium Bosnia+and+Herzegovina Canada China Croatia Czech+Republic Denmark Estonia Finland France Germany Gibraltar Hong+Kong+S.A.R.%2C+China Hungary Ireland Italy Japan Jordan Liechtenstein Lithuania Luxembourg Macao+S.A.R.%2C+China Mexico Netherlands New+Zealand Norway Poland Portugal San+Marino Serbia Slovakia Slovenia South+Korea Spain Sweden Switzerland Taiwan United+Arab+Emirates United+Kingdom United+States ",
     "lint": "eslint index.js --fix --format table"
   }
 }
