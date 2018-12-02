@@ -1,0 +1,434 @@
+[
+  {
+    "id": "dc21219",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21219",
+    "name": "Apartamenty Cosmopolitan",
+    "street": "Twarda 4",
+    "extended": "",
+    "locality": "00-105 Warszawa",
+    "tel": " +48 6968 42770"
+  },
+  {
+    "id": "dc38204",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38204",
+    "name": "Art Hotel",
+    "street": "Kiełbaśnicza 20",
+    "extended": "",
+    "locality": "50-110 Wroclaw",
+    "tel": " +48 7178 77100"
+  },
+  {
+    "id": "dc56818",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc56818",
+    "name": "Aura Centrum Olsztyna",
+    "street": "Al. Pilsudskiego 16",
+    "extended": "",
+    "locality": "10-576 Olsztyn",
+    "tel": " +48 8967 85080"
+  },
+  {
+    "id": "dc41260",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc41260",
+    "name": "Blue Mountain Resort",
+    "street": "Ul. 1-go Maja 51",
+    "extended": "",
+    "locality": "58-580 Szklarska Poreba",
+    "tel": " +48 7561 99299"
+  },
+  {
+    "id": "dc50426",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc50426",
+    "name": "Boulevard Ustronie Morskie",
+    "street": "Kosciuszki 3 A-U",
+    "extended": "",
+    "locality": "78-111 Ustronie Morskie",
+    "tel": " +48 6631 08108"
+  },
+  {
+    "id": "dc46879",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc46879",
+    "name": "Chocholowskie Termy",
+    "street": "Chocholow 400",
+    "extended": "",
+    "locality": "34-513 Chocholow",
+    "tel": " +48 7813 00301"
+  },
+  {
+    "id": "dc49236",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49236",
+    "name": "Cristal Resort by Zdrojowa",
+    "street": "Kollataja 4A",
+    "extended": "",
+    "locality": "58-580 Szklarska Poreba",
+    "tel": " +48 7561 06888"
+  },
+  {
+    "id": "dc37789",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37789",
+    "name": "Diune Hotel & Resort",
+    "street": "Sulkowskiego 4",
+    "extended": "",
+    "locality": "78-100 Kolobrzeg",
+    "tel": " +48 9435 55600 "
+  },
+  {
+    "id": "dc33602",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33602",
+    "name": "Galeria Polnocna",
+    "street": "Swiatowida 17",
+    "extended": "",
+    "locality": "03-144 Warszawa",
+    "tel": " + 48 2281 28484 "
+  },
+  {
+    "id": "dc17228",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17228",
+    "name": "H15 Boutique Hotel",
+    "street": "Poznanska 15",
+    "extended": "",
+    "locality": "00-680 Warszawa",
+    "tel": " +48 22 553 87 00"
+  },
+  {
+    "id": "dc39572",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39572",
+    "name": "Heron Live Hotel",
+    "street": "Sienna 104",
+    "extended": "",
+    "locality": "33-318 Grodek nad Dunajcem",
+    "tel": " +48 1888 88500"
+  },
+  {
+    "id": "dc33866",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33866",
+    "name": "Hilton Gdansk Hotel",
+    "street": "Targ Rybny 1",
+    "extended": "",
+    "locality": "80-838 Gdansk",
+    "tel": " +48 5877 87100"
+  },
+  {
+    "id": "dc21567",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21567",
+    "name": "Holiday Inn Warszawa Jozefow",
+    "street": "Telimeny 1",
+    "extended": "",
+    "locality": "05-420 Jozefow",
+    "tel": " +48 2277 83000"
+  },
+  {
+    "id": "dc47008",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47008",
+    "name": "Hotel & SPA Czarny Gron",
+    "street": "Osiedle Praciaki 91",
+    "extended": "",
+    "locality": "34-125 Rzyki",
+    "tel": " +48 3350 65100"
+  },
+  {
+    "id": "dc33171",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33171",
+    "name": "Hotel DeSilva Premium Opole",
+    "street": "Ul. Leona Powolnego 10",
+    "extended": "",
+    "locality": "46-020 Opole",
+    "tel": " +48 7754 07000"
+  },
+  {
+    "id": "dc43786",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc43786",
+    "name": "Hotel Gleboczek Vine Resort & SPA",
+    "street": "Wielki Gleboczek 1",
+    "extended": "",
+    "locality": "87-313 Brzozie",
+    "tel": " +48 2238 05900"
+  },
+  {
+    "id": "dc38823",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38823",
+    "name": "Hotel Kazimierzowka",
+    "street": "Gory 10",
+    "extended": "",
+    "locality": "24-120 Kazimierz Dolny",
+    "tel": " +48 8188 20331"
+  },
+  {
+    "id": "dc25385",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25385",
+    "name": "Hotel Mazurek",
+    "street": "Maja 30 3, 62-600 KOLO, Poland",
+    "extended": "",
+    "locality": "62-600 KOLO",
+    "tel": " +48 6322 32264"
+  },
+  {
+    "id": "dc54590",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc54590",
+    "name": "Hotel Medical Spa Unitral",
+    "street": "Piastow 6, 76-032 Mielno, Poland",
+    "extended": "",
+    "locality": "76-032 Mielno",
+    "tel": " +48 9431 68100"
+  },
+  {
+    "id": "dc33170",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33170",
+    "name": "Hotel Mercure Opole",
+    "street": "Ul. Krakowska 57-59",
+    "extended": "",
+    "locality": "45-018 Opole",
+    "tel": " +48 7745 18100"
+  },
+  {
+    "id": "dc26841",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26841",
+    "name": "Hotel Prezydent Medical SPA & Wellness",
+    "street": "Al. inz. Leona Nowotarskiego 3",
+    "extended": "",
+    "locality": "33-380 Krynica-Zdroj",
+    "tel": " +48 184736500"
+  },
+  {
+    "id": "dc38385",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38385",
+    "name": "Hotel Spa Dr Irena Eris Krynica Zdroj",
+    "street": "Czarny Potok 30",
+    "extended": "",
+    "locality": "33-380 Krynica-Zdroj",
+    "tel": " +48 1847 23500"
+  },
+  {
+    "id": "dc38387",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38387",
+    "name": "Hotel Spa Dr Irena Eris Polanica Zdroj",
+    "street": "Debowa 19b",
+    "extended": "",
+    "locality": "57-320 Polanica-Zdroj",
+    "tel": " +48 7466 24000"
+  },
+  {
+    "id": "dc38388",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc38388",
+    "name": "Hotel Spa Dr Irena Eris Wzgorza Dylewskie",
+    "street": "Wysoka Wies 22",
+    "extended": "",
+    "locality": "14-100 Ostroda",
+    "tel": " +48 8964 71111"
+  },
+  {
+    "id": "dc58786",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc58786",
+    "name": "Hotel St. Bruno",
+    "street": "Sw. Brunona 1",
+    "extended": "",
+    "locality": "11 - 500 Gizycko",
+    "tel": " +48 8773 26500"
+  },
+  {
+    "id": "dc56977",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc56977",
+    "name": "ILONN HOTEL",
+    "street": "Szarych Szeregow 16",
+    "extended": "",
+    "locality": "60-462 Poznan",
+    "tel": " +48 6166 87575"
+  },
+  {
+    "id": "dc60624",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc60624",
+    "name": "INX Design Hotel",
+    "street": "Starowislna 91",
+    "extended": "",
+    "locality": "31-052 Krakow",
+    "tel": " +48 1235 44590"
+  },
+  {
+    "id": "dc56978",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc56978",
+    "name": "Ilonn Boutique",
+    "street": "Limanowskiego 15",
+    "extended": "",
+    "locality": "60-744 Poznan",
+    "tel": " +48 6166 87505"
+  },
+  {
+    "id": "dc60622",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc60622",
+    "name": "Krakow Valley Golf Village",
+    "street": "Paczoltowice 344",
+    "extended": "",
+    "locality": "32-065 Paczoltowice",
+    "tel": " +48 5708 83002"
+  },
+  {
+    "id": "dc37786",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37786",
+    "name": "Marine Hotel & Ultra Marine",
+    "street": "Sulkowskiego 9",
+    "extended": "",
+    "locality": "78-100 Kolobrzeg",
+    "tel": " +48 9435 34300 "
+  },
+  {
+    "id": "dc60623",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc60623",
+    "name": "Metropolis Design Hotel",
+    "street": "Wygoda 8, 31-106",
+    "extended": "",
+    "locality": "31-106 Krakow",
+    "tel": " +48 1244 69090"
+  },
+  {
+    "id": "dc19253",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19253",
+    "name": "Modry Las Golf Resort",
+    "street": "Modry Las Golf Club",
+    "extended": "",
+    "locality": "73-200 Choszczno",
+    "tel": " +48 6677 10410"
+  },
+  {
+    "id": "dc51021",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc51021",
+    "name": "Osada Sniezka",
+    "street": "Ul. Spacerowa 8 - 13",
+    "extended": "",
+    "locality": "58-508 Lomnica",
+    "tel": " +48 7561 26693"
+  },
+  {
+    "id": "dc37154",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37154",
+    "name": "Palac Wiechlice",
+    "street": "Wiechlice 45b",
+    "extended": "",
+    "locality": "67-300 Szprotawa",
+    "tel": " +48 6837 68610"
+  },
+  {
+    "id": "dc17661",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17661",
+    "name": "Park Hotel",
+    "street": "1 Plantowa",
+    "extended": "",
+    "locality": "70527 Szczecin",
+    "tel": " +48 9143 40050"
+  },
+  {
+    "id": "dc37783",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37783",
+    "name": "Parking 24H Centrum",
+    "street": "Matejki 18/18A",
+    "extended": "",
+    "locality": "70530 Szczecin",
+    "tel": " 48784002330"
+  },
+  {
+    "id": "dc37401",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37401",
+    "name": "Radisson Blu Centrum Hotel Warsaw",
+    "street": "Grzybowska 24",
+    "extended": "",
+    "locality": "00-132 Warsaw",
+    "tel": " +48 2232 18888"
+  },
+  {
+    "id": "dc37791",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37791",
+    "name": "Radisson Blu Resort",
+    "street": "Aleja Baltic Park Molo 2",
+    "extended": "",
+    "locality": "72-600 Swinoujscie",
+    "tel": " +48 9140 40701"
+  },
+  {
+    "id": "dc37787",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37787",
+    "name": "Sand Hotel",
+    "street": "Zdrojowa 3",
+    "extended": "",
+    "locality": "78-100 Kolobrzeg",
+    "tel": " +48 9435 34100 "
+  },
+  {
+    "id": "dc29004",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29004",
+    "name": "Sheraton Grand Krakow",
+    "street": "Powisle 7, 31101 Krakow, Poland",
+    "extended": "",
+    "locality": "31101 Krakow",
+    "tel": " +48 1266 21000"
+  },
+  {
+    "id": "dc20017",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20017",
+    "name": "Sheraton Poznan Hotel",
+    "street": "42803 ul. Bukowska",
+    "extended": "",
+    "locality": "60-809 Poznan",
+    "tel": " +48 61 655 20 00"
+  },
+  {
+    "id": "dc33384",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33384",
+    "name": "The Westin Warsaw",
+    "street": "Al. Jana Pawla II 21",
+    "extended": "",
+    "locality": "00-854 Warszawa",
+    "tel": " +48 2245 08000"
+  },
+  {
+    "id": "dc37864",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc37864",
+    "name": "Uniejow",
+    "street": "Henryka Sienkiewicza 137",
+    "extended": "",
+    "locality": "99-210 Uniejów",
+    "tel": " +48 6328 8628"
+  },
+  {
+    "id": "dc60620",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc60620",
+    "name": "Vienna House Amber Baltic",
+    "street": "Promenada Gwiazd 1",
+    "extended": "",
+    "locality": "72-500 Miedzyzdroje",
+    "tel": " +48 9132 28500"
+  },
+  {
+    "id": "dc42532",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42532",
+    "name": "Vienna House Andel's Cracow",
+    "street": "Pawia 3",
+    "extended": "",
+    "locality": "31154 Krakow",
+    "tel": " +48 1266 00100"
+  },
+  {
+    "id": "dc51035",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc51035",
+    "name": "Willa Poprad",
+    "street": "Rytro 306",
+    "extended": "",
+    "locality": "33-343 Rytro",
+    "tel": " +48 5015 13400"
+  },
+  {
+    "id": "dc56666",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc56666",
+    "name": "Witek Hotel & Conference Centre",
+    "street": "Handlowcow 14",
+    "extended": "",
+    "locality": "32-085 Modlniczka",
+    "tel": " +48 1266 23500"
+  },
+  {
+    "id": "dc33030",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc33030",
+    "name": "Zimowy Domek - Boutique Rooms",
+    "street": "Sosnowa 25",
+    "extended": "",
+    "locality": "59-850 Swieradow-Zdroj",
+    "tel": " +48 5399 80275"
+  }
+]
