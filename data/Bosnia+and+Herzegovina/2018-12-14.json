@@ -1,0 +1,29 @@
+[
+  {
+    "id": "dc26888",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26888",
+    "name": "Hotel Tesla",
+    "street": "25 5. Kozarske brigade",
+    "extended": "",
+    "locality": "78000 Banja Luka",
+    "tel": " +387 51 928 915"
+  },
+  {
+    "id": "dc29181",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29181",
+    "name": "Residence Inn by Marriott Sarajevo",
+    "street": "43 Skenderija",
+    "extended": "",
+    "locality": "71000 Sarajevo",
+    "tel": " +387 33 563 600"
+  },
+  {
+    "id": "dc29182",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc29182",
+    "name": "Tarcin Forest Resort & Spa - MGallery by Sofitel",
+    "street": "Vilovacka bb, Tarcin Sarajevo",
+    "extended": "",
+    "locality": "71244 Tarcin Sarajevo",
+    "tel": " +387 33 947 100"
+  }
+]
