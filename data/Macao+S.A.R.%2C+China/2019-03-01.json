@@ -1,0 +1,83 @@
+[
+  {
+    "id": "dc18815",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc18815",
+    "name": "Grand Emperor Hotel",
+    "street": "288 Avenida Comercial De Macau",
+    "extended": "",
+    "locality": "",
+    "tel": "2888-9988"
+  },
+  {
+    "id": "dc26239",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26239",
+    "name": "Grand Hyatt Macau",
+    "street": "City of Dreams Estrada do Istmo",
+    "extended": "",
+    "locality": "",
+    "tel": "8868-1234"
+  },
+  {
+    "id": "dc40994",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40994",
+    "name": "Harbourview Hotel",
+    "street": "Harbourview Hotel Avenida Dr. Sun Yat-Sen",
+    "extended": "",
+    "locality": "",
+    "tel": "8799-6688"
+  },
+  {
+    "id": "dc28696",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28696",
+    "name": "MGM Cotai",
+    "street": "MGM Cotai",
+    "extended": "",
+    "locality": "",
+    "tel": "8806-8888"
+  },
+  {
+    "id": "dc40995",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc40995",
+    "name": "Macau Fisherman's Wharf",
+    "street": "Macau Fisherman's Wharf Avenida Dr. Sun Yat-Sen",
+    "extended": "",
+    "locality": "",
+    "tel": "8299-3300"
+  },
+  {
+    "id": "dc53079",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc53079",
+    "name": "Sands Cotai Central",
+    "street": "Sands Cotai Central",
+    "extended": "",
+    "locality": "",
+    "tel": "8118-3643"
+  },
+  {
+    "id": "dc20214",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20214",
+    "name": "Studio City Macau",
+    "street": "Estrada do Istmo Macau",
+    "extended": "",
+    "locality": "",
+    "tel": "8865-8888"
+  },
+  {
+    "id": "dc53077",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc53077",
+    "name": "The Parisian Macao",
+    "street": "The Parisian ",
+    "extended": "",
+    "locality": "",
+    "tel": "2882-8833"
+  },
+  {
+    "id": "dc15835",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc15835",
+    "name": "The Venetian Macao",
+    "street": "Estrada da Baia de Nossa Senhora da Esperanca",
+    "extended": "",
+    "locality": "",
+    "tel": "8118-3638"
+  }
+]
