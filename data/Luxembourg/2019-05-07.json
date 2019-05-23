@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dc11298",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11298",
+    "name": "Château d'Urspelt",
+    "street": "Am Schlass",
+    "extended": "",
+    "locality": "9774 Urspelt",
+    "tel": "+352 26 90 56 10"
+  },
+  {
+    "id": "dc47285",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47285",
+    "name": "Grand Hotel",
+    "street": "27 Route de Diekirch",
+    "extended": "",
+    "locality": "L-6430 Echternach",
+    "tel": " +352 72 96 72"
+  },
+  {
+    "id": "dc36783",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc36783",
+    "name": "Hostellerie Val Fleuri",
+    "street": "28 Rue Lohr",
+    "extended": "",
+    "locality": "7545 Mersch",
+    "tel": " +35 232 98 910"
+  },
+  {
+    "id": "dc34212",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc34212",
+    "name": "Hotel Meyer",
+    "street": "120 Grand-Rue",
+    "extended": "",
+    "locality": "6310 Beaufort",
+    "tel": " +352 83 62 62"
+  },
+  {
+    "id": "dc26338",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26338",
+    "name": "Hôtel & Spa Saint-Nicolas",
+    "street": "31 Esplanade",
+    "extended": "",
+    "locality": "5533 Remich",
+    "tel": " +35 2 26 66 30"
+  },
+  {
+    "id": "dc24435",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24435",
+    "name": "Hôtel Ecluse",
+    "street": "29 Waistrooss",
+    "extended": "",
+    "locality": "5450 Stadtbredimus",
+    "tel": " +352 23 61 91 91 "
+  },
+  {
+    "id": "dc17075",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17075",
+    "name": "Le Clervaux Boutique & Design Hotel",
+    "street": "9 Grand Rue",
+    "extended": "",
+    "locality": "9710 Clervaux",
+    "tel": " +352 92 11 05"
+  },
+  {
+    "id": "dc21411",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21411",
+    "name": "Park Inn by Radisson Luxembourg City",
+    "street": "45-47 Avenue de la Gare",
+    "extended": "",
+    "locality": "1611 Luxembourg",
+    "tel": " +35 22 68 91 81"
+  },
+  {
+    "id": "dc20384",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20384",
+    "name": "Sporthotel Leweck",
+    "street": "Lipperscheid-Delt, Lipperscheid, 9378 Luxembourg",
+    "extended": "",
+    "locality": "9378 Lipperscheid",
+    "tel": " +352 99 00 22"
+  },
+  {
+    "id": "dc24305",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24305",
+    "name": "Temps d'Or Hotel",
+    "street": "Vieux Chateau",
+    "extended": "",
+    "locality": "7411 Ansembourg",
+    "tel": " +352 2610 2595"
+  }
+]
