@@ -1,0 +1,569 @@
+[
+  {
+    "id": "dc28605",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28605",
+    "name": "ACI Marina Cres",
+    "street": "Obala Sv. Benedikta 3",
+    "extended": "",
+    "locality": "51557 Cres",
+    "tel": " +385 (0)51 571 622"
+  },
+  {
+    "id": "dc27976",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27976",
+    "name": "ACI Marina Dubrovnik",
+    "street": "Na Skali 2",
+    "extended": "",
+    "locality": "20236 Mokosica-Komolac",
+    "tel": " +385 20 455 020"
+  },
+  {
+    "id": "dc48971",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48971",
+    "name": "ACI Marina Jezera",
+    "street": "Obala Sv. Ivana 47/e",
+    "extended": "",
+    "locality": "22242 Jezera",
+    "tel": " +385 (0)22 439 315"
+  },
+  {
+    "id": "dc28603",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28603",
+    "name": "ACI Marina Opatija",
+    "street": "Liburnijska Cesta 7/a",
+    "extended": "",
+    "locality": "51414 Icici",
+    "tel": " +385 (0)51 704 004"
+  },
+  {
+    "id": "dc53428",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc53428",
+    "name": "ACI Marina Supetarska Draga",
+    "street": "Supetarska Draga",
+    "extended": "",
+    "locality": "51280 Rab",
+    "tel": " +385 (0)51 776 268"
+  },
+  {
+    "id": "dc48675",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48675",
+    "name": "ACI marina Korcula",
+    "street": "Setaliste Frana Krsinica",
+    "extended": "",
+    "locality": "20260 Korcula",
+    "tel": " +385 (0)20 711 661"
+  },
+  {
+    "id": "dc49379",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49379",
+    "name": "ACI marina MILNA",
+    "street": "Milna",
+    "extended": "",
+    "locality": "21405 Milna",
+    "tel": " +385 (0)21 636 306"
+  },
+  {
+    "id": "dc28245",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28245",
+    "name": "ACI marina Slano",
+    "street": "Slanica 2",
+    "extended": "",
+    "locality": "20232 Slano",
+    "tel": " +385 20 441 721"
+  },
+  {
+    "id": "dc28604",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28604",
+    "name": "ACI marina Split",
+    "street": "Uvala Baluni 8",
+    "extended": "",
+    "locality": "21000 Split",
+    "tel": " +385 21 398 548"
+  },
+  {
+    "id": "dc28602",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc28602",
+    "name": "ACI marina Umag",
+    "street": "Setaliste Vladimira Gortana 7",
+    "extended": "",
+    "locality": "52470 Umag",
+    "tel": " +385 52 741 066"
+  },
+  {
+    "id": "dc48972",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48972",
+    "name": "ACI marina VODICE",
+    "street": "Artina 13a",
+    "extended": "",
+    "locality": "22211 Vodice",
+    "tel": " +385 (0)22 443 068"
+  },
+  {
+    "id": "dc49380",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc49380",
+    "name": "ACI marina VRBOSKA",
+    "street": "Vrboska",
+    "extended": "",
+    "locality": "21463 Vrboska",
+    "tel": " +385 (0)21 774 018"
+  },
+  {
+    "id": "dc48672",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc48672",
+    "name": "ACI marina _IMUNI",
+    "street": "Obala 1",
+    "extended": "",
+    "locality": "23251 Simuni",
+    "tel": " +385 (0)23 697 457"
+  },
+  {
+    "id": "dc30448",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30448",
+    "name": "Apartment Hotel ZigZag Zagreb",
+    "street": "Petrinjska 9",
+    "extended": "",
+    "locality": "10000 Zagreb",
+    "tel": " +385 1 8895 433"
+  },
+  {
+    "id": "dc21672",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc21672",
+    "name": "Apartment Resort Kaldana",
+    "street": "Palit 346",
+    "extended": "",
+    "locality": "51280 Rab",
+    "tel": " +385 91 22 333 85"
+  },
+  {
+    "id": "dc42977",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42977",
+    "name": "Apartments Bianca Premantura",
+    "street": "Krse 63",
+    "extended": "",
+    "locality": "5200 Premantura",
+    "tel": " +385 98 190 83 65"
+  },
+  {
+    "id": "dc47570",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47570",
+    "name": "Apartments Dada",
+    "street": "ABATOVO 2, 532",
+    "extended": "",
+    "locality": "53270 Senj",
+    "tel": " +385 98 2451 70"
+  },
+  {
+    "id": "dc25231",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25231",
+    "name": "Arbiana hotel",
+    "street": "Obala Kralja Petra Kresimira IV 12",
+    "extended": "",
+    "locality": "51280 Rab",
+    "tel": " +38 551 775 900"
+  },
+  {
+    "id": "dc47567",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47567",
+    "name": "Arena One99 Glamping",
+    "street": "Pomer 26/B",
+    "extended": "",
+    "locality": "52203 Medulin",
+    "tel": " +385 52 573 746"
+  },
+  {
+    "id": "dc22744",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc22744",
+    "name": "Bila Lucica",
+    "street": "42840 Dolac-Primosten, Rtic",
+    "extended": "",
+    "locality": "22202 Dolac - Primosten",
+    "tel": " +385 915 927 525"
+  },
+  {
+    "id": "dc27538",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27538",
+    "name": "Bluesun Hotel Alan",
+    "street": "Ul. dr. Franje Tudmana 14",
+    "extended": "",
+    "locality": "23244 Starigrad",
+    "tel": " +385 023 209 050"
+  },
+  {
+    "id": "dc32755",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32755",
+    "name": "Bluesun Hotel Kaj",
+    "street": "Zagrebacka b.b.",
+    "extended": "",
+    "locality": "49246 Marija Bistrica",
+    "tel": " +38 549 326 600"
+  },
+  {
+    "id": "dc11617",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc11617",
+    "name": "Design Hotel Navis",
+    "street": "10 Ivana Matetica Ronjgova",
+    "extended": "",
+    "locality": "51410 Opatija",
+    "tel": " +385 51 444 600"
+  },
+  {
+    "id": "dc20290",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20290",
+    "name": "Dioklecijan Hotel & Residence",
+    "street": "45 Ul. Silvija Strahimira Kranjcevica",
+    "extended": "",
+    "locality": "21000 Split",
+    "tel": " +385 215 85 100"
+  },
+  {
+    "id": "dc30160",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30160",
+    "name": "Eco Aparthotel The Dreamers Club",
+    "street": "Lumbarda 51, 20263, Lumbarda, Croatia",
+    "extended": "",
+    "locality": "20263 Lumbarda",
+    "tel": " +386 31 606 608"
+  },
+  {
+    "id": "dc9868",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9868",
+    "name": "Esplanade Zagreb Hotel",
+    "street": "1 Mihanovieva",
+    "extended": "",
+    "locality": "10000 Zagreb",
+    "tel": " +385 1 4566 666"
+  },
+  {
+    "id": "dc9790",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9790",
+    "name": "Falkensteiner Hotel & Spa Iadera",
+    "street": "Resort Punta Skala",
+    "extended": "",
+    "locality": "23231 Petr_ane",
+    "tel": " +385 23 555 601"
+  },
+  {
+    "id": "dc39310",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39310",
+    "name": "Falkensteiner Hotel Park Punat",
+    "street": "Obala 102",
+    "extended": "",
+    "locality": "51521 Punat",
+    "tel": " +385 51 655 800"
+  },
+  {
+    "id": "dc17585",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc17585",
+    "name": "Hotel Bastion",
+    "street": "Ulica Bedemi zadarskih pobuna 13A",
+    "extended": "",
+    "locality": "23000 Zadar",
+    "tel": " +38523 494 950"
+  },
+  {
+    "id": "dc19309",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19309",
+    "name": "Hotel Bellevue",
+    "street": "9 Cikat ulica",
+    "extended": "",
+    "locality": "51550 Mali Losinj",
+    "tel": " +385 51 661 101"
+  },
+  {
+    "id": "dc16408",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16408",
+    "name": "Hotel Boskinac",
+    "street": "220 Skopaljska",
+    "extended": "",
+    "locality": "53291 Novalja",
+    "tel": " +385 536 635 00"
+  },
+  {
+    "id": "dc27537",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27537",
+    "name": "Hotel Elaphusa",
+    "street": "Put Zlatnog Rata 46",
+    "extended": "",
+    "locality": "21420 Bol",
+    "tel": " +385 213 062 00"
+  },
+  {
+    "id": "dc20272",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc20272",
+    "name": "Hotel Kvarner Palace",
+    "street": "1 Ul. Brace Dr. Sobol",
+    "extended": "",
+    "locality": "51260 Crikvenica",
+    "tel": " +385 513 800 00"
+  },
+  {
+    "id": "dc25075",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25075",
+    "name": "Hotel Medora Auri",
+    "street": "Ul. Tina Ujevica 7",
+    "extended": "",
+    "locality": "21327 Podgora",
+    "tel": " +38 521 602 100"
+  },
+  {
+    "id": "dc9810",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9810",
+    "name": "Hotel Monte Mulini",
+    "street": "3 A. Smareglia",
+    "extended": "",
+    "locality": "52210 Rovinj",
+    "tel": " +385 526 360 00"
+  },
+  {
+    "id": "dc16691",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc16691",
+    "name": "Hotel Split",
+    "street": "20 Strozanacka cesta",
+    "extended": "",
+    "locality": "21312 Podstrana",
+    "tel": " +385 21 420 420"
+  },
+  {
+    "id": "dc9845",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9845",
+    "name": "Kempinski Hotel Adriatic",
+    "street": "Alberi 300 A",
+    "extended": "",
+    "locality": "52475 Savudrija",
+    "tel": " +385 52 707 002"
+  },
+  {
+    "id": "dc9750",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9750",
+    "name": "Le Meridien Lav, Split",
+    "street": "2 Grljevacka ulica",
+    "extended": "",
+    "locality": "21312 Split",
+    "tel": " +385 21 500 500"
+  },
+  {
+    "id": "dc23024",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc23024",
+    "name": "Marina Baotic",
+    "street": "2 Don Petra Spika Street",
+    "extended": "",
+    "locality": "21218 Seget Donji",
+    "tel": " +385 21 79 81 82"
+  },
+  {
+    "id": "dc58913",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc58913",
+    "name": "Marina Frapa Dubrovnik",
+    "street": "Lapadska obala 21a",
+    "extended": "",
+    "locality": "20000 Dubrovnik",
+    "tel": " +385 20 422 266"
+  },
+  {
+    "id": "dc58911",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc58911",
+    "name": "Marina Frapa Rogoznica",
+    "street": "Uvala Soline 1",
+    "extended": "",
+    "locality": "22203 Rogoznica",
+    "tel": " +385 22 559 900"
+  },
+  {
+    "id": "dc32530",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc32530",
+    "name": "Marina Punat Hotel & Resort",
+    "street": "Kanajt 5,",
+    "extended": "",
+    "locality": "51521 Punat",
+    "tel": " +38 551 654 340"
+  },
+  {
+    "id": "dc25378",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25378",
+    "name": "Marvie Hotel & Health",
+    "street": "Periciceva 1",
+    "extended": "",
+    "locality": "21000 Split",
+    "tel": " +385 212 798 00"
+  },
+  {
+    "id": "dc39107",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39107",
+    "name": "National Park Paklenica",
+    "street": "Dr. Franje Tudmana 14a",
+    "extended": "",
+    "locality": "23244 Starigrad Paklenica",
+    "tel": " +385 98 983 3311"
+  },
+  {
+    "id": "dc39002",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39002",
+    "name": "National Park Vransko Lake",
+    "street": "Kralja petra svacica 2",
+    "extended": "",
+    "locality": "23210 Biograd na Moru",
+    "tel": " +38598 273354"
+  },
+  {
+    "id": "dc47568",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47568",
+    "name": "Park Plaza Belvedere Medulin",
+    "street": "Osipovica 33",
+    "extended": "",
+    "locality": "52203 Medulin",
+    "tel": " +385 (0)52 572 001"
+  },
+  {
+    "id": "dc47566",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc47566",
+    "name": "Park Plaza Verudela Pula",
+    "street": "Verudella 11",
+    "extended": "",
+    "locality": "52100 Pula",
+    "tel": " +385 (0)52 590 781"
+  },
+  {
+    "id": "dc24522",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24522",
+    "name": "Plava Laguna",
+    "street": "Jadranska 78",
+    "extended": "",
+    "locality": "52470 Umag",
+    "tel": " +385 52 713 000"
+  },
+  {
+    "id": "dc24521",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc24521",
+    "name": "Plava Laguna",
+    "street": "Katoro 20",
+    "extended": "",
+    "locality": "52470 Umag",
+    "tel": "013 799 9505"
+  },
+  {
+    "id": "dc26816",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26816",
+    "name": "Public Garage Ilijina Glavica",
+    "street": "Zagrebacka N/A, 20000, Dubrovnik, Croatia",
+    "extended": "",
+    "locality": "20000 Dubrovnik",
+    "tel": " +385 20 312 720"
+  },
+  {
+    "id": "dc19130",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19130",
+    "name": "Relais & Chauteaux Meneghetti",
+    "street": "Stancija Meneghetti 1",
+    "extended": "",
+    "locality": "52211 Bale",
+    "tel": " +385 525 288 00"
+  },
+  {
+    "id": "dc27965",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27965",
+    "name": "Remisens Hotel Admiral",
+    "street": "Marsala Tita 139",
+    "extended": "",
+    "locality": "51410 Opatija",
+    "tel": " +385 51 710 444"
+  },
+  {
+    "id": "dc26823",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26823",
+    "name": "Remisens Hotel Ambasador",
+    "street": "Feliksa Persica 5, 51410, Opatija, Croatia",
+    "extended": "",
+    "locality": "51410 Opatija",
+    "tel": " +385 51 710 444"
+  },
+  {
+    "id": "dc26818",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26818",
+    "name": "Remisens Hotel Giorgio II",
+    "street": "Liburnijska ulica N/A, 51414, Icici - Opatija, Croatia",
+    "extended": "",
+    "locality": "51414 Icici - Opatija",
+    "tel": " +385 51 710 444"
+  },
+  {
+    "id": "dc26820",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc26820",
+    "name": "Remisens Hotel Palace-Bellevue",
+    "street": "Marsala Tita 144/148, 51410, Opatija, Croatia",
+    "extended": "",
+    "locality": "51410 Opatija",
+    "tel": " +385 51 710 444"
+  },
+  {
+    "id": "dc57102",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc57102",
+    "name": "Restaurant Crna Svinja",
+    "street": "Ulica Ovcara 3",
+    "extended": "",
+    "locality": "31431 Cepin",
+    "tel": " +386 91 451 2676"
+  },
+  {
+    "id": "dc9715",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc9715",
+    "name": "Rixos Libertas Dubrovnik",
+    "street": "3 Liechtensteinov put",
+    "extended": "",
+    "locality": "20000 Dubrovnik",
+    "tel": " +385 20 200 000"
+  },
+  {
+    "id": "dc27536",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc27536",
+    "name": "Sentido Bluesun Berulia",
+    "street": "Frankopanska 66",
+    "extended": "",
+    "locality": "21322 Brela",
+    "tel": " +38 521 603 599"
+  },
+  {
+    "id": "dc39183",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc39183",
+    "name": "Stacija& Hotel - Bar - Restaurant",
+    "street": "Setaliste Miljenka i Dobrile 34",
+    "extended": "",
+    "locality": "21215 Kastel Luksic",
+    "tel": " +385 99 3847 553"
+  },
+  {
+    "id": "dc25233",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc25233",
+    "name": "Sun Gardens Dubrovnik",
+    "street": "Na moru 1",
+    "extended": "",
+    "locality": "20235 Dubrovnik",
+    "tel": " +385 203 615 00"
+  },
+  {
+    "id": "dc19703",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc19703",
+    "name": "Tui Blue Jadran",
+    "street": "Dracevice 46, 21325, Tuepi, Croatia",
+    "extended": "",
+    "locality": "21325 Tuepi",
+    "tel": " +385 21 601 111"
+  },
+  {
+    "id": "dc42979",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc42979",
+    "name": "Villa Karamba Senj",
+    "street": "Ulica Filipa Vukasovica 34",
+    "extended": "",
+    "locality": " Senj",
+    "tel": " +385 91 2555 825"
+  },
+  {
+    "id": "dc30492",
+    "url": "https://www.tesla.com/de_DE/findus/location/charger/dc30492",
+    "name": "Villas Adagio Barban",
+    "street": "Rojnici 30",
+    "extended": "",
+    "locality": "52207 Barban",
+    "tel": " +385 98 488 032"
+  }
+]
